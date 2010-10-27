@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-27 14:15+0900\n"
+"PO-Revision-Date: 2010-10-28 01:56+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -550,7 +550,7 @@ msgstr ""
 #. [unit_type]: id=Adamantine, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:5
 msgid "Adamantine"
-msgstr ""
+msgstr "アダマンタイン"
 
 #. [unit_type]: id=Adamantine, race=khthon
 #. [unit_type]: id=Rockback, race=khthon
@@ -580,7 +580,7 @@ msgstr "噛みつき"
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:137
 msgid "Adamantine (Hiding)"
-msgstr ""
+msgstr "アダマンタイン (閉じこもり)"
 
 #. [unit_type]: id=Adamantine_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:155
@@ -742,7 +742,7 @@ msgstr ""
 #. [unit_type]: id=Orthrus, race=khthon
 #: Archaic_Era/units/khthon/Orthrus.cfg:5
 msgid "Orthrus"
-msgstr ""
+msgstr "オルトロス"
 
 #. [unit_type]: id=Orthrus, race=khthon
 #: Archaic_Era/units/khthon/Orthrus.cfg:19
@@ -767,10 +767,11 @@ msgid ""
 "a distraction for any target."
 msgstr ""
 
+# [ja] jawpによれば「犬の先駆」を意味するらしい
 #. [unit_type]: id=Prokyon, race=khthon
 #: Archaic_Era/units/khthon/Prokyon.cfg:5
 msgid "Prokyon"
-msgstr ""
+msgstr "プロキオン"
 
 #. [unit_type]: id=Prokyon, race=khthon
 #: Archaic_Era/units/khthon/Prokyon.cfg:18
@@ -800,22 +801,22 @@ msgstr ""
 #. [unit_type]: id=Rockback, race=khthon
 #: Archaic_Era/units/khthon/Rock.cfg:5
 msgid "Rock Back"
-msgstr ""
+msgstr "ロックバック"
 
 #. [unit_type]: id=Rockback_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Rock.cfg:135
 msgid "Rock Back (Hiding)"
-msgstr ""
+msgstr "ロックバック (閉じこもり)"
 
 #. [unit_type]: id=Snapper, race=khthon
 #: Archaic_Era/units/khthon/Snapper.cfg:5
 msgid "Bone Snapper"
-msgstr ""
+msgstr "ボーンスナッパー"
 
 #. [unit_type]: id=Snapper_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Snapper.cfg:135
 msgid "Bone Snapper (Hiding)"
-msgstr ""
+msgstr "ボーンスナッパー (閉じこもり)"
 
 #. [unit_type]: id=BMR Spark, race=mechanical
 #. [attack]: type=fire
@@ -938,10 +939,11 @@ msgstr ""
 msgid "Sword"
 msgstr "剣"
 
+# [ja] enwpによると、中世で尤も有名な軍馬らしい
 #. [unit_type]: id=Orcish Destrier, race=orc
 #: Archaic_Era/units/orcs/Destrier.cfg:5
 msgid "Destrier"
-msgstr ""
+msgstr "デストリヤー"
 
 #. [unit_type]: id=Orcish Destrier, race=orc
 #: Archaic_Era/units/orcs/Destrier.cfg:20
@@ -961,7 +963,7 @@ msgstr "大剣"
 #. [unit_type]: id=Orcish Firebreather, race=orc
 #: Archaic_Era/units/orcs/Firebreather.cfg:4
 msgid "Orcish Firebreather"
-msgstr ""
+msgstr "オークの火吹き"
 
 #. [unit_type]: id=Orcish Firebreather, race=orc
 #: Archaic_Era/units/orcs/Firebreather.cfg:19
@@ -1012,14 +1014,14 @@ msgstr ""
 #. [unit_type]: id=Orcish Maurader, race=orc
 #: Archaic_Era/units/orcs/Maurader.cfg:5
 msgid "Orcish Maurader"
-msgstr ""
+msgstr "オークの襲撃者"
 
 #. [unit_type]: id=Orcish Maurader, race=orc
 #: Archaic_Era/units/orcs/Maurader.cfg:20
 msgid ""
 "The Mauraders wear an ugly bronze mask to make themselves more fearsome to "
 "the easily frightened humans."
-msgstr ""
+msgstr "襲撃者は、とても怖がりな人間をさらに恐怖に陥れるために醜い青銅の仮面を身につけています。"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Maurader.cfg:32 Archaic_Era/units/orcs/Raider.cfg:32
@@ -1043,7 +1045,7 @@ msgstr ""
 #. [unit_type]: id=Orcish Raider, race=orc
 #: Archaic_Era/units/orcs/Raider.cfg:5
 msgid "Orcish Raider"
-msgstr ""
+msgstr "オークの侵入者"
 
 #. [unit_type]: id=Orcish Raider, race=orc
 #: Archaic_Era/units/orcs/Raider.cfg:20
@@ -1072,7 +1074,7 @@ msgstr ""
 #: Archaic_Era/units/orcs/Stork_Rider.cfg:51
 #: Archaic_Era/units/orcs/Stork_Master.cfg:52
 msgid "beak"
-msgstr ""
+msgstr "クチバシ"
 
 #. [unit_type]: id=Stork Rider, race=wolf # does this need to be changed?
 #: Archaic_Era/units/orcs/Stork_Rider.cfg:4
@@ -1196,12 +1198,12 @@ msgstr "視線"
 #. [unit_type]: id=Tomb HighArcher, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_HighArcher.cfg:4
 msgid "High Archer"
-msgstr ""
+msgstr "巧みに射る者"
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/phantom/Tomb_HighArcher.cfg:92
 msgid "Blessed Missile"
-msgstr ""
+msgstr "祝福された弾丸"
 
 #. [unit_type]: id=Tomb Huntress, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Huntress.cfg:4
@@ -1222,18 +1224,18 @@ msgstr "剣"
 #. [attack]: type=blade
 #: Archaic_Era/units/phantom/Tomb_Master.cfg:90
 msgid "Claw"
-msgstr ""
+msgstr "かぎ爪"
 
 #. [unit_type]: id=Mummy King, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-King.cfg:4
 msgid "Mummy Noble"
-msgstr "高貴なマミー"
+msgstr "高貴なミイラ"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/phantom/Tomb_Mummy-Pharo.cfg:75
 #: Archaic_Era/units/phantom/Tomb_Mummy-King.cfg:74
 msgid "Sceptre"
-msgstr ""
+msgstr "王笏"
 
 #. [attack]: type=cold
 #. [attack]: type=arcane
@@ -1249,17 +1251,17 @@ msgstr "呪い"
 #. [unit_type]: id=Mummy Pharo, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-Pharo.cfg:4
 msgid "Mummy Pharo"
-msgstr ""
+msgstr "ファラオのミイラ"
 
 #. [unit_type]: id=Mummy Unbound, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy-Unbound.cfg:4
 msgid "Mummy Unbound"
-msgstr "解放されたマミー"
+msgstr "解放されたミイラ"
 
 #. [unit_type]: id=Tomb Mummy, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Mummy.cfg:4
 msgid "Mummy"
-msgstr "マミー"
+msgstr "ミイラ"
 
 #. [unit_type]: id=Tomb Protector, race=phantom_egypt
 #: Archaic_Era/units/phantom/Tomb_Protector.cfg:4
@@ -2614,7 +2616,7 @@ msgstr ""
 #. [unit_type]: id=Ukian War Hound, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:5
 msgid "War Hound"
-msgstr ""
+msgstr "軍馬"
 
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:5
@@ -2634,7 +2636,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:57
 msgid "strike"
-msgstr ""
+msgstr "打つ"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:5
@@ -2736,17 +2738,17 @@ msgstr "ドレイン、毒、疫病に免疫を持ちます"
 #. [trait]: id=aa_zealous
 #: Archaic_Era/utils/Archaic_abilities.cfg:24
 msgid "zealous"
-msgstr ""
+msgstr "熱狂"
 
 #. [trait]: id=aa_zealous
 #: Archaic_Era/utils/Archaic_abilities.cfg:25
 msgid "female^zealous"
-msgstr ""
+msgstr "熱狂"
 
 #. [trait]: id=aa_zealous
 #: Archaic_Era/utils/Archaic_abilities.cfg:26
 msgid "Zero upkeep"
-msgstr ""
+msgstr "維持費なし"
 
 #. [resistance]: id=aa_dance
 #: Archaic_Era/utils/Archaic_abilities.cfg:57
