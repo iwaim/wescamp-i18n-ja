@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-28 05:27+0900\n"
+"PO-Revision-Date: 2010-10-28 05:53+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgstr "南海の民"
 #: Archaic_Era/eras/heros/ukians_MP.cfg:5
 #: Archaic_Era/eras/base/ukians_MP.cfg:5 Archaic_Era/eras/rpg/ukians_MP.cfg:5
 msgid "Ukians"
-msgstr ""
+msgstr "ウキアン"
 
 #. [unit_type]: id=Phantom Armor, race=despair
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:5
@@ -1670,7 +1670,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Archaic_Era/units/primeval/Primevalist_Celebrant.cfg:44
 msgid "Condemnation"
-msgstr ""
+msgstr "有罪宣告"
 
 #. [unit_type]: id=Primevalist Fanatic, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Fanatic.cfg:5
@@ -1940,7 +1940,7 @@ msgstr ""
 #. [unit_type]: id=South-Seas Deck-Master, race=south-seas_human
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:5
 msgid "Deck-Master"
-msgstr ""
+msgstr "甲板長"
 
 #. [unit_type]: id=South-Seas Deck-Master, race=south-seas_human
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:22
@@ -1952,7 +1952,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: Archaic_Era/units/south-seas/Deck-Master.cfg:44
 msgid "Hook"
-msgstr ""
+msgstr "フック"
 
 #. [unit_type]: id=South-Seas Demolitionist, race=south-seas_human
 #: Archaic_Era/units/south-seas/Demolitionist.cfg:5
@@ -1975,12 +1975,12 @@ msgstr "潜水者"
 #: Archaic_Era/units/south-seas/Marines.cfg:61
 #: Archaic_Era/units/south-seas/Divers.cfg:59
 msgid "Harpoon"
-msgstr ""
+msgstr "銛"
 
 #. [female]
 #: Archaic_Era/units/south-seas/Divers.cfg:148
 msgid "female^Diver"
-msgstr ""
+msgstr "潜水者"
 
 #. [unit_type]: id=South-Seas Marine, race=south-seas_human
 #: Archaic_Era/units/south-seas/Marines.cfg:5
@@ -2010,7 +2010,7 @@ msgstr ""
 #: Archaic_Era/units/south-seas/Rover.cfg:38
 #: Archaic_Era/units/south-seas/Wolf.cfg:41
 msgid "Dart"
-msgstr ""
+msgstr "ダーツ"
 
 #. [unit_type]: id=South-Seas Salvager, race=south-seas_human
 #: Archaic_Era/units/south-seas/Salvager.cfg:5
@@ -2304,7 +2304,7 @@ msgstr "見習い"
 #. [unit_type]: id=Ukian Archer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Archer.cfg:4
 msgid "Ukian Archer"
-msgstr ""
+msgstr "ウキアンの射手"
 
 #. [unit_type]: id=Ukian Archer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Archer.cfg:20
@@ -2352,7 +2352,7 @@ msgstr "狂乱"
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:4
 msgid "Ukian Civilian"
-msgstr ""
+msgstr "ウキアンの市民"
 
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:20
@@ -2370,12 +2370,12 @@ msgstr "パンチ"
 #. [female]
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:89
 msgid "female^Civilian"
-msgstr ""
+msgstr "市民"
 
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:5
 msgid "Ukian Commander"
-msgstr ""
+msgstr "ウキアンの司令官"
 
 #. [unit_type]: id=Ukian Commander, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:32
@@ -2394,7 +2394,7 @@ msgstr "盾"
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:5
 msgid "Ukian Commando"
-msgstr ""
+msgstr "ウキアンの特攻隊"
 
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:21
@@ -2426,6 +2426,8 @@ msgid ""
 "Dog Trainer:\n"
 "This unit can lead Ukian Dogs that are next to it, making them fight better."
 msgstr ""
+"犬使い:\n"
+"このユニットは、隣接するウキアンの犬を使役し、上手く戦えるように指示します。"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:65
@@ -2437,7 +2439,7 @@ msgstr "スリング"
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:5
 msgid "Ukian Courrier"
-msgstr ""
+msgstr "ウキアンのクーリエ"
 
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:22
@@ -2450,7 +2452,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:5
 msgid "Ukian Deadeye"
-msgstr ""
+msgstr "ウキアンの名射手"
 
 #. [unit_type]: id=Ukian Deadeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Deadeye.cfg:22
@@ -2504,7 +2506,7 @@ msgstr "ハリア"
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:5
 msgid "Ukian Hawkeye"
-msgstr ""
+msgstr "ウキアン・ホークアイ"
 
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:21
@@ -2517,7 +2519,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Officer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Officer.cfg:5
 msgid "Ukian Officer"
-msgstr ""
+msgstr "ウキアンの将校"
 
 #. [unit_type]: id=Ukian Officer, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Officer.cfg:27
@@ -2535,7 +2537,7 @@ msgstr "投げナイフ"
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:5
 msgid "Ukian Regular"
-msgstr ""
+msgstr "ウキアンの正規兵"
 
 #. [unit_type]: id=Ukian Regular, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Regular.cfg:22
@@ -2573,7 +2575,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:5
 msgid "Ukian Seeress"
-msgstr ""
+msgstr "ウキアンの占い師"
 
 #. [unit_type]: id=Ukian Seeress, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Seeress.cfg:21
@@ -2629,7 +2631,7 @@ msgstr "軍馬"
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:5
 msgid "Ukian Witch"
-msgstr ""
+msgstr "ウキアンの魔女"
 
 #. [unit_type]: id=Ukian Witch, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:21
@@ -2649,17 +2651,17 @@ msgstr "打つ"
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:5
 msgid "race^Ukian Human"
-msgstr ""
+msgstr "ウキアン族"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:6
 msgid "race+female^Ukian Human"
-msgstr ""
+msgstr "ウキアン族"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:7
 msgid "race^Ukians"
-msgstr ""
+msgstr "ウキアン"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:9
@@ -2722,17 +2724,17 @@ msgstr ""
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:17
 msgid "race^Ukian Dog"
-msgstr ""
+msgstr "ウキアンの犬"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:18
 msgid "race+female^Ukian Dog"
-msgstr ""
+msgstr "ウキアンの犬"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:19
 msgid "race^Ukian Dogs"
-msgstr ""
+msgstr "ウキアンの犬"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:21
