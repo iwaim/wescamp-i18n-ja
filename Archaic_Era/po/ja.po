@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-28 01:56+0900\n"
+"PO-Revision-Date: 2010-10-28 02:29+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -2212,12 +2212,12 @@ msgstr "クロスボウ"
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:58
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:58
 msgid "scattershot"
-msgstr ""
+msgstr "散弾"
 
 #. [unit_type]: id=Northern Elite, race=human
 #: Archaic_Era/units/ukians/Royal_Elite.cfg:4
 msgid "Northern Warrior"
-msgstr ""
+msgstr "北部の勇士"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/ukians/Royal_Ranger.cfg:37
@@ -2241,12 +2241,12 @@ msgstr "ナイフ"
 #. [unit_type]: id=Northern Fighter, race=human
 #: Archaic_Era/units/ukians/Royal_Fighter.cfg:4
 msgid "Northern Fighter"
-msgstr ""
+msgstr "北部の戦士"
 
 #. [unit_type]: id=Northern Ranger, race=human
 #: Archaic_Era/units/ukians/Royal_Ranger.cfg:4
 msgid "Northern Ranger"
-msgstr ""
+msgstr "北部のレンジャー"
 
 #. [unit_type]: id=Northern Ranger, race=human
 #: Archaic_Era/units/ukians/Royal_Ranger.cfg:20
@@ -2271,7 +2271,7 @@ msgstr "槍"
 #: Archaic_Era/units/ukians/Royal_Ranger.cfg:59
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:86
 msgid "javelin"
-msgstr ""
+msgstr "ジャベリン"
 
 #. [unit_type]: id=Royal Sheriff, race=human
 #: Archaic_Era/units/ukians/Royal_Sheriff.cfg:4
@@ -2286,7 +2286,7 @@ msgstr "メイス"
 #. [unit_type]: id=Northern Soldier, race=human
 #: Archaic_Era/units/ukians/Royal_Soldier.cfg:4
 msgid "Northern Soldier"
-msgstr ""
+msgstr "北部の兵士"
 
 #. [unit_type]: id=Royal Vassal, race=human
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:4
@@ -2339,7 +2339,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Archaic_Era/units/ukians/Ukian_Attackdog.cfg:48
 msgid "fury"
-msgstr ""
+msgstr "狂乱"
 
 #. [unit_type]: id=Ukian Civilian, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:4
@@ -2357,7 +2357,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:25
 msgid "punch"
-msgstr ""
+msgstr "パンチ"
 
 #. [female]
 #: Archaic_Era/units/ukians/Ukian_Civilian.cfg:89
@@ -2381,7 +2381,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Ukian_Commander.cfg:70
 msgid "shield"
-msgstr ""
+msgstr "盾"
 
 #. [unit_type]: id=Ukian Commando, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:5
@@ -2401,14 +2401,14 @@ msgstr ""
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:30
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:30
 msgid "dog trainer"
-msgstr ""
+msgstr "犬使い"
 
 #. [leadership]: id=leadership
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:38
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:31
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:31
 msgid "dog female^trainer"
-msgstr ""
+msgstr "犬使い"
 
 #. [leadership]: id=leadership
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:40
@@ -2424,7 +2424,7 @@ msgstr ""
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:66
 #: Archaic_Era/units/ukians/Ukian_Commando.cfg:77
 msgid "sling"
-msgstr ""
+msgstr "スリング"
 
 #. [unit_type]: id=Ukian Courrier, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Courrier.cfg:5
@@ -2455,7 +2455,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Dog, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Dog.cfg:5
 msgid "Dog"
-msgstr ""
+msgstr "犬"
 
 #. [unit_type]: id=Ukian Dog, race=ukiandog
 #. [unit_type]: id=Ukian Harrier, race=ukiandog
@@ -2491,7 +2491,7 @@ msgstr "斧"
 #. [unit_type]: id=Ukian Harrier, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Harrier.cfg:5
 msgid "Harrier"
-msgstr ""
+msgstr "ハリア"
 
 #. [unit_type]: id=Ukian Hawkeye, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Hawkeye.cfg:5
@@ -2718,7 +2718,7 @@ msgstr ""
 msgid ""
 "Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,"
 "Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
-msgstr ""
+msgstr "Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
 
 #. [trait]: id=aa_phantom
 #: Archaic_Era/utils/Archaic_abilities.cfg:10
@@ -2849,10 +2849,12 @@ msgid ""
 "This unit is stone in the daylight, if not next to an ally or in a village, "
 "but is always mobile at night."
 msgstr ""
+"石:\n"
+"このユニットは、同盟者の横にいるときや村にいるとき以外、そして日中は石となります。夜中はいつでも動けます。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:421
 msgid "release stoned victims"
-msgstr ""
+msgstr "石化の犠牲者を解放する"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:457
 #: Archaic_Era/utils/Archaic_abilities.cfg:502
@@ -2877,6 +2879,8 @@ msgid ""
 "Scattershot:\n"
 "This attack always has at least a 70% chance to hit."
 msgstr ""
+"散弾:\n"
+"この攻撃はいつでも、最低でも 70% の命中率となります。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:735
 msgid "vector damage"
@@ -2890,7 +2894,7 @@ msgstr ""
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:748
 msgid "Vector"
-msgstr "Vector"
+msgstr ""
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:757
 msgid "vector"
@@ -2910,15 +2914,15 @@ msgstr ""
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1144
 msgid "Possessed"
-msgstr ""
+msgstr "取り憑かれた"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1334
 msgid "hide in shell"
-msgstr ""
+msgstr "甲羅に閉じこもる"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1354
 msgid "stop hiding"
-msgstr ""
+msgstr "閉じこもるのをやめる"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1464
 msgid "selfheal"
