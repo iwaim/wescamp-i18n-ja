@@ -9,10 +9,10 @@ msgstr ""
 "PO-Revision-Date: 2010-10-28 05:27+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [era]: id=ARCHAIC_ERA
@@ -218,7 +218,8 @@ msgid ""
 "been petrified may not move or attack."
 msgstr ""
 "石化:\n"
-"\tこの攻撃は、対象を石化することで動けなくします。石化したユニットは動くことも攻撃することもできません。"
+"\tこの攻撃は、対象を石化することで動けなくします。石化したユニットは動くこと"
+"も攻撃することもできません。"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/despair/Phantom_Armor.cfg:106
@@ -458,7 +459,8 @@ msgid ""
 "been petrified may not move or attack until the curse wears off."
 msgstr ""
 "石化:\n"
-"\tこの攻撃は、対象を石化することで動けなくします。石化したユニットは呪いをとくまで動くことも攻撃することもできません。"
+"\tこの攻撃は、対象を石化することで動けなくします。石化したユニットは呪いをと"
+"くまで動くことも攻撃することもできません。"
 
 #. [unit_type]: id=Phantom Stone, race=despair
 #: Archaic_Era/units/despair/Phantom_Stone.cfg:5
@@ -624,7 +626,9 @@ msgstr "馬"
 msgid ""
 "Horses are strong and fast, but fragile. They do not usually attack people "
 "though, so something is wrong..."
-msgstr "馬は強くて速いが、打たれ弱い。通常は人を攻撃することはないが、誰かが悪いことをすると……"
+msgstr ""
+"馬は強くて速いが、打たれ弱い。通常は人を攻撃することはないが、誰かが悪いこと"
+"をすると……"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/ukians/Royal_Vassal.cfg:40
@@ -842,7 +846,9 @@ msgstr "亀"
 msgid ""
 "The terrapin can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
-msgstr "亀は (右クリックオプションで) 甲羅に閉じこもり、防御力を向上させることができます。しかし、その状態では移動も攻撃もできません。"
+msgstr ""
+"亀は (右クリックオプションで) 甲羅に閉じこもり、防御力を向上させることができ"
+"ます。しかし、その状態では移動も攻撃もできません。"
 
 #. [unit_type]: id=Terrapin_Hiding, race=khthon
 #: Archaic_Era/units/khthon/Terrapin.cfg:98
@@ -1021,7 +1027,9 @@ msgstr "オークの襲撃者"
 msgid ""
 "The Mauraders wear an ugly bronze mask to make themselves more fearsome to "
 "the easily frightened humans."
-msgstr "襲撃者は、とても怖がりな人間をさらに恐怖に陥れるために醜い青銅の仮面を身につけています。"
+msgstr ""
+"襲撃者は、とても怖がりな人間をさらに恐怖に陥れるために醜い青銅の仮面を身につ"
+"けています。"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Maurader.cfg:32 Archaic_Era/units/orcs/Raider.cfg:32
@@ -2664,7 +2672,14 @@ msgid ""
 "assault, so there was no time for studying. However, with their recent "
 "reacquaintance with the people of Wesnoth, they have just started training "
 "mages."
-msgstr "ウキアンは凍てつく北の大地からやってきました。浅はかな Wesnoth 居住計画の末裔を失い、彼らは文明から断ち切られました。敵対するオーク族に取り囲まれたため、野蛮な力や途方もない資源を必要とせず、迅速な通信と動員を用いた 生存のための戦略を生み出す必要がありました。オーク族の襲撃から すべての男女が生き延びねばならなかったため、研究に費やす時間は全くありませんでした。しかしながら、近年になって Wesnoth の民との交流を再開し、ちょうど魔法使いの育成をはじめたところです。"
+msgstr ""
+"ウキアンは凍てつく北の大地からやってきました。浅はかな Wesnoth 居住計画の末裔"
+"を失い、彼らは文明から断ち切られました。敵対するオーク族に取り囲まれたため、"
+"野蛮な力や途方もない資源を必要とせず、迅速な通信と動員を用いた 生存のための戦"
+"略を生み出す必要がありました。オーク族の襲撃から すべての男女が生き延びねばな"
+"らなかったため、研究に費やす時間は全くありませんでした。しかしながら、近年に"
+"なって Wesnoth の民との交流を再開し、ちょうど魔法使いの育成をはじめたところで"
+"す。"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:11
@@ -2677,7 +2692,15 @@ msgid ""
 "Nuadha,Olcan,Osan,Peredur,Piran,Ruadhan,Ruarc,Scoithin,Sioda,Siollan,"
 "Teutorigos,Tighearnach,Tiobraide,Torcan,Triston,Tuathal,Tuireann,Ultan,"
 "Vercingetorix"
-msgstr "Abban,Aibhne,Aiden,Ailill,Allen,Artan,Bairrfhionn,Bevan,Bowen,Braeden,Bretach,Brogan,Buadhach,Cadeyrn,Calbhach,Caradog,Carden,Cearbhall,Coalan,Cuan,Daigh,Daimhin,Deverell,Dubhaltach,Eadoin,Eben,Eoghan,Eunan,Faolan,Fhaen Darach,Gahareet,Gavin,Irial,Jodoc,Kedehern,Koun,Laoire,Lorcan,Lughaidh,Lugobelinos,Lugovalos,Maol Mhurire,Maponos,Marcan,Morann,Morcant,Murchadh,Nuadha,Olcan,Osan,Peredur,Piran,Ruadhan,Ruarc,Scoithin,Sioda,Siollan,Teutorigos,Tighearnach,Tiobraide,Torcan,Triston,Tuathal,Tuireann,Ultan,Vercingetorix"
+msgstr ""
+"Abban,Aibhne,Aiden,Ailill,Allen,Artan,Bairrfhionn,Bevan,Bowen,Braeden,"
+"Bretach,Brogan,Buadhach,Cadeyrn,Calbhach,Caradog,Carden,Cearbhall,Coalan,"
+"Cuan,Daigh,Daimhin,Deverell,Dubhaltach,Eadoin,Eben,Eoghan,Eunan,Faolan,Fhaen "
+"Darach,Gahareet,Gavin,Irial,Jodoc,Kedehern,Koun,Laoire,Lorcan,Lughaidh,"
+"Lugobelinos,Lugovalos,Maol Mhurire,Maponos,Marcan,Morann,Morcant,Murchadh,"
+"Nuadha,Olcan,Osan,Peredur,Piran,Ruadhan,Ruarc,Scoithin,Sioda,Siollan,"
+"Teutorigos,Tighearnach,Tiobraide,Torcan,Triston,Tuathal,Tuireann,Ultan,"
+"Vercingetorix"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:12
@@ -2688,7 +2711,13 @@ msgid ""
 "Iseult,Laoise,Liadan,Liobhan,Moncha,Muireann,Nantosuelta,Naohm,Nuala,Orlaith,"
 "Raelin,Rathnait,Reannon,Rhiannon,Ronat,Saorla,Sarnait,Scothnait,Seanna,"
 "Taillte,Trista,Tuilaith,Uaine,Ula,Vanora"
-msgstr "Aideen,Ainder,Ardara,Avalbane,Betony,Blathnaid,Bonduca,Bronach,Bryher,Cartimandua,Ceara,Cinnia,Ciar,Cliodhna,Crobh Dearg,Damhnait,Deabhail,Dunfhlaith,Edda,Eddana,Fachtna,Fhina,Fianait,Gormlaith,Grian,Innogen,Kendra,Iseult,Laoise,Liadan,Liobhan,Moncha,Muireann,Nantosuelta,Naohm,Nuala,Orlaith,Raelin,Rathnait,Reannon,Rhiannon,Ronat,Saorla,Sarnait,Scothnait,Seanna,Taillte,Trista,Tuilaith,Uaine,Ula,Vanora"
+msgstr ""
+"Aideen,Ainder,Ardara,Avalbane,Betony,Blathnaid,Bonduca,Bronach,Bryher,"
+"Cartimandua,Ceara,Cinnia,Ciar,Cliodhna,Crobh Dearg,Damhnait,Deabhail,"
+"Dunfhlaith,Edda,Eddana,Fachtna,Fhina,Fianait,Gormlaith,Grian,Innogen,Kendra,"
+"Iseult,Laoise,Liadan,Liobhan,Moncha,Muireann,Nantosuelta,Naohm,Nuala,Orlaith,"
+"Raelin,Rathnait,Reannon,Rhiannon,Ronat,Saorla,Sarnait,Scothnait,Seanna,"
+"Taillte,Trista,Tuilaith,Uaine,Ula,Vanora"
 
 #. [race]: id=ukiandog
 #: Archaic_Era/units/ukians_race.cfg:17
@@ -2718,7 +2747,9 @@ msgstr ""
 msgid ""
 "Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,"
 "Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
-msgstr "Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
+msgstr ""
+"Bal,Bear,Bellus,Car,Coun,Dach,Don,Earl,Fhar,Gan,Howler,Irid,Joc,Kar,Kech,Lug,"
+"Mach,Nantos,Orach,Perro,Raen,Sean,Troe,Valos"
 
 #. [trait]: id=aa_phantom
 #: Archaic_Era/utils/Archaic_abilities.cfg:10
@@ -2792,8 +2823,10 @@ msgstr ""
 "回復 +{AMT}:\n"
 "このユニットは隣接した友好的なユニットをターン開始時に回復させます。\n"
 "\n"
-"このユニットに治療されるユニットは 1 ターンに最大でHPが {AMT} 回復します。もしくは、そのターンに毒の効果が発動しないようにします。\n"
-"毒を受けているユニットの解毒を行うことはできません。村で回復させるか、治療ユニットを捜して下さい。"
+"このユニットに治療されるユニットは 1 ターンに最大でHPが {AMT} 回復します。も"
+"しくは、そのターンに毒の効果が発動しないようにします。\n"
+"毒を受けているユニットの解毒を行うことはできません。村で回復させるか、治療ユ"
+"ニットを捜して下さい。"
 
 #. [regenerate]: id=aa_immortal
 #: Archaic_Era/utils/Archaic_abilities.cfg:94
@@ -2812,7 +2845,8 @@ msgid ""
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 "不滅:\n"
-"このユニットはヒットポイントが毎ターン 99 ポイント回復します。もし毒におかされている場合は毒が消え去ります。"
+"このユニットはヒットポイントが毎ターン 99 ポイント回復します。もし毒におかさ"
+"れている場合は毒が消え去ります。"
 
 #. [dummy]: id=aa_intangible
 #: Archaic_Era/utils/Archaic_abilities.cfg:106
@@ -2850,7 +2884,8 @@ msgid ""
 "but is always mobile at night."
 msgstr ""
 "石:\n"
-"このユニットは、同盟者の横にいるときや村にいるとき以外、そして日中は石となります。夜中はいつでも動けます。"
+"このユニットは、同盟者の横にいるときや村にいるとき以外、そして日中は石となり"
+"ます。夜中はいつでも動けます。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:421
 msgid "release stoned victims"
@@ -2872,7 +2907,8 @@ msgid ""
 "start, but they can still attack."
 msgstr ""
 "縛りつけ:\n"
-"防御側は、攻撃者が隣接している間は移動することができません。しかし、攻撃することは可能です。"
+"防御側は、攻撃者が隣接している間は移動することができません。しかし、攻撃する"
+"ことは可能です。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:722
 msgid ""
@@ -2934,7 +2970,8 @@ msgid ""
 "This unit heals {AMT} HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
 "自己治癒:\n"
-"このユニットはヒットポイントが毎ターン {AMT} ポイント回復します。もし毒におかされている場合は毒が消え去ります。"
+"このユニットはヒットポイントが毎ターン {AMT} ポイント回復します。もし毒におか"
+"されている場合は毒が消え去ります。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1482
 msgid "penumbra"
