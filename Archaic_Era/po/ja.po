@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-28 02:29+0900\n"
+"PO-Revision-Date: 2010-10-28 05:27+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "Language: \n"
@@ -2664,7 +2664,7 @@ msgid ""
 "assault, so there was no time for studying. However, with their recent "
 "reacquaintance with the people of Wesnoth, they have just started training "
 "mages."
-msgstr ""
+msgstr "ウキアンは凍てつく北の大地からやってきました。浅はかな Wesnoth 居住計画の末裔を失い、彼らは文明から断ち切られました。敵対するオーク族に取り囲まれたため、野蛮な力や途方もない資源を必要とせず、迅速な通信と動員を用いた 生存のための戦略を生み出す必要がありました。オーク族の襲撃から すべての男女が生き延びねばならなかったため、研究に費やす時間は全くありませんでした。しかしながら、近年になって Wesnoth の民との交流を再開し、ちょうど魔法使いの育成をはじめたところです。"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:11
