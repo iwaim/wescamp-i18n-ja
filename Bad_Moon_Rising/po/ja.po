@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.8.4+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-24 21:56+0200\n"
-"PO-Revision-Date: 2010-10-30 06:54+0900\n"
+"PO-Revision-Date: 2010-10-30 07:44+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "パート 1: 覚醒（プロローグ）"
 #. [campaign]: id=Bad_Moon_Rising_I
 #: Bad_Moon_Rising/_main.cfg:30
 msgid "BMR1"
-msgstr ""
+msgstr "BMR1"
 
 #. [campaign]: id=Bad_Moon_Rising_I
 #. [campaign]: id=Bad_Moon_Rising
@@ -89,7 +89,7 @@ msgstr "パート 2: 北の果て"
 #. [campaign]: id=Bad_Moon_Rising
 #: Bad_Moon_Rising/_main.cfg:52
 msgid "BMR2"
-msgstr ""
+msgstr "BMR2"
 
 #. [campaign]: id=Bad_Moon_Rising
 #. [campaign]: id=Bad_Moon_Rising_III
@@ -125,7 +125,7 @@ msgstr "パート 3: 集中攻撃"
 #. [campaign]: id=Bad_Moon_Rising_III
 #: Bad_Moon_Rising/_main.cfg:74
 msgid "BMR3"
-msgstr ""
+msgstr "BMR3"
 
 #. [campaign]: id=Bad_Moon_Rising_III
 #: Bad_Moon_Rising/_main.cfg:80
@@ -302,7 +302,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:39
 msgid "Escape the Trolls"
-msgstr ""
+msgstr "トロルから逃げ延びる"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:25
@@ -312,12 +312,12 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:61
 #: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:49
 msgid "Death of Scarrion"
-msgstr ""
+msgstr "Scarrion の死"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:47
 msgid "Death of Therion"
-msgstr ""
+msgstr "Therion の死"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/utils/skirmish.cfg:1482
@@ -329,12 +329,12 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:63
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:701
 msgid "Time Runs Out"
-msgstr ""
+msgstr "時間切れ"
 
 #. [unit]: type=Bowman, id=Therion
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:74
 msgid "Therion"
-msgstr ""
+msgstr "Therion"
 
 #. [unit]: type=Footpad, id=Russle
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:86
@@ -539,14 +539,14 @@ msgstr ""
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:21
 msgid "Scarrion survives to the end of turns"
-msgstr ""
+msgstr "Scarrion がターンの最後まで生き延びる"
 
 #. [side]: type=Necromancer, id=Malevan
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:43
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:233
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:150
 msgid "Malevan"
-msgstr ""
+msgstr "Malevan"
 
 #. [message]: speaker=Therion
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:122
@@ -607,7 +607,7 @@ msgstr ""
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:285
 msgid "Therion!"
-msgstr ""
+msgstr "Therion！"
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios1/0_02_Bad.cfg:303
@@ -693,7 +693,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:45
 msgid "Defeat Opponent"
-msgstr ""
+msgstr "Opponent を倒す"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios3/2_04_Pond.cfg:40
@@ -713,7 +713,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:40
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:626
 msgid "Time runs out"
-msgstr ""
+msgstr "時間切れ"
 
 #. [objectives]
 #: Bad_Moon_Rising/scenarios1/0_02b_Trial.cfg:55
@@ -877,7 +877,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:103
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:113
 msgid "Ghost of Russle"
-msgstr ""
+msgstr "Russle の幽霊"
 
 #. [unit]: type=BMR_Ghost_Dwarvish_Fighter, id=GAltos
 #. [unit]: type=BMR_Ghost_Steelclad, id=GAltos
@@ -887,7 +887,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:151
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:162
 msgid "Ghost of Altos"
-msgstr ""
+msgstr "Altos の幽霊"
 
 #. [unit]: type=BMR_Ghost_Bowman, id=GTherion
 #. [unit]: type=BMR_Ghost_Longbowman, id=GTherion
@@ -897,7 +897,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:199
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:209
 msgid "Ghost of Therion"
-msgstr ""
+msgstr "Therion の幽霊"
 
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:452
@@ -910,7 +910,7 @@ msgstr ""
 #. [message]: speaker=GTherion
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:456
 msgid "Scarrion... Don't forget us..."
-msgstr ""
+msgstr "Scarrion……私たちを忘れないでくれ……"
 
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios1/0_03_Unbreakable.cfg:460
@@ -1076,7 +1076,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_03_Knell.cfg:172
 #: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:186
 msgid "Athanta"
-msgstr ""
+msgstr "Athanta"
 
 #. [message]: speaker=Athanta
 #: Bad_Moon_Rising/scenarios1/0_04_Darkside.cfg:200
@@ -1213,7 +1213,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:53
 msgid "Slay Malevan"
-msgstr ""
+msgstr "Malevan を殺す"
 
 #. [objectives]
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:63
@@ -1235,12 +1235,12 @@ msgstr ""
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:282
 msgid "Close off that tunnel!"
-msgstr ""
+msgstr "そのトンネルを閉じるぞ！"
 
 #. [message]: speaker=Scarrion
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:305
 msgid "Closed!"
-msgstr ""
+msgstr "閉じよ！"
 
 #. [message]: speaker=unit
 #: Bad_Moon_Rising/scenarios1/0_05_Payback.cfg:311
@@ -1392,7 +1392,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_02_World.cfg:46
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:60
 msgid "Lorenzon"
-msgstr ""
+msgstr "Lorenzon"
 
 #. [side]: type=Lieutenant, id=Cantwell
 #. [side]: type=Lieutenant, id=Officer Cantwell
@@ -1407,21 +1407,21 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:66
 #: Bad_Moon_Rising/scenarios2/1_07_Crush.cfg:195
 msgid "King Huric"
-msgstr ""
+msgstr "Huric 王"
 
 #. [unit]: type=Pikeman, id=Carusoe
 #. [side]: type=Pikeman, id=Carusoe
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:83
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:111
 msgid "Carusoe"
-msgstr ""
+msgstr "Carusoe"
 
 #. [unit]: type=Swordsman, id=Bahren
 #. [side]: type=Swordsman, id=Bahren
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:89
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:94
 msgid "Bahren"
-msgstr ""
+msgstr "Bahren"
 
 #. [unit]: type=General
 #. [side]: type=General, id=Norton
@@ -1457,7 +1457,7 @@ msgstr ""
 msgid ""
 "I want the two of you to go to Gornath and correct whatever the problem may "
 "be."
-msgstr ""
+msgstr "お主たち2人で Gornath に行き、どのような問題であれ、解決してくるのだ。"
 
 #. [unit]: type=General, id=Maskov
 #. [side]: type=General, id=General Maskov
@@ -1474,19 +1474,19 @@ msgid ""
 "Lord Huric! Fort Kuhle is under attack! I've sent cavalry to assist General "
 "Drago, but scouts report that the orcish assault is massive. I am ready to "
 "mobilize my forces upon your word!"
-msgstr ""
+msgstr "Huric 陛下！Kuhle の砦が攻撃を受けています！Drago 将軍を支援するため騎兵を派遣しました。しかし、偵察隊はオークの攻撃が大規模であることを報告しています。我が軍団は既に出征の準備ができています。後は陛下の言葉を待つだけです！"
 
 #. [message]: speaker=Huric
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:151
 msgid ""
 "That will not be necessary... General Burton will go to Fort Kuhle, you will "
 "await further orders."
-msgstr ""
+msgstr "その必要はない……Burton 将軍が Kuhle の砦へ出征する予定だ。お主には別の命がある。"
 
 #. [message]: speaker=Maskov
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:155
 msgid "Yes, Lord Huric."
-msgstr ""
+msgstr "Huric 陛下、了解しました。"
 
 #. [message]: speaker=Burton
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:159
@@ -1508,19 +1508,19 @@ msgstr ""
 #. [message]: speaker=Huric
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:187
 msgid "Oh, and Lieutenant Cantwell!"
-msgstr ""
+msgstr "そして、Cantwell 副官よ！"
 
 #. [message]: speaker=Cantwell
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:191
 msgid "Yes, my lord?"
-msgstr ""
+msgstr "なんでございましょう？"
 
 #. [message]: speaker=Huric
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:195
 msgid ""
 "The problem with Gornath may have nothing to do with orcs. Do whatever needs "
 "to be done... Understood?"
-msgstr ""
+msgstr "Gornath の問題はオーク族と関係があるのかもしれん。何をすればいいのか……わかるか？"
 
 #. [message]: speaker=Cantwell
 #. [message]: speaker=Dragoon1
@@ -1533,7 +1533,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:755
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:829
 msgid "Yes, my lord!"
-msgstr ""
+msgstr "はい、陛下！"
 
 #. [scenario]: id=1_01_Enough
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:4
@@ -1594,7 +1594,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:693
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:44
 msgid "Death of Lorenzon"
-msgstr ""
+msgstr "Lorenzon の死"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:36
@@ -1604,7 +1604,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:52
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:48
 msgid "Death of Duval"
-msgstr ""
+msgstr "Duval の死"
 
 #. [objectives]
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:51
@@ -1614,27 +1614,27 @@ msgstr ""
 #. [unit]: type=Spearman, id=Bellos
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:76
 msgid "Patrolman Bellos"
-msgstr ""
+msgstr "Bellos 巡査"
 
 #. [unit]: type=Spearman, id=Tach
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:87
 msgid "Patrolman Tach"
-msgstr ""
+msgstr "Tach 巡査"
 
 #. [unit]: type=Spearman, id=Valos
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:98
 msgid "Patrolman Valos"
-msgstr ""
+msgstr "Valos 巡査"
 
 #. [side]: type=Peasant, id=Burgen
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:163
 msgid "Burgen"
-msgstr ""
+msgstr "Burgen"
 
 #. [side]: type=Thug, id=Lyle
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:179
 msgid "Lyle"
-msgstr ""
+msgstr "Lyle"
 
 #. [unit]: id=Farmer1, type=Peasant
 #. [unit]: id=Farmer4, type=Peasant
@@ -1643,7 +1643,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:236
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:248
 msgid "Bellicose Farmer"
-msgstr ""
+msgstr "敵意に満ちた農民"
 
 #. [unit]: id=Farmer2, type=Peasant
 #. [unit]: id=Farmer3, type=Peasant
@@ -1654,29 +1654,29 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:260
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:272
 msgid "Angry Farmer"
-msgstr ""
+msgstr "怒っている農民"
 
 #. [unit]: id=Hooligan1, type=Footpad
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:284
 msgid "Thompson"
-msgstr ""
+msgstr "Thompson"
 
 #. [unit]: id=Hooligan2, type=Ruffian
 #. [unit]: id=Hooligan3, type=Ruffian
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:296
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:308
 msgid "Rioter"
-msgstr ""
+msgstr "Rioter"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:324
 msgid "It looks like a riot."
-msgstr ""
+msgstr "暴動のようだな。"
 
 #. [message]: speaker=Officer Cantwell
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:328
 msgid "Hey! What's going on here?"
-msgstr ""
+msgstr "おい！この地では何が起こっているんだ？"
 
 #. [message]: speaker=Lyle
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:332
@@ -1689,7 +1689,7 @@ msgstr ""
 msgid ""
 "Lyle, you are a fool! Huric will kill us all - if the orcs don't get us "
 "first!"
-msgstr ""
+msgstr "Lyle、お前は馬鹿か！オーク族が我らを殺さずとも、Huric は我らを皆殺しにするぞ。"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios2/1_01_Enough.cfg:340
