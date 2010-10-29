@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-28 05:53+0900\n"
+"PO-Revision-Date: 2010-10-30 02:07+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -537,17 +537,17 @@ msgstr ""
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:17
 msgid "race^Wisp"
-msgstr ""
+msgstr "ウィスプ"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:18
 msgid "race+female^Wisp"
-msgstr ""
+msgstr "ウィスプ"
 
 #. [race]: id=despair_wisp
 #: Archaic_Era/units/despair_race.cfg:19
 msgid "race^Wisps"
-msgstr ""
+msgstr "ウィスプ"
 
 #. [unit_type]: id=Adamantine, race=khthon
 #: Archaic_Era/units/khthon/Adamantine.cfg:5
@@ -639,7 +639,7 @@ msgstr "蹴り"
 #. [unit_type]: id=Hypergusa, race=khthon
 #: Archaic_Era/units/khthon/Hypergusa.cfg:5
 msgid "Hypergusa"
-msgstr ""
+msgstr "ハイパーグサ"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/khthon/Hypergusa.cfg:40
@@ -657,7 +657,7 @@ msgstr "唾"
 #. [unit_type]: id=Katoblepon-Magnum, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon-Magnum.cfg:5
 msgid "Katoblepon-Magnum"
-msgstr ""
+msgstr "カトブレポン・マグナム"
 
 #. [attack]: type=impact
 #: Archaic_Era/units/orcs/Destrier.cfg:39
@@ -678,7 +678,7 @@ msgstr "吐息"
 #. [unit_type]: id=Katoblepon, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon.cfg:5
 msgid "Katoblepon"
-msgstr ""
+msgstr "カトブレポン"
 
 #. [unit_type]: id=Katoblepon, race=khthon
 #: Archaic_Era/units/khthon/Katoblepon.cfg:19
@@ -706,7 +706,7 @@ msgstr ""
 #. [unit_type]: id=Ophis-Magnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:5
 msgid "Ophis-Magnum"
-msgstr ""
+msgstr "オーフィス・マグナム"
 
 #. [unit_type]: id=Ophis-Magnum, race=khthon
 #: Archaic_Era/units/khthon/Ophis-Magnum.cfg:19
@@ -732,7 +732,7 @@ msgstr "尻尾"
 #. [unit_type]: id=Ophis, race=khthon
 #: Archaic_Era/units/khthon/Ophis.cfg:5
 msgid "Ophis"
-msgstr ""
+msgstr "オーフィス"
 
 #. [unit_type]: id=Ophis, race=khthon
 #: Archaic_Era/units/khthon/Ophis.cfg:18
@@ -761,7 +761,7 @@ msgstr ""
 #. [unit_type]: id=Pegusa, race=khthon
 #: Archaic_Era/units/khthon/Pegusa.cfg:5
 msgid "Pegusa"
-msgstr ""
+msgstr "ペグサ"
 
 #. [unit_type]: id=Pegusa, race=khthon
 #: Archaic_Era/units/khthon/Pegusa.cfg:18
@@ -788,7 +788,7 @@ msgstr ""
 #. [unit_type]: id=Pyradalon, race=khthon
 #: Archaic_Era/units/khthon/Pyradalon.cfg:5
 msgid "Pyradalon"
-msgstr ""
+msgstr "パイラダロン"
 
 #. [unit_type]: id=Ram, race=khthon
 #: Archaic_Era/units/khthon/Ram.cfg:5
@@ -2601,7 +2601,7 @@ msgstr "衝撃波"
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:5
 msgid "Ukian Signalman"
-msgstr ""
+msgstr "ウキアンの信号兵"
 
 #. [unit_type]: id=Ukian Signalman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Signalman.cfg:94
@@ -2616,12 +2616,12 @@ msgstr ""
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:4
 msgid "Ukian Veteran"
-msgstr ""
+msgstr "ウキアンの熟練兵"
 
 #. [unit_type]: id=Ukian Veteran, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Veteran.cfg:20
 msgid "Veteran soldiers..."
-msgstr ""
+msgstr "熟練兵は……"
 
 #. [unit_type]: id=Ukian War Hound, race=ukiandog
 #: Archaic_Era/units/ukians/Ukian_Wardog.cfg:5
@@ -2646,7 +2646,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Archaic_Era/units/ukians/Ukian_Witch.cfg:57
 msgid "strike"
-msgstr "打つ"
+msgstr "電撃"
 
 #. [race]: id=ukian
 #: Archaic_Era/units/ukians_race.cfg:5
@@ -2977,11 +2977,11 @@ msgstr ""
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1482
 msgid "penumbra"
-msgstr ""
+msgstr "半影"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1483
 msgid "female^penumbra"
-msgstr ""
+msgstr "半影"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1487
 msgid ""
@@ -2992,17 +2992,22 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
+"半影:\n"
+"このユニットは周辺は薄暗くして、混沌ユニットを戦いやすく、秩序ユニットを戦いにくくします。\n"
+"\n"
+"すべての隣接ユニットは、昼には夕方であるかのように、夕方には夜であるかのように戦うことになります。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1497
 #: Archaic_Era/utils/Archaic_abilities.cfg:1499
 msgid "desert-stalk"
-msgstr ""
+msgstr "砂隠"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1498
 #: Archaic_Era/utils/Archaic_abilities.cfg:1500
 msgid "female^desert-stalk"
-msgstr ""
+msgstr "砂隠"
 
+# [ja] 良い訳が浮かばない
 #: Archaic_Era/utils/Archaic_abilities.cfg:1504
 #: Archaic_Era/utils/Archaic_abilities.cfg:1508
 msgid ""
@@ -3013,3 +3018,7 @@ msgid ""
 "they have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
+"砂隠:\n"
+"このユニットは砂の地形に隠れることができ、敵に見つからなくなります。\n"
+"\n"
+"このユニットが砂の地形にいるときはこのユニットを見つけることはできません。敵がこのユニットの隣にいる場合を除いて。このユニットを初めて見つけた敵ユニットはそれ以上移動することはできません。"
