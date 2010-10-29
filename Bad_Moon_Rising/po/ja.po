@@ -1,14 +1,18 @@
+# Automatically generated, 2009.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle for Wesnoth 1.8.4+svn\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-05-24 21:56+0200\n"
-"PO-Revision-Date: 2009-12-27 16:34+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-10-30 06:54+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
+"Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [campaign]: id=Bad_Moon_Rising_I
@@ -23,7 +27,7 @@ msgstr ""
 #. [campaign]: id=Bad_Moon_Rising_I
 #: Bad_Moon_Rising/_main.cfg:22
 msgid "Part I:  Awakening (Prologue)"
-msgstr ""
+msgstr "パート 1: 覚醒（プロローグ）"
 
 #. [campaign]: id=Bad_Moon_Rising_I
 #: Bad_Moon_Rising/_main.cfg:30
@@ -36,7 +40,7 @@ msgstr ""
 #: Bad_Moon_Rising/_main.cfg:33 Bad_Moon_Rising/_main.cfg:55
 #: Bad_Moon_Rising/_main.cfg:77
 msgid "(easy)"
-msgstr ""
+msgstr "（易しい）"
 
 #. [campaign]: id=Bad_Moon_Rising_I
 #: Bad_Moon_Rising/_main.cfg:33
@@ -49,7 +53,7 @@ msgstr ""
 #: Bad_Moon_Rising/_main.cfg:34 Bad_Moon_Rising/_main.cfg:56
 #: Bad_Moon_Rising/_main.cfg:78
 msgid "(normal)"
-msgstr ""
+msgstr "（普通）"
 
 #. [campaign]: id=Bad_Moon_Rising_I
 #: Bad_Moon_Rising/_main.cfg:34
@@ -62,7 +66,7 @@ msgstr ""
 #: Bad_Moon_Rising/_main.cfg:35 Bad_Moon_Rising/_main.cfg:57
 #: Bad_Moon_Rising/_main.cfg:79
 msgid "(hard)"
-msgstr ""
+msgstr "（難しい）"
 
 #. [campaign]: id=Bad_Moon_Rising_I
 #: Bad_Moon_Rising/_main.cfg:35
@@ -80,7 +84,7 @@ msgstr ""
 #. [campaign]: id=Bad_Moon_Rising
 #: Bad_Moon_Rising/_main.cfg:44
 msgid "Part II:  Out of the North"
-msgstr ""
+msgstr "パート 2: 北の果て"
 
 #. [campaign]: id=Bad_Moon_Rising
 #: Bad_Moon_Rising/_main.cfg:52
@@ -116,7 +120,7 @@ msgstr ""
 #. [campaign]: id=Bad_Moon_Rising_III
 #: Bad_Moon_Rising/_main.cfg:66
 msgid "Part III:  Crossfire"
-msgstr ""
+msgstr "パート 3: 集中攻撃"
 
 #. [campaign]: id=Bad_Moon_Rising_III
 #: Bad_Moon_Rising/_main.cfg:74
@@ -133,12 +137,12 @@ msgstr ""
 #. [about]
 #: Bad_Moon_Rising/about.cfg:7
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #. [about]
 #: Bad_Moon_Rising/about.cfg:14
 msgid "Special Thanks To:"
-msgstr ""
+msgstr "スペシャルサンクス:"
 
 #. [entry]
 #: Bad_Moon_Rising/about.cfg:17
@@ -148,7 +152,7 @@ msgstr ""
 #. [scenario]: id=00_Prologue
 #: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:4
 msgid "Prologue"
-msgstr ""
+msgstr "プロローグ"
 
 #. [part]
 #: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:17
@@ -159,7 +163,7 @@ msgstr ""
 #. [time]: id=volcano
 #: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:25
 msgid "Volcano"
-msgstr ""
+msgstr "Volcano"
 
 #. [unit]: type=Dark Messiah, id=Scarrion
 #. [side]: type=Spearman, id=Scarrion
@@ -175,7 +179,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_10_NewHome.cfg:679
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:306
 msgid "Scarrion"
-msgstr ""
+msgstr "Scarrion"
 
 #. [message]: speaker=Kashja
 #: Bad_Moon_Rising/scenarios1/0_00_Prologue.cfg:147
@@ -335,17 +339,17 @@ msgstr ""
 #. [unit]: type=Footpad, id=Russle
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:86
 msgid "Russle"
-msgstr ""
+msgstr "Russle"
 
 #. [unit]: type=Dwarvish Fighter, id=Altos
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:97
 msgid "Altos"
-msgstr ""
+msgstr "Altos"
 
 #. [side]: type=Troll, id=Rock
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:110
 msgid "Rock"
-msgstr ""
+msgstr "Rock"
 
 #. [message]: speaker=narrator
 #: Bad_Moon_Rising/scenarios1/0_01_Abandoned.cfg:226
@@ -1424,21 +1428,21 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:94
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:217
 msgid "General Norton"
-msgstr ""
+msgstr "Norton 将軍"
 
 #. [unit]: type=General
 #. [side]: type=General, id=Horton
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:99
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:178
 msgid "General Horton"
-msgstr ""
+msgstr "Horton 将軍"
 
 #. [side]: type=General, id=Burton
 #. [side]: type=General, id=General Burton
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:107
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:84
 msgid "General Burton"
-msgstr ""
+msgstr "Burton 将軍"
 
 #. [message]: speaker=Huric
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:121
@@ -1462,7 +1466,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:812
 #: Bad_Moon_Rising/scenarios2/1_05_Defend.cfg:73
 msgid "General Maskov"
-msgstr ""
+msgstr "Maskov 将軍"
 
 #. [message]: speaker=Maskov
 #: Bad_Moon_Rising/scenarios2/1_00_Orders.cfg:147
@@ -1892,7 +1896,7 @@ msgstr ""
 #. [unit]: type=Peasant, id=Peasant
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:86
 msgid "Peasant"
-msgstr ""
+msgstr "農民"
 
 #. [message]: speaker=Bahren
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:161
@@ -1979,7 +1983,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_07_Dreams1.cfg:231
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:260
 msgid "Raenna"
-msgstr ""
+msgstr "Raenna"
 
 #. [message]: speaker=Raenna
 #: Bad_Moon_Rising/scenarios2/1_02_Rescue.cfg:305
@@ -2304,7 +2308,7 @@ msgstr ""
 #. [message]: speaker=Duval
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:224
 msgid "Assassins?"
-msgstr ""
+msgstr "暗殺者だと？"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios2/1_03_Camp.cfg:228
@@ -2569,17 +2573,17 @@ msgstr ""
 #. [side]: type=General, id=General Drago
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:64
 msgid "General Drago"
-msgstr ""
+msgstr "Drago 将軍"
 
 #. [unit]: type=Pikeman, id=Rhent
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:98
 msgid "Rhent"
-msgstr ""
+msgstr "Rhent"
 
 #. [unit]: type=Pikeman, id=Thren
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:105
 msgid "Thren"
-msgstr ""
+msgstr "Thren"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios2/1_04_Fort.cfg:128
@@ -3337,7 +3341,7 @@ msgstr ""
 #. [side]: type=General, id=General Huston
 #: Bad_Moon_Rising/scenarios2/1_07_Crush.cfg:154
 msgid "General Huston"
-msgstr ""
+msgstr "Huston 将軍"
 
 #. [unit]: type=Pikeman, id=Khant
 #: Bad_Moon_Rising/scenarios2/1_07_Crush.cfg:179
@@ -3517,7 +3521,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:252
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:171
 msgid "General Vazzan"
-msgstr ""
+msgstr "Vazzan 将軍"
 
 #. [message]: speaker=Lorenzon
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:331
@@ -3715,7 +3719,7 @@ msgstr ""
 #. [unit]: type=Grand Knight, id=Sadellon
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:804
 msgid "Sir Sadellon"
-msgstr ""
+msgstr "Sadellon 卿"
 
 #. [message]: speaker=Sadellon
 #: Bad_Moon_Rising/scenarios2/1_08_Rumble.cfg:821
@@ -3931,7 +3935,7 @@ msgstr ""
 #. [object]: id=ancientcloth
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:602
 msgid "Ancient Cloth"
-msgstr ""
+msgstr "古えの衣服"
 
 #. [object]: id=ancientcloth
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:604
@@ -3950,7 +3954,7 @@ msgstr ""
 #. [object]: id=ancientamulet
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:633
 msgid "Ancient Amulet"
-msgstr ""
+msgstr "古えの首飾り"
 
 #. [object]: id=ancientamulet
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:635
@@ -3996,7 +4000,7 @@ msgstr ""
 #. [objective]: condition=win
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:689
 msgid "Kill Scarrion"
-msgstr ""
+msgstr "Scarrion を殺す"
 
 #. [objective]: condition=lose
 #: Bad_Moon_Rising/scenarios2/1_09_Pit.cfg:697
@@ -5124,14 +5128,14 @@ msgstr ""
 #. [side]: type=Primevalist Monk, id=Asher
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:197
 msgid "Asher"
-msgstr ""
+msgstr "Asher"
 
 #. [unit]: type=Primevalist Fighter, id=Skulker
 #. [unit]: type=Primevalist Follower, id=Skulker2
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:234
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:241
 msgid "Skulker"
-msgstr ""
+msgstr "Skulker"
 
 #. [unit]: type=Elvish Marksman, id=Sniper1
 #. [unit]: type=Elvish Marksman, id=Sniper2
@@ -5140,7 +5144,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:300
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:307
 msgid "Sniper"
-msgstr ""
+msgstr "Sniper"
 
 #. [message]: speaker=Carghanna
 #: Bad_Moon_Rising/scenarios3/2_01_Trouble.cfg:343
@@ -5625,7 +5629,7 @@ msgstr ""
 #. [side]: type=Hostage Taker, id=Branson
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:144
 msgid "Lieutenant Branson"
-msgstr ""
+msgstr "Branson 副官"
 
 #. [side]: type=Orcish Warrior, id=Grat Gareth
 #. [unit]: type=Orcish Warrior, id=Grat Gareth
@@ -5634,7 +5638,7 @@ msgstr ""
 #: Bad_Moon_Rising/scenarios3/2_05_Tien.cfg:109
 #: Bad_Moon_Rising/scenarios3/2_04_World.cfg:110
 msgid "Grat Gareth"
-msgstr ""
+msgstr "Grat Gareth"
 
 #. [unit]: type=Orcish Grunt, id=Parthak Gareth
 #: Bad_Moon_Rising/scenarios3/2_03_Fundraising.cfg:252
@@ -9188,7 +9192,7 @@ msgstr ""
 #. [unit_type]: id=Dark Messiah, race=human
 #: Bad_Moon_Rising/units/Dark_Messiah.cfg:5
 msgid "Dark Messiah"
-msgstr ""
+msgstr "闇の救世主"
 
 #. [unit_type]: id=Dark Messiah, race=human
 #: Bad_Moon_Rising/units/Dark_Messiah.cfg:19
@@ -9203,13 +9207,13 @@ msgstr ""
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/Dark_Messiah.cfg:34
 msgid "Staff"
-msgstr ""
+msgstr "杖"
 
 #. [attack]: type=fire
 #: Bad_Moon_Rising/units/Dark_Messiah.cfg:43
 #: Bad_Moon_Rising/units/Raenna-Bad.cfg:117
 msgid "Inferno"
-msgstr ""
+msgstr "業火"
 
 #. [unit_type]: id=Orcish Escort, race=orc
 #: Bad_Moon_Rising/units/Grat.cfg:4
@@ -9228,12 +9232,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Bad_Moon_Rising/units/Grat.cfg:49
 msgid "greatsword"
-msgstr ""
+msgstr "大剣"
 
 #. [unit_type]: id=Hostage Taker, race=human
 #: Bad_Moon_Rising/units/Hostage_Taker.cfg:4
 msgid "Lieutenant"
-msgstr ""
+msgstr "副官"
 
 #. [unit_type]: id=Hostage Taker, race=human
 #: Bad_Moon_Rising/units/Hostage_Taker.cfg:33
@@ -9241,6 +9245,8 @@ msgid ""
 "Trained at swords and crossbows, Lieutenants lead small groups of human "
 "soldiers, coordinating their attacks."
 msgstr ""
+"剣とクロスボウで訓練を積んだ副官は人間の兵士の小隊を率い、彼らの攻撃を調整し"
+"ます。"
 
 #. [attack]: type=blade
 #: Bad_Moon_Rising/units/Hostage_Taker.cfg:42
@@ -9248,7 +9254,7 @@ msgstr ""
 #: Bad_Moon_Rising/units/ghosts/Ghost_Longbowman.cfg:27
 #: Bad_Moon_Rising/units/ghosts/Ghost_Master_Bowman.cfg:27
 msgid "sword"
-msgstr ""
+msgstr "剣"
 
 #. [message]: speaker=second_unit
 #: Bad_Moon_Rising/units/Hostage_Taker.cfg:129
@@ -9326,12 +9332,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Bad_Moon_Rising/units/Huric.cfg:79
 msgid "Sword"
-msgstr ""
+msgstr "剣"
 
 #. [unit_type]: id=Bad Raenna, race=human
 #: Bad_Moon_Rising/units/Raenna-Bad.cfg:5
 msgid "Dark Herald"
-msgstr ""
+msgstr "闇の布告者"
 
 #. [advancement]: id=amla_raenna_sword
 #: Bad_Moon_Rising/units/Raenna-Bad.cfg:21
@@ -9361,7 +9367,7 @@ msgstr ""
 #. [unit_type]: id=Raenna, race=ukian
 #: Bad_Moon_Rising/units/Raenna.cfg:4
 msgid "Ukian Hunter"
-msgstr ""
+msgstr "ウキアンの猟師"
 
 #. [unit_type]: id=Raenna, race=ukian
 #: Bad_Moon_Rising/units/Raenna.cfg:20
@@ -9400,7 +9406,7 @@ msgstr ""
 #: Bad_Moon_Rising/units/Raenna.cfg:376 Bad_Moon_Rising/units/Raenna.cfg:385
 #: Bad_Moon_Rising/units/ghosts/Ghost_Bowman.cfg:35
 msgid "bow"
-msgstr ""
+msgstr "弓"
 
 #. [unit_type]: id=Ukian Dying, race=ukian
 #: Bad_Moon_Rising/units/Ukian_Dying.cfg:4
@@ -9419,12 +9425,12 @@ msgstr ""
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/Ukian_Dying.cfg:57
 msgid "shield"
-msgstr ""
+msgstr "盾"
 
 #. [unit_type]: id=Ukian Sick, race=ukian
 #: Bad_Moon_Rising/units/Ukian_Dying2.cfg:4
 msgid "Ukian Witch"
-msgstr ""
+msgstr "ウキアンの魔女"
 
 #. [unit_type]: id=Ukian Sick, race=ukian
 #: Bad_Moon_Rising/units/Ukian_Dying2.cfg:20
@@ -9439,149 +9445,149 @@ msgstr ""
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/Ukian_Dying2.cfg:35
 msgid "staff"
-msgstr ""
+msgstr "杖"
 
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/Ukian_Dying2.cfg:44
 msgid "shockwave"
-msgstr ""
+msgstr "衝撃波"
 
 #. [attack]: type=fire
 #: Bad_Moon_Rising/units/Ukian_Dying2.cfg:56
 msgid "strike"
-msgstr ""
+msgstr "電撃"
 
 #. [unit_type]: id=BMR_Ghost_Bowman, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Bowman.cfg:4
 msgid "Ghost Bowman"
-msgstr ""
+msgstr "弓兵の幽霊"
 
 #. [attack]: type=blade
 #: Bad_Moon_Rising/units/ghosts/Ghost_Bowman.cfg:26
 msgid "short sword"
-msgstr ""
+msgstr "短剣"
 
 #. [unit_type]: id=BMR_Ghost_Dwarvish_Fighter, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Fighter.cfg:4
 msgid "Ghost Dwarvish Fighter"
-msgstr ""
+msgstr "ドワーフの戦士の幽霊"
 
 #. [attack]: type=blade
 #: Bad_Moon_Rising/units/ghosts/Ghost_Fighter.cfg:35
 msgid "axe"
-msgstr ""
+msgstr "斧"
 
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/ghosts/Ghost_Lord.cfg:49
 #: Bad_Moon_Rising/units/ghosts/Ghost_Steelclad.cfg:49
 #: Bad_Moon_Rising/units/ghosts/Ghost_Fighter.cfg:43
 msgid "hammer"
-msgstr ""
+msgstr "ハンマー"
 
 #. [unit_type]: id=BMR_Ghost_Footpad, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Footpad.cfg:4
 msgid "Ghost Footpad"
-msgstr ""
+msgstr "追いはぎの幽霊"
 
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/ghosts/Ghost_Footpad.cfg:26
 msgid "club"
-msgstr ""
+msgstr "棍棒"
 
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/ghosts/Ghost_Outlaw.cfg:32
 #: Bad_Moon_Rising/units/ghosts/Ghost_Fugitive.cfg:38
 #: Bad_Moon_Rising/units/ghosts/Ghost_Footpad.cfg:35
 msgid "sling"
-msgstr ""
+msgstr "スリング"
 
 #. [female]
 #: Bad_Moon_Rising/units/ghosts/Ghost_Footpad.cfg:170
 msgid "female^Ghost Footpad"
-msgstr ""
+msgstr "追いはぎ女の幽霊"
 
 #. [unit_type]: id=BMR_Ghost_Fugitive, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Fugitive.cfg:5
 msgid "Ghost Fugitive"
-msgstr ""
+msgstr "逃亡者の幽霊"
 
 #. [attack]: type=impact
 #: Bad_Moon_Rising/units/ghosts/Ghost_Outlaw.cfg:24
 #: Bad_Moon_Rising/units/ghosts/Ghost_Fugitive.cfg:29
 msgid "mace"
-msgstr ""
+msgstr "メイス"
 
 #. [female]
 #: Bad_Moon_Rising/units/ghosts/Ghost_Fugitive.cfg:115
 msgid "female^Ghost Fugitive"
-msgstr ""
+msgstr "女逃亡者の幽霊"
 
 #. [unit_type]: id=BMR_Ghost_Longbowman, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Longbowman.cfg:4
 msgid "Ghost Longbowman"
-msgstr ""
+msgstr "大弓兵の幽霊"
 
 #. [attack]: type=pierce
 #: Bad_Moon_Rising/units/ghosts/Ghost_Longbowman.cfg:36
 #: Bad_Moon_Rising/units/ghosts/Ghost_Master_Bowman.cfg:36
 msgid "longbow"
-msgstr ""
+msgstr "大弓"
 
 #. [unit_type]: id=BMR_Ghost_Dwarvish_Lord, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Lord.cfg:4
 msgid "Ghost Dwarvish Lord"
-msgstr ""
+msgstr "ドワーフの貴族の幽霊"
 
 #. [attack]: type=blade
 #: Bad_Moon_Rising/units/ghosts/Ghost_Lord.cfg:40
 #: Bad_Moon_Rising/units/ghosts/Ghost_Steelclad.cfg:40
 msgid "battle axe"
-msgstr ""
+msgstr "戦斧"
 
 #. [attack]: type=blade
 #: Bad_Moon_Rising/units/ghosts/Ghost_Lord.cfg:58
 msgid "hatchet"
-msgstr ""
+msgstr "手斧"
 
 #. [unit_type]: id=BMR_Ghost_Master_Bowman, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Master_Bowman.cfg:4
 msgid "Ghost Master Bowman"
-msgstr ""
+msgstr "熟練弓兵の幽霊"
 
 #. [unit_type]: id=BMR_Ghost_Outlaw, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Outlaw.cfg:4
 msgid "Ghost Outlaw"
-msgstr ""
+msgstr "無法者の幽霊"
 
 #. [female]
 #: Bad_Moon_Rising/units/ghosts/Ghost_Outlaw.cfg:107
 msgid "female^Outlaw"
-msgstr ""
+msgstr "女無法者の幽霊"
 
 #. [unit_type]: id=BMR_Ghost_Steelclad, race=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts/Ghost_Steelclad.cfg:4
 msgid "Ghost Steelclad"
-msgstr ""
+msgstr "ドワーフの装甲歩兵の幽霊"
 
 #. [race]: id=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts_race.cfg:6
 msgid "race^Ghost"
-msgstr ""
+msgstr "幽霊"
 
 #. [race]: id=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts_race.cfg:7
 msgid "race+female^Ghost"
-msgstr ""
+msgstr "幽霊"
 
 #. [race]: id=bmr_ghost
 #: Bad_Moon_Rising/units/ghosts_race.cfg:8
 msgid "race^Ghosts"
-msgstr ""
+msgstr "幽霊"
 
 #. [scenario]: id=ZZ_error
 #: Bad_Moon_Rising/utils/ZZ_error.cfg:4
 msgid "ERROR"
-msgstr ""
+msgstr "エラー"
 
 #. [part]
 #: Bad_Moon_Rising/utils/intro.cfg:5
@@ -9713,7 +9719,7 @@ msgstr ""
 #. [object]: id={ID}
 #: Bad_Moon_Rising/utils/items.cfg:85 Bad_Moon_Rising/utils/items.cfg:139
 msgid "Ancient Ring"
-msgstr ""
+msgstr "古えの指輪"
 
 #. [object]: id={ID}
 #: Bad_Moon_Rising/utils/items.cfg:88 Bad_Moon_Rising/utils/items.cfg:142
@@ -9923,7 +9929,7 @@ msgstr ""
 #. [side]: type={FOETYPE}, id=Leader
 #: Bad_Moon_Rising/utils/skirmish.cfg:1502
 msgid "Enemy Leader"
-msgstr ""
+msgstr "敵のリーダー"
 
 #. [message]: speaker=Leader
 #: Bad_Moon_Rising/utils/skirmish.cfg:1631
