@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-30 02:07+0900\n"
+"PO-Revision-Date: 2010-10-31 01:53+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -258,7 +258,7 @@ msgid ""
 "Banshees are either the ghosts of notable or high-born ladies, or spirits "
 "interested in the lives of the high-born.  Their appearance is taken as a "
 "sign that someone is going to die."
-msgstr ""
+msgstr "バンシーは、貴族や上流階級の貴婦人の幽霊か、上流階級での生活に憧れていた霊魂と言われています。誰かが死ぬときに現れる象徴とされています。"
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/despair/Phantom_Cloak.cfg:70
@@ -566,7 +566,7 @@ msgstr "アダマンタイン"
 msgid ""
 "The Bone Snapper can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
-msgstr ""
+msgstr "ボーンスナッパーは (右クリックオプションで) 甲羅に閉じこもり、防御力を向上させることができます。しかし、その状態では移動も攻撃もできません。"
 
 #. [attack]: type=blade
 #. [attack]: type=arcane
@@ -589,7 +589,7 @@ msgstr "アダマンタイン (閉じこもり)"
 msgid ""
 "The Adamantine can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
-msgstr ""
+msgstr "アダマンタインは (右クリックオプションで) 甲羅に閉じこもり、防御力を向上させることができます。しかし、その状態では移動も攻撃もできません。"
 
 #. [unit_type]: id=Arctic Wolf, race=khthon
 #: Archaic_Era/units/khthon/Arctic_Wolf.cfg:5
@@ -1122,7 +1122,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Terror.cfg:34
 msgid "cat-of-nine-tails"
-msgstr ""
+msgstr "九尾の猫鞭"
 
 #. [attack]: type=blade
 #: Archaic_Era/units/orcs/Terror.cfg:46
@@ -1888,6 +1888,11 @@ msgid ""
 "Netheras,Orion,Oros,Ossas,Pallas,Paris,Ramolus,Rustarus,Sarpedon,Sordas,"
 "Sundaras,Tartarus,Teolas,Torus,Typhon,Xerus"
 msgstr ""
+"Accos,Acton,Actras,Aephus,Andradas,Arus,Ballus,Bellon,Callas,Cathas,Cendras,"
+"Chaos,Chronos,Cyras,Dandras,Demosthenes,Dundarus,Edras,Essras,Fathas,Gallas,"
+"Hadrion,Hektor,Herdreidon,Hestus,Indus,Kahas,Korus,Lathas,Lostrus,Malthras,"
+"Netheras,Orion,Oros,Ossas,Pallas,Paris,Ramolus,Rustarus,Sarpedon,Sordas,"
+"Sundaras,Tartarus,Teolas,Torus,Typhon,Xerus"
 
 #. [race]: id=primeval
 #: Archaic_Era/units/primeval_race.cfg:41
@@ -1898,6 +1903,11 @@ msgid ""
 "Phaetusa,Prakate,Reasis,Sarasis,Sere,Skylla,Styx,Taranisis,Tramache,"
 "Tisiphone,Tyche,Xanthis"
 msgstr ""
+"Amache,Ananke,Anaxarete,Agrotora,Anthis,Carthis,Cassandra,Circe,Cyrene,"
+"Damaris,Dione,Draede,Duneris,Dyrope,Elektra,Gorgate,Hekate,Hekubis,Karybdis,"
+"Katyride,Katyris,Lamia,Lamis,Lillith,Maenade,Medusis,Nemesa,Nike,Nyx,Orisis,"
+"Phaetusa,Prakate,Reasis,Sarasis,Sere,Skylla,Styx,Taranisis,Tramache,"
+"Tisiphone,Tyche,Xanthis"
 
 #. [unit_type]: id=South-Seas Able-Seaman, race=south-seas_human
 #: Archaic_Era/units/south-seas/Able-Seaman.cfg:5
@@ -2557,7 +2567,7 @@ msgstr "投げナイフ"
 #. [unit_type]: id=Ukian Runner, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:5
 msgid "Ukian Runner"
-msgstr ""
+msgstr "ウキアンの走者"
 
 #. [unit_type]: id=Ukian Runner, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Runner.cfg:29
@@ -2993,9 +3003,11 @@ msgid ""
 "day, and as if it were night when it is dusk."
 msgstr ""
 "半影:\n"
-"このユニットは周辺は薄暗くして、混沌ユニットを戦いやすく、秩序ユニットを戦いにくくします。\n"
+"このユニットは周辺は薄暗くして、混沌ユニットを戦いやすく、秩序ユニットを戦い"
+"にくくします。\n"
 "\n"
-"すべての隣接ユニットは、昼には夕方であるかのように、夕方には夜であるかのように戦うことになります。"
+"すべての隣接ユニットは、昼には夕方であるかのように、夕方には夜であるかのよう"
+"に戦うことになります。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1497
 #: Archaic_Era/utils/Archaic_abilities.cfg:1499
@@ -3021,4 +3033,6 @@ msgstr ""
 "砂隠:\n"
 "このユニットは砂の地形に隠れることができ、敵に見つからなくなります。\n"
 "\n"
-"このユニットが砂の地形にいるときはこのユニットを見つけることはできません。敵がこのユニットの隣にいる場合を除いて。このユニットを初めて見つけた敵ユニットはそれ以上移動することはできません。"
+"このユニットが砂の地形にいるときはこのユニットを見つけることはできません。敵"
+"がこのユニットの隣にいる場合を除いて。このユニットを初めて見つけた敵ユニット"
+"はそれ以上移動することはできません。"
