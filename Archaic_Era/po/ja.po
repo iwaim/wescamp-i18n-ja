@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-31 01:53+0900\n"
+"PO-Revision-Date: 2010-10-31 09:45+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -43,7 +43,7 @@ msgstr "絶望"
 #: Archaic_Era/eras/heros/khthon_MP.cfg:5
 #: Archaic_Era/eras/base/khthon_MP.cfg:5 Archaic_Era/eras/rpg/khthon_MP.cfg:5
 msgid "Khthon"
-msgstr ""
+msgstr "地底の混沌"
 
 #. [multiplayer_side]: id=Northern_Orcs, type=Orcish Terror
 #. [multiplayer_side]: id=Northern_Orcs, type=Orcish Warrior
@@ -258,7 +258,9 @@ msgid ""
 "Banshees are either the ghosts of notable or high-born ladies, or spirits "
 "interested in the lives of the high-born.  Their appearance is taken as a "
 "sign that someone is going to die."
-msgstr "バンシーは、貴族や上流階級の貴婦人の幽霊か、上流階級での生活に憧れていた霊魂と言われています。誰かが死ぬときに現れる象徴とされています。"
+msgstr ""
+"バンシーは、貴族や上流階級の貴婦人の幽霊か、上流階級での生活に憧れていた霊魂"
+"と言われています。誰かが死ぬときに現れる象徴とされています。"
 
 #. [attack]: type=arcane
 #: Archaic_Era/units/despair/Phantom_Cloak.cfg:70
@@ -336,7 +338,7 @@ msgstr "槍"
 #. [unit_type]: id=Phantom Master, race=despair
 #: Archaic_Era/units/despair/Phantom_Master.cfg:5
 msgid "Master"
-msgstr ""
+msgstr "支配者"
 
 #. [unit_type]: id=Phantom Midnight, race=despair
 #: Archaic_Era/units/despair/Phantom_Midnight.cfg:5
@@ -566,7 +568,9 @@ msgstr "アダマンタイン"
 msgid ""
 "The Bone Snapper can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
-msgstr "ボーンスナッパーは (右クリックオプションで) 甲羅に閉じこもり、防御力を向上させることができます。しかし、その状態では移動も攻撃もできません。"
+msgstr ""
+"ボーンスナッパーは (右クリックオプションで) 甲羅に閉じこもり、防御力を向上さ"
+"せることができます。しかし、その状態では移動も攻撃もできません。"
 
 #. [attack]: type=blade
 #. [attack]: type=arcane
@@ -589,7 +593,9 @@ msgstr "アダマンタイン (閉じこもり)"
 msgid ""
 "The Adamantine can retreat into its shell to raise defenses (right-click "
 "option), but then it cannot move or attack."
-msgstr "アダマンタインは (右クリックオプションで) 甲羅に閉じこもり、防御力を向上させることができます。しかし、その状態では移動も攻撃もできません。"
+msgstr ""
+"アダマンタインは (右クリックオプションで) 甲羅に閉じこもり、防御力を向上させ"
+"ることができます。しかし、その状態では移動も攻撃もできません。"
 
 #. [unit_type]: id=Arctic Wolf, race=khthon
 #: Archaic_Era/units/khthon/Arctic_Wolf.cfg:5
@@ -884,12 +890,12 @@ msgstr ""
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:6 Archaic_Era/units/khthon_race.cfg:8
 msgid "race^Khthon"
-msgstr ""
+msgstr "地底の混沌"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:7
 msgid "race+female^Khthon"
-msgstr ""
+msgstr "地底の混沌"
 
 #. [race]: id=khthon
 #: Archaic_Era/units/khthon_race.cfg:10
@@ -900,16 +906,21 @@ msgid ""
 "have developed an immunity to this, but the more modern inhabitants of the "
 "continent (with the exception of the non-living) are vulnerable."
 msgstr ""
+"太古の一族の昔からの敵対者です。この種族を理解することは困難なことです。この"
+"種族は、最も良い表現をしたとしても、犠牲者の体を精霊によって操ってしまい、そ"
+"の変質を経験した犠牲者は徐々に呪われていきます。太古の一族はこれへの耐性を編"
+"み出しましたが、大陸にいる (生命を持たない一部の例外を除いて) ほとんどの近代"
+"的な住人はこれに対して脆弱です。"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:19 Archaic_Era/units/khthon_race.cfg:21
 msgid "race^Lesser Khthon"
-msgstr ""
+msgstr "地底の従者"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:20
 msgid "race+female^Lesser Khthon"
-msgstr ""
+msgstr "地底の従者"
 
 #. [race]: id=lesser_khthon
 #: Archaic_Era/units/khthon_race.cfg:24
@@ -917,6 +928,8 @@ msgid ""
 "Lesser Khthon are the immature spawn of Khthon.  They cannot spread more of "
 "their kind yet, but they can control the mind of their victims."
 msgstr ""
+"地底の従者は、地底の混沌の未熟な卵です。まだ種族の拡大をすることはできません"
+"が、犠牲者の精神を支配することはできます。"
 
 #. [unit_type]: id=Orcish Cavalry, race=orc
 #: Archaic_Era/units/orcs/Cavalry.cfg:5
@@ -1770,7 +1783,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Archaic_Era/units/primeval/Primevalist_Prior.cfg:39
 msgid "Staff Base"
-msgstr ""
+msgstr "錫杖"
 
 #. [unit_type]: id=Primevalist Shield, race=primevalist_human
 #: Archaic_Era/units/primeval/Primevalist_Shield.cfg:5
@@ -1995,12 +2008,12 @@ msgstr "潜水者"
 #. [unit_type]: id=South-Seas Marine, race=south-seas_human
 #: Archaic_Era/units/south-seas/Marines.cfg:5
 msgid "Marine"
-msgstr ""
+msgstr "海の者"
 
 #. [female]
 #: Archaic_Era/units/south-seas/Marines.cfg:150
 msgid "female^Marine"
-msgstr ""
+msgstr "海の者"
 
 # [ja] 「海賊」もあり？
 #. [unit_type]: id=South-Seas Rover, race=south-seas_human
@@ -2119,7 +2132,7 @@ msgstr "泳者"
 #. [unit_type]: id=South-Seas Seawolf, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wolf.cfg:5
 msgid "Sea Wolf"
-msgstr ""
+msgstr "海賊"
 
 #. [unit_type]: id=South-Seas Wrecker, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wrecker.cfg:5
@@ -2491,7 +2504,7 @@ msgstr ""
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:5
 msgid "Ukian Flareman"
-msgstr ""
+msgstr "ウキアンの火使い"
 
 #. [unit_type]: id=Ukian Flareman, race=ukian
 #: Archaic_Era/units/ukians/Ukian_Flareman.cfg:92
@@ -2933,20 +2946,24 @@ msgstr ""
 #: Archaic_Era/utils/Archaic_abilities.cfg:735
 msgid "vector damage"
 msgstr ""
+"病原体のダメージ:\n"
+"……"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:737
 msgid ""
 "Vector Damage:\n"
 "..."
 msgstr ""
+"病原体のダメージ:\n"
+"……"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:748
 msgid "Vector"
-msgstr ""
+msgstr "病原体"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:757
 msgid "vector"
-msgstr ""
+msgstr "病原体"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:759
 msgid ""
@@ -2955,6 +2972,9 @@ msgid ""
 "ability of the unit being attacked.  If hit, susceptable opponents become "
 "Khthon."
 msgstr ""
+"病原体:\n"
+"この攻撃は防御側の特性に関わらず、常に {CHANCE}% の確率で命中します。命中した"
+"場合、相手は地底の混沌となってしまいます。"
 
 #: Archaic_Era/utils/Archaic_abilities.cfg:1049
 msgid "$damage_attacker_vis"
