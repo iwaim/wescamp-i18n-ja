@@ -1679,7 +1679,7 @@ msgstr "網"
 #. [unit_type]: id=I8_DB_Lancer, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:5
 msgid "Saurian Pikeman"
-msgstr "トカゲの槍兵<"
+msgstr "トカゲの槍兵"
 
 #. [unit_type]: id=I8_DB_Mystic, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:4
