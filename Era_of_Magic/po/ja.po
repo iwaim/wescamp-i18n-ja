@@ -1,15 +1,18 @@
+# Automatically generated, 2010.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, 2010.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-10-03 12:37+0200\n"
+"PO-Revision-Date: 2010-11-22 08:45+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [multiplayer_side]: id=Random
@@ -20,17 +23,17 @@ msgstr ""
 #. [unstore_unit]
 #: Era_of_Magic/EoMa_eras.cfg:41
 msgid "Double attack!"
-msgstr ""
+msgstr "2回攻撃！"
 
 #. [era]: id=era_magic_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:55
 msgid "Era of Magic"
-msgstr ""
+msgstr "魔法の時代"
 
 #. [era]: id=era_magic_rpg_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:71
 msgid "Era of Magic RPG"
-msgstr ""
+msgstr "魔法の時代 RPG"
 
 #. [era]: id=era_magic_masters_{ERA_OF_MAGIC_VERSION}
 #: Era_of_Magic/EoMa_eras.cfg:87
@@ -692,7 +695,7 @@ msgstr ""
 #. [damage]: id=agility
 #: Era_of_Magic/doubleattack.cfg:5 Era_of_Magic/doubleattack.cfg:8
 msgid "double attack"
-msgstr ""
+msgstr "2回攻撃"
 
 #. [damage]: id=agility
 #: Era_of_Magic/doubleattack.cfg:7 Era_of_Magic/doubleattack.cfg:10
@@ -701,6 +704,9 @@ msgid ""
 "This unit can attack 2 enemies in one turn, but cannot move from a hex, "
 "where first enemy was attacked."
 msgstr ""
+"2回攻撃:\n"
+"このユニットは1ターンに2対の敵を攻撃することができます。ただし、そのときに移"
+"動することはできず、最初に攻撃した敵を更に攻撃します。"
 
 #. [multiplayer_side]: id=barbarians, type=I8 Barbarian_OrcishBarbarian
 #. [multiplayer_side]: id=barbarians_rpg, type=I8 Barbarian_Cyclop
@@ -1336,7 +1342,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:199
 #: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:79
 msgid "claws"
-msgstr ""
+msgstr "かぎ爪"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/AD_SteamUlfserker.cfg:162
@@ -1460,7 +1466,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_BattleToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:4
 msgid "Battle Toad"
-msgstr ""
+msgstr "戦闘型カエル"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:23
@@ -1496,7 +1502,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_SalamanderBlack, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:4
 msgid "Black Salamander"
-msgstr ""
+msgstr "ブラックサラマンダー"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:62
@@ -1514,7 +1520,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:4
 msgid "Blue Salamander"
-msgstr ""
+msgstr "ブルーサラマンダー"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:100
@@ -1522,12 +1528,12 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:36
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:36
 msgid "chakram"
-msgstr ""
+msgstr "チャクラム"
 
 #. [unit_type]: id=I8_DB_ChaosRider, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:4
 msgid "Chaos Rider"
-msgstr ""
+msgstr "カオスワイバーンの乗り手"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -1539,12 +1545,12 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:30
 #: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:34
 msgid "fangs"
-msgstr ""
+msgstr "牙"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Darkblood/DB_ChaosRider.cfg:55
 msgid "tail"
-msgstr ""
+msgstr "尻尾"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:50
@@ -1556,7 +1562,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_ChosenOfForest, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:4
 msgid "Chosen of Forest"
-msgstr ""
+msgstr "森林の選民"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:147
@@ -1564,7 +1570,7 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:117
 #: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:115
 msgid "iceball"
-msgstr ""
+msgstr "氷球"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Darkblood/DB_ChosenOfForest.cfg:159
@@ -1575,7 +1581,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_Crossbowman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Crossbowman.cfg:4
 msgid "Crossbowman"
-msgstr ""
+msgstr "トカゲのクロスボウ兵"
 
 #. [unit_type]: id=I8_DB_Shooter, race=lizard
 #. [unit_type]: id=I8_DB_Crossbowman, race=lizard
@@ -1599,12 +1605,12 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_Crossbowman.cfg:33
 #: Era_of_Magic/units/Darkblood/DB_Crossbowman.cfg:42
 msgid "crossbow"
-msgstr ""
+msgstr "クロスボウ"
 
 #. [unit_type]: id=I8_DB_DamnedShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:4
 msgid "Swamp Mage"
-msgstr ""
+msgstr "沼地の魔術師"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:43
@@ -1626,7 +1632,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:4
 msgid "Corrupted Shaman"
-msgstr ""
+msgstr "堕落した呪術師"
 
 #. [unit_type]: id=I8_DB_DarkShaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DarkShaman.cfg:20
@@ -1641,42 +1647,49 @@ msgid ""
 "usually make their way out and hire themselves to some of the morally "
 "bankrupt Tribes."
 msgstr ""
+"どす黒い血の一族の呪術師の中には、堕落する者もいます。誰によって、あるいは何"
+"によってなのかは全く知られていませんが、水の魔力と対極にある力、すなわち火の"
+"魔力を手に入れます。彼らは治癒の力は失ってしまいますが、火は本質的に水に優っ"
+"ていると主張して気に留めているようすもありません。そして、利己的で残酷な人格"
+"に豹変してしまいます。その結果、彼らは一族から敬遠され、Great Bogの中心部に追"
+"放されます。何年も湿原を彷徨うことを強要された彼らは、大抵は解決策を見つけ出"
+"し、道徳観の崩壊した部族に雇用される者もいます。"
 
 #. [unit_type]: id=I8_DB_DrednaughtRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:4
 msgid "Dreadnaught"
-msgstr ""
+msgstr "恐れ知らず"
 
 #. [unit_type]: id=I8_DB_GreatLancer, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_GreatLancer.cfg:5
 msgid "Great Pikeman"
-msgstr ""
+msgstr "トカゲの熟練槍兵"
 
 #. [unit_type]: id=I8_DB_SalamanderGreen, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:4
 msgid "Green Salamander"
-msgstr ""
+msgstr "グリーンサラマンダー"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:65
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:46
 msgid "net"
-msgstr ""
+msgstr "網"
 
 #. [unit_type]: id=I8_DB_Lancer, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Lancer.cfg:5
 msgid "Saurian Pikeman"
-msgstr ""
+msgstr "トカゲの槍兵<"
 
 #. [unit_type]: id=I8_DB_Mystic, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Mystic.cfg:4
 msgid "Mystic"
-msgstr ""
+msgstr "神秘なる者"
 
 #. [unit_type]: id=I8_DB_MysticalToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:4
 msgid "Mystical Toad"
-msgstr ""
+msgstr "神秘的なカエル"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:47
@@ -1687,7 +1700,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_RangedToadDouble, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:4
 msgid "Double Ranged Toad"
-msgstr ""
+msgstr "強化投射型カエル"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:44
@@ -1697,7 +1710,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:53
 msgid "crossbow x2"
-msgstr ""
+msgstr "クロスボウ x2"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:65
@@ -1712,22 +1725,22 @@ msgstr ""
 #. [unit_type]: id=I8_DB_RangedToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_RangedToad_recruit.cfg:4
 msgid "Ranged Toad"
-msgstr ""
+msgstr "投射型カエル"
 
 #. [unit_type]: id=I8_DB_ZSalamander, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_Salamander.cfg:4
 msgid "Salamander"
-msgstr ""
+msgstr "サラマンダー"
 
 #. [unit_type]: id=I8_DB_Shaman, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Shaman.cfg:4
 msgid "Clan Leader"
-msgstr ""
+msgstr "一族の指導者"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:5
 msgid "Shamanistic Adept"
-msgstr ""
+msgstr "熟練呪術師"
 
 #. [unit_type]: id=I8_DB_ShamanAdept, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanAdept.cfg:20
@@ -1738,21 +1751,25 @@ msgid ""
 "invaluable in battle, both to heal their allies, and to hurl balls of ice at "
 "their foes."
 msgstr ""
+"どす黒い血の一族が何で知られているのかといえば、それは呪術師の魔法です。これ"
+"を学ぼうと考えたトカゲは、大抵の場合、その体は貧弱で肉体的な戦闘には不向きで"
+"す。しかしながら、水の魔法を操る彼らは戦闘では大変有益です。同胞の傷を癒した"
+"り、敵対する者に氷の球を投げつけたりします。"
 
 #. [unit_type]: id=I8_DB_ShamanisticToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:4
 msgid "Shamanistic Toad"
-msgstr ""
+msgstr "呪術的なカエル"
 
 #. [unit_type]: id=I8_DB_Shooter, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Shooter.cfg:5
 msgid "Shooter"
-msgstr ""
+msgstr "トカゲの射手"
 
 #. [unit_type]: id=I8_DB_Toad, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Toad.cfg:4
 msgid "Toad"
-msgstr ""
+msgstr "カエル"
 
 #. [unit_type]: id=I8_DB_Toad, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_Toad.cfg:18
@@ -1773,7 +1790,7 @@ msgstr ""
 #. [unit_type]: id=I8_DB_Wyvern, race=monster
 #: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:4
 msgid "Wyvern"
-msgstr ""
+msgstr "ワイバーン"
 
 #. [unit_type]: id=I8_DB_Wyvern, race=monster
 #: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:16
@@ -1797,22 +1814,22 @@ msgstr ""
 #. [unit_type]: id=I8_DB_WyvernChaos, race=monster
 #: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:4
 msgid "Chaos Wyvern"
-msgstr ""
+msgstr "カオスワイバーン"
 
 #. [unit_type]: id=I8_DB_WyvernGreat, race=monster
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreat.cfg:4
 msgid "Great Wyvern"
-msgstr ""
+msgstr "グレートワイバーン"
 
 #. [unit_type]: id=I8_DB_WyvernGreatLancerRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_WyvernGreatLancer_recruit.cfg:4
 msgid "Wyvern Tamer"
-msgstr ""
+msgstr "ワイバーンの調教師"
 
 #. [unit_type]: id=I8_DB_WyvernLancerRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_WyvernLancer_recruit.cfg:4
 msgid "Wyvern Rider"
-msgstr ""
+msgstr "ワイバーンの乗り手"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:4
@@ -1841,7 +1858,7 @@ msgstr ""
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:147
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:72
 msgid "staff"
-msgstr ""
+msgstr "杖"
 
 #. [attack]: type=arcane
 #. [attack]: type=cold
