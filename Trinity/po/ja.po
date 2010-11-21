@@ -1,16 +1,19 @@
+# Automatically generated, 2010.
+# IWAI, Masaharu <iwaim.sub@gmail.com>, Masaharu <iwaim.sub@gmail.com>, 2010.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:47+0200\n"
-"PO-Revision-Date: 2010-02-03 02:36+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-11-11 17:28+0900\n"
+"Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
+"Language-Team: Japanese <iwaim.sub@gmail.com>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
 #. [campaign]: id=Trinity
 #. [editor_group]: id=trin
@@ -21,7 +24,7 @@ msgstr ""
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:18
 msgid "Tri"
-msgstr ""
+msgstr "Tri"
 
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:21
@@ -31,12 +34,12 @@ msgstr ""
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:21
 msgid "(easy)"
-msgstr ""
+msgstr "（易しい）"
 
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:22
 msgid "(normal)"
-msgstr ""
+msgstr "（普通）"
 
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:22
@@ -46,7 +49,7 @@ msgstr ""
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:23
 msgid "(hard)"
-msgstr ""
+msgstr "（難しい）"
 
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:23
@@ -63,7 +66,7 @@ msgstr ""
 #. [about]
 #: Trinity/about.cfg:7
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #. [about]
 #: Trinity/about.cfg:14
@@ -1419,12 +1422,12 @@ msgstr ""
 #. [objective]: condition=win
 #: Trinity/scenarios/3_K01_Ship.cfg:142
 msgid "Slay the Elves"
-msgstr ""
+msgstr "エルフを殺す"
 
 #. [objective]: condition=lose
 #: Trinity/scenarios/3_K02_Elves.cfg:45 Trinity/scenarios/3_K01_Ship.cfg:146
 msgid "Death of Echidna/Leggon"
-msgstr ""
+msgstr "Echidna/Leggonの死"
 
 #. [side]: type=Elvish Marksman, id=Glendora
 #: Trinity/scenarios/3_K01_Ship.cfg:171
@@ -1434,7 +1437,7 @@ msgstr ""
 #. [side]: type=Elvish Hero, id=Echidna, race=khthon
 #: Trinity/scenarios/3_K02_Elves.cfg:124 Trinity/scenarios/3_K01_Ship.cfg:213
 msgid "Leggon"
-msgstr ""
+msgstr "Leggon"
 
 #. [message]: speaker=Witness
 #: Trinity/scenarios/3_K01_Ship.cfg:255
@@ -1555,7 +1558,7 @@ msgstr ""
 #: Trinity/scenarios/3_K02_Elves.cfg:156 Trinity/scenarios/3_K04_Storm.cfg:276
 #: Trinity/scenarios/F2a_Air.cfg:139 Trinity/scenarios/F3a_Phantom.cfg:162
 msgid "Keldan"
-msgstr ""
+msgstr "Keldan"
 
 #. [message]: speaker=Keldan
 #: Trinity/scenarios/3_K02_Elves.cfg:197
@@ -1655,13 +1658,13 @@ msgstr ""
 #: Trinity/scenarios/3_K04_Storm.cfg:84 Trinity/scenarios/3_K04_Storm.cfg:902
 #: Trinity/scenarios/3_K03_Lord.cfg:44
 msgid "Death of Echidna"
-msgstr ""
+msgstr "Echidna の死"
 
 #. [objective]: condition=lose
 #: Trinity/scenarios/3_K02_Elves.cfg:341 Trinity/scenarios/3_K02_Elves.cfg:406
 #: Trinity/scenarios/3_K04_Storm.cfg:88 Trinity/scenarios/3_K03_Lord.cfg:48
 msgid "Death of Keldan"
-msgstr ""
+msgstr "Keldan の死"
 
 #. [objectives]
 #: Trinity/scenarios/3_K02_Elves.cfg:343
@@ -2411,7 +2414,7 @@ msgstr ""
 #. [unit]: type=South-Seas Pirate, id=Ponce
 #: Trinity/scenarios/3_P01_Village.cfg:201
 msgid "Ponce"
-msgstr ""
+msgstr "Ponce"
 
 #. [message]: speaker=Ponce
 #: Trinity/scenarios/3_P01_Village.cfg:220
@@ -5065,7 +5068,7 @@ msgstr ""
 #. [message]: speaker=Dardrus
 #: Trinity/scenarios/F5a_Destroyer.cfg:1382
 msgid "$keyguard.name|!"
-msgstr ""
+msgstr "$keyguard.name|！"
 
 #. [message]: speaker=Bresda
 #: Trinity/scenarios/F5a_Destroyer.cfg:1416
@@ -5366,7 +5369,7 @@ msgstr ""
 #. [unit_type]: id=Battle Queen_, race=human
 #: Trinity/units/Battle_Queen.cfg:4 Trinity/units/Battle_Queen_.cfg:4
 msgid "female^Battle Queen"
-msgstr ""
+msgstr "戦闘の女王"
 
 #. [unit_type]: id=Battle Queen, race=human
 #. [unit_type]: id=Battle Queen_, race=human
@@ -5386,18 +5389,18 @@ msgstr ""
 #. [attack]: type=blade
 #: Trinity/units/Battle_Queen.cfg:36 Trinity/units/Battle_Queen_.cfg:36
 msgid "saber"
-msgstr ""
+msgstr "サーベル"
 
 #. [attack]: type=fire
 #: Trinity/units/Haldrad-Commander.cfg:192 Trinity/units/Haldrad-Lord.cfg:232
 #: Trinity/units/Haldrad-Fighter.cfg:59 Trinity/units/Battle_Queen.cfg:45
 msgid "scepter of fire"
-msgstr ""
+msgstr "炎の笏"
 
 #. [unit_type]: id=Harridan, race=south-seas_human
 #: Trinity/units/Bresda.cfg:5
 msgid "female^Harridan"
-msgstr ""
+msgstr "意地悪ばばあ"
 
 #. [attack]: type=blade
 #: Trinity/units/Bresda.cfg:28 Trinity/units/Bresda.cfg:114
@@ -5408,17 +5411,17 @@ msgstr ""
 #. [unit_type]: id=Termagant, race=south-seas_human
 #: Trinity/units/Bresda.cfg:77
 msgid "female^Termagant"
-msgstr ""
+msgstr "口やかましい女"
 
 #. [unit_type]: id=Virago, race=south-seas_human
 #: Trinity/units/Bresda.cfg:163
 msgid "female^Virago"
-msgstr ""
+msgstr "ガミガミ言う女"
 
 #. [unit_type]: id=Primevalist Heroine, race=south-seas_human
 #: Trinity/units/Bresda.cfg:250
 msgid "female^Heroine"
-msgstr ""
+msgstr "女傑"
 
 #. [attack]: type=blade
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:55
@@ -5427,17 +5430,17 @@ msgstr ""
 #: Trinity/units/Primeval_Hera.cfg:46 Trinity/units/Echidna-Low.cfg:31
 #: Trinity/units/Primeval_Nemesis-Low.cfg:42 Trinity/units/Bresda.cfg:289
 msgid "Sword"
-msgstr ""
+msgstr "剣"
 
 #. [attack]: type=cold
 #: Trinity/units/Bresda.cfg:298
 msgid "Curse"
-msgstr ""
+msgstr "呪い"
 
 #. [unit_type]: id=Trinity Cannon, race=human
 #: Trinity/units/Cannon.cfg:5
 msgid "Rocket Mortar"
-msgstr ""
+msgstr "迫撃砲"
 
 #. [attack]: type=fire
 #: Trinity/units/Cannon.cfg:45
@@ -5467,7 +5470,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Trinity/units/Echidna-Mid.cfg:28 Trinity/units/Echidna.cfg:49
 msgid "Fist"
-msgstr ""
+msgstr "拳"
 
 #. [unit_type]: id=Echidna, race=khthon
 #: Trinity/units/Echidna.cfg:21
@@ -5489,7 +5492,7 @@ msgstr ""
 #: Trinity/units/Haldrad-Commander.cfg:4
 #: Trinity/units/Haldrad-Commander.cfg:148
 msgid "Commander"
-msgstr ""
+msgstr "司令官"
 
 #. [variation]: id=Haldrad Commander, race=human
 #. [unit_type]: id=Haldrad Commander, race=human
@@ -5502,6 +5505,10 @@ msgid ""
 "although they also carry a bow to use when necessary. If the Commander is "
 "lost, so is the battle."
 msgstr ""
+"司令官の地位にある者は戦闘で軍団を統率します。統率の技能を持っている為、 彼ら"
+"は周囲の低レベルのユニットの戦闘能力を向上させます。司令官は必要に応じて弓を"
+"使用しますが、剣では最も訓練されています。この司令官が死亡した場合には、 戦闘"
+"も敗北です。"
 
 #. [attack]: type=blade
 #: Trinity/units/Keldan.cfg:34 Trinity/units/Haldrad-Commander.cfg:31
@@ -5509,20 +5516,20 @@ msgstr ""
 #: Trinity/units/Haldrad-Lord.cfg:214 Trinity/units/Haldrad-Fighter.cfg:22
 #: Trinity/units/Haldrad-Fighter.cfg:50
 msgid "sword"
-msgstr ""
+msgstr "剣"
 
 #. [attack]: type=pierce
 #: Trinity/units/Keldan.cfg:43 Trinity/units/Haldrad-Commander.cfg:40
 #: Trinity/units/Haldrad-Commander.cfg:184 Trinity/units/Haldrad-Lord.cfg:43
 #: Trinity/units/Haldrad-Lord.cfg:223
 msgid "bow"
-msgstr ""
+msgstr "弓"
 
 #. [variation]: id=Haldrad Fighter, race=human
 #. [unit_type]: id=Haldrad Fighter, race=human
 #: Trinity/units/Haldrad-Fighter.cfg:4 Trinity/units/Haldrad-Fighter.cfg:33
 msgid "Fighter"
-msgstr ""
+msgstr "戦士"
 
 #. [unit_type]: id=Haldrad Fighter, race=human
 #: Trinity/units/Haldrad-Fighter.cfg:18
@@ -5531,6 +5538,8 @@ msgid ""
 "seasoned enemies. However they have the potential to become great warriors "
 "one day."
 msgstr ""
+"若く向こう見ずな戦士は剣で戦い、より経験を積んだ敵からの攻撃には脆弱です。し"
+"かし、いつの日か偉大な戦士となる素質を秘めています。"
 
 #. [variation]: id=Haldrad Fighter, race=human
 #: Trinity/units/Haldrad-Fighter.cfg:46
@@ -5539,12 +5548,14 @@ msgid ""
 "from enemies. However they have the potential to become great warriors one "
 "day."
 msgstr ""
+"若く向こう見ずな戦士は剣で戦い、敵からの攻撃には脆弱です。しかし、いつの日か"
+"偉大な戦士となる素質を秘めています。"
 
 #. [variation]: id=Haldrad Lord, race=human
 #. [unit_type]: id=Haldrad Lord, race=human
 #: Trinity/units/Haldrad-Lord.cfg:4 Trinity/units/Haldrad-Lord.cfg:175
 msgid "Lord"
-msgstr ""
+msgstr "君主"
 
 #. [variation]: id=Haldrad Lord, race=human
 #. [unit_type]: id=Haldrad Lord, race=human
@@ -5571,23 +5582,23 @@ msgstr ""
 #. [unit_type]: id=South-Seas Pirate, race=south-seas_human
 #: Trinity/units/Ponce.cfg:4
 msgid "Pirate"
-msgstr ""
+msgstr "パイレート"
 
 #. [attack]: type=blade
 #: Trinity/units/Ponce.cfg:49 Trinity/units/Ponce.cfg:144
 #: Trinity/units/Ponce.cfg:244
 msgid "Cutlass"
-msgstr ""
+msgstr "カトラス"
 
 #. [unit_type]: id=South-Seas Corsair, race=south-seas_human
 #: Trinity/units/Ponce.cfg:98
 msgid "Corsair"
-msgstr ""
+msgstr "コルセア"
 
 #. [unit_type]: id=South-Seas Seadog, race=south-seas_human
 #: Trinity/units/Ponce.cfg:196
 msgid "Seadog"
-msgstr ""
+msgstr "歴戦の海賊"
 
 #. [unit_type]: id=Primeval Hera, race=primeval
 #: Trinity/units/Primeval_Hera.cfg:5
@@ -5605,7 +5616,7 @@ msgstr ""
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:45
 #: Trinity/units/Trinity_Destroyer.cfg:46 Trinity/units/Primeval_Hera.cfg:36
 msgid "immortal"
-msgstr ""
+msgstr "不滅"
 
 #. [regenerate]: id=immortal
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:47
@@ -5614,6 +5625,9 @@ msgid ""
 "immortal:\n"
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
 msgstr ""
+"不滅:\n"
+"このユニットはヒットポイントが毎ターン 99 ポイント回復します。もし毒におかさ"
+"れている場合は毒が消え去ります。"
 
 #. [attack]: type=cold
 #. [attack]: type=arcane
@@ -5628,7 +5642,7 @@ msgstr ""
 #. [unit_type]: id=Primeval Nemesis-hi, race=primeval
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:5
 msgid "Pax Nemesis"
-msgstr ""
+msgstr "平和の復讐者"
 
 #. [unit_type]: id=Primeval Nemesis-hi, race=primeval
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:30
@@ -5643,14 +5657,14 @@ msgstr ""
 #: Trinity/units/Trinity_Destroyer.cfg:78
 #: Trinity/units/Primeval_Nemesis-Mid.cfg:64
 msgid "Chakram"
-msgstr ""
+msgstr "チャクラム"
 
 #. [unit_type]: id=Primeval Nemesis-mid, race=primeval
 #. [unit_type]: id=Primeval Nemesis-low, race=primeval
 #: Trinity/units/Primeval_Nemesis-Mid.cfg:5
 #: Trinity/units/Primeval_Nemesis-Low.cfg:5
 msgid "Primeval Nemesis"
-msgstr ""
+msgstr "太古の復讐者"
 
 #. [unit_type]: id=Primeval Nemesis-low, race=primeval
 #: Trinity/units/Primeval_Nemesis-Low.cfg:29
@@ -5671,7 +5685,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Trinity/units/Sea-Monsters.cfg:29
 msgid "tentacle"
-msgstr ""
+msgstr "触手"
 
 #. [unit_type]: id=Trinity Destroyer, race=primeval
 #: Trinity/units/Trinity_Destroyer.cfg:6

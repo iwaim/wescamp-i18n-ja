@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 13:10+0200\n"
-"PO-Revision-Date: 2010-10-31 09:45+0900\n"
+"PO-Revision-Date: 2010-11-11 22:05+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1944,7 +1944,7 @@ msgstr "放火者"
 #: Archaic_Era/units/south-seas/Arsonist.cfg:36
 #: Archaic_Era/units/south-seas/Demolitionist.cfg:37
 msgid "Torch"
-msgstr "接触"
+msgstr "松明"
 
 #. [unit_type]: id=South-Seas Caster, race=south-seas_human
 #: Archaic_Era/units/south-seas/Caster.cfg:5
@@ -2132,7 +2132,7 @@ msgstr "泳者"
 #. [unit_type]: id=South-Seas Seawolf, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wolf.cfg:5
 msgid "Sea Wolf"
-msgstr "海賊"
+msgstr "海の狼"
 
 #. [unit_type]: id=South-Seas Wrecker, race=south-seas_human
 #: Archaic_Era/units/south-seas/Wrecker.cfg:5
