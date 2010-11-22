@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-22 14:45+0900\n"
+"PO-Revision-Date: 2010-11-22 16:34+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -171,7 +171,7 @@ msgstr ""
 #. [heals]: id=healing
 #: Era_of_Magic/abilities.cfg:203
 msgid "ultracures"
-msgstr ""
+msgstr "超回復"
 
 #. [heals]: id=healing
 #: Era_of_Magic/abilities.cfg:208
@@ -184,6 +184,10 @@ msgid ""
 "A curer can cure a unit of poison, although that unit will receive no "
 "additional healing on the turn it is cured of the poison."
 msgstr ""
+"回復 +12:\n"
+"このユニットは隣接した友好的なユニットをターン開始時に回復させます。\n"
+"\n"
+"このユニットに治療されるユニットは 1 ターンに最大でHPが 12 回復します。また、毒を受けたユニットを治療することができます。ただし、毒から治療されたそのターン内には、さらなる回復は受けられません。"
 
 #. [resistance]: id=i8protection
 #: Era_of_Magic/abilities.cfg:229
@@ -264,7 +268,7 @@ msgstr ""
 #. [dummy]: id=i8 kamikaze
 #: Era_of_Magic/abilities.cfg:340
 msgid "kamikaze"
-msgstr ""
+msgstr "カミカゼ"
 
 #. [dummy]: id=i8 kamikaze
 #: Era_of_Magic/abilities.cfg:341
