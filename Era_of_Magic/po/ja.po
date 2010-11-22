@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-22 14:22+0900\n"
+"PO-Revision-Date: 2010-11-22 14:45+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -568,7 +568,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:1312
 msgid "Heals +2"
-msgstr ""
+msgstr "回復 +2"
 
 #: Era_of_Magic/abilities.cfg:1316
 msgid ""
@@ -578,6 +578,10 @@ msgid ""
 "\n"
 "A unit cared for by this healer may heal up to 2 HP per turn."
 msgstr ""
+"回復 +2:\n"
+"このユニットは隣接した友好的なユニットをターン開始時に回復させます。\n"
+"\n"
+"このユニットに治療されるユニットは 1 ターンに最大でHPが 2 回復します。"
 
 #: Era_of_Magic/abilities.cfg:1330
 msgid "inspire"
@@ -668,7 +672,7 @@ msgstr ""
 #: Era_of_Magic/concentrated.cfg:215 Era_of_Magic/concentrated.cfg:216
 #: Era_of_Magic/concentrated.cfg:321 Era_of_Magic/concentrated.cfg:322
 msgid "Growing fury"
-msgstr ""
+msgstr "高ぶる怒り"
 
 #. [damage]: id=i8concentrated
 #. [damage]: id=i8concentrated2
@@ -866,12 +870,12 @@ msgstr ""
 #. [set_menu_item]: id=summon_zhelp
 #: Era_of_Magic/summon.cfg:194
 msgid "Summon Help"
-msgstr ""
+msgstr "召喚についてのヘルプ"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/summon.cfg:208
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/summon.cfg:214
@@ -893,7 +897,7 @@ msgstr ""
 #: Era_of_Magic/summon.cfg:475 Era_of_Magic/summon.cfg:534
 #: Era_of_Magic/summon.cfg:592
 msgid "Summon"
-msgstr ""
+msgstr "召喚"
 
 #. [dummy]: id=summon_lvl3
 #: Era_of_Magic/summon.cfg:231 Era_of_Magic/summon.cfg:293
@@ -904,6 +908,8 @@ msgid ""
 "Summon:\n"
 "this unit can summon new units near him, but not in villages."
 msgstr ""
+"召喚:\n"
+"このユニットは、自身の近くに新しいユニットを召喚することができます。ただし、村には召喚できません。"
 
 #: Era_of_Magic/summon.cfg:283 Era_of_Magic/summon.cfg:348
 #: Era_of_Magic/summon.cfg:404 Era_of_Magic/summon.cfg:468
@@ -912,7 +918,7 @@ msgstr ""
 msgid ""
 " this unit can create other units in the near free spaces, but not in "
 "villages."
-msgstr ""
+msgstr " このユニットは自身の近くの 村以外の空いている場所に別のユニットを創り出すことができます。"
 
 #: Era_of_Magic/summon.cfg:654
 msgid "Summon Roc"
@@ -927,7 +933,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_Cyclop.cfg:4
 msgid "Cyclops"
-msgstr ""
+msgstr "サイクロプス"
 
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
@@ -955,7 +961,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:34
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:72
 msgid "fist"
-msgstr ""
+msgstr "拳"
 
 #. [unit_type]: id=I8 Barbarian_AncientCyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:4
@@ -2018,14 +2024,14 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:4
 msgid "Hidden Face"
-msgstr ""
+msgstr "隠された顔"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:18
 msgid ""
 "Hidden faces are warriors who specialize in close combat, fast strikes, and "
 "dodging."
-msgstr ""
+msgstr "隠された顔は、近接戦闘や速攻、回避能力を得意とする戦士です。"
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:4
@@ -2302,12 +2308,12 @@ msgstr ""
 msgid ""
 "Mystic warriors use special staffs to perform both their ranged and melee "
 "attacks."
-msgstr ""
+msgstr "神秘の戦士は、格闘攻撃と投射攻撃の両方に特殊な杖を使います。"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticalWarrior.cfg:211
 msgid "secret hit"
-msgstr ""
+msgstr "秘伝の一撃"
 
 #. [unit_type]: id=I8 enlightened_shadowmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Shadowmage.cfg:4
