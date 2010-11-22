@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-22 08:45+0900\n"
+"PO-Revision-Date: 2010-11-22 14:22+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -724,7 +724,7 @@ msgstr ""
 #: Era_of_Magic/factions/darkblood-masters.cfg:4
 #: Era_of_Magic/factions/darkblood-magic.cfg:4
 msgid "Dark Blood Alliance"
-msgstr ""
+msgstr "どす黒い血の同盟"
 
 #. [multiplayer_side]: id=enlightenedones_masters, type=I8 enlightened_mastermage
 #. [multiplayer_side]: id=newenlightened_rpg, type=I8 enlightened_battlemage
@@ -1834,7 +1834,7 @@ msgstr "ワイバーンの乗り手"
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:4
 msgid "Abyss Mage"
-msgstr ""
+msgstr "深淵の魔術師"
 
 #. [unit_type]: id=I8 enlightened_abyssmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Abyssmage.cfg:19
@@ -1886,7 +1886,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:4
 msgid "Battlemage"
-msgstr ""
+msgstr "戦いの魔術師"
 
 #. [unit_type]: id=I8 enlightened_battlemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Battlemage.cfg:18
@@ -1899,7 +1899,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:4
 msgid "Black Mage"
-msgstr ""
+msgstr "黒の魔術師"
 
 #. [unit_type]: id=I8 enlightened_blackmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:18
@@ -1923,12 +1923,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:62
 msgid "blades"
-msgstr ""
+msgstr "刃"
 
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:4
 msgid "Elementalist"
-msgstr ""
+msgstr "精霊使い"
 
 #. [unit_type]: id=I8 Elementalist, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Elementalist.cfg:18
@@ -1941,7 +1941,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:4
 msgid "Golden Mage"
-msgstr ""
+msgstr "金の魔術師"
 
 #. [unit_type]: id=I8 enlightened_goldenmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:17
@@ -1964,12 +1964,12 @@ msgstr ""
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Goldenmage.cfg:48
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:22
 msgid "sword"
-msgstr ""
+msgstr "剣"
 
 #. [unit_type]: id=I8 Golem, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:4
 msgid "Golem"
-msgstr ""
+msgstr "ゴーレム"
 
 #. [unit_type]: id=I8 Golem, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:17
@@ -1982,7 +1982,7 @@ msgstr ""
 #. [unit_type]: id=I8 Golem_boss, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:4
 msgid "Golem Boss"
-msgstr ""
+msgstr "ゴーレム ボス"
 
 #. [unit_type]: id=I8 Golem_boss, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:18
@@ -1994,7 +1994,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_Guru, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:4
 msgid "Guru"
-msgstr ""
+msgstr "導師"
 
 #. [unit_type]: id=I8 enlightened_Guru, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:18
@@ -2030,7 +2030,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:4
 msgid "Mage of air"
-msgstr ""
+msgstr "風の魔術師"
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:17
@@ -2060,7 +2060,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:4
 msgid "Mage of fire"
-msgstr ""
+msgstr "火の魔術師"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:16
@@ -2083,7 +2083,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:4
 msgid "Mage of water"
-msgstr ""
+msgstr "水の魔術師"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:27
@@ -2132,7 +2132,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:4
 msgid "Master of Air"
-msgstr ""
+msgstr "風の支配者"
 
 #. [unit_type]: id=I8 enlightened_master_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:18
@@ -2162,7 +2162,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:4
 msgid "Master of Fire"
-msgstr ""
+msgstr "火の支配者"
 
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:18
@@ -2188,7 +2188,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_master_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:4
 msgid "Master of Water"
-msgstr ""
+msgstr "水の支配者"
 
 #. [unit_type]: id=I8 enlightened_master_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:27
@@ -2220,7 +2220,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:4
 msgid "Mastermage"
-msgstr ""
+msgstr "魔術の達人"
 
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:18
@@ -2247,7 +2247,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_masterofelements, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:4
 msgid "Master of Elements"
-msgstr ""
+msgstr "精霊の支配者"
 
 #. [attack]: type=fire
 #. [attack]: type=impact
@@ -2260,7 +2260,7 @@ msgstr ""
 #. [unit_type]: id=I8 Mu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:4
 msgid "Mu"
-msgstr ""
+msgstr "ム"
 
 #. [unit_type]: id=I8 Mu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:18
@@ -2272,12 +2272,12 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:80
 msgid "mu"
-msgstr ""
+msgstr "厶"
 
 #. [unit_type]: id=I8 MysticMu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticMu.cfg:4
 msgid "Um"
-msgstr ""
+msgstr "ウム"
 
 #. [unit_type]: id=I8 MysticMu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticMu.cfg:18
@@ -2290,7 +2290,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticMu.cfg:70
 msgid "um"
-msgstr ""
+msgstr "ウム"
 
 #. [unit_type]: id=I8 enlightened_MysticWarrior, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MysticalWarrior.cfg:4
@@ -2312,7 +2312,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_shadowmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Shadowmage.cfg:4
 msgid "Shadowmage"
-msgstr ""
+msgstr "影の魔術師"
 
 #. [unit_type]: id=I8 enlightened_shadowmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Shadowmage.cfg:18
@@ -2329,7 +2329,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_archmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:4
 msgid "Sorcerer"
-msgstr ""
+msgstr "ソーサラー"
 
 #. [unit_type]: id=I8 enlightened_archmage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:17
@@ -2341,7 +2341,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:4
 msgid "Subversive mage"
-msgstr ""
+msgstr "破壊の魔術師"
 
 #. [unit_type]: id=I8 enlightened_subversivemage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Subversivemage.cfg:18
@@ -2353,7 +2353,7 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:4
 msgid "War Mage"
-msgstr ""
+msgstr "戦争の魔術師"
 
 #. [unit_type]: id=I8 enlightened_spellsword, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:17
@@ -2472,7 +2472,7 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:38
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:37
 msgid "mace"
-msgstr ""
+msgstr "メイス"
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:4
@@ -3093,7 +3093,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:4
 msgid "Air Avatar"
-msgstr ""
+msgstr "風の化身"
 
 #. [unit_type]: id=I8 Ak_Avatar_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:18
@@ -3117,7 +3117,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:4
 msgid "Earth Avatar"
-msgstr ""
+msgstr "土の化身"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:16
@@ -3142,7 +3142,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:4
 msgid "Fire Avatar"
-msgstr ""
+msgstr "火の化身"
 
 #. [unit_type]: id=I8 Ak_Avatar_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Fire.cfg:17
@@ -3159,7 +3159,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:4
 msgid "Water Avatar"
-msgstr ""
+msgstr "水の化身"
 
 #. [unit_type]: id=I8 Ak_Avatar_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Water.cfg:25
@@ -3412,7 +3412,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:4
 msgid "Air elemental"
-msgstr ""
+msgstr "風の精霊"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:20
@@ -3437,7 +3437,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:4
 msgid "Earth elemental"
-msgstr ""
+msgstr "土の精霊"
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:18
@@ -3457,7 +3457,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:4
 msgid "Fire elemental"
-msgstr ""
+msgstr "火の精霊"
 
 #. [unit_type]: id=I8 Ak_Elemental_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Fire.cfg:17
@@ -3475,7 +3475,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:4
 msgid "Water elemental"
-msgstr ""
+msgstr "水の精霊"
 
 #. [unit_type]: id=I8 Ak_Elemental_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:27
@@ -3496,7 +3496,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:4
 msgid "Air God"
-msgstr ""
+msgstr "風の王"
 
 #. [unit_type]: id=I8 Ak_God_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:21
@@ -3517,7 +3517,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:4
 msgid "Earth God"
-msgstr ""
+msgstr "土の王"
 
 #. [unit_type]: id=I8 Ak_God_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Earth.cfg:17
@@ -3534,7 +3534,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:4
 msgid "Fire God"
-msgstr ""
+msgstr "火の王"
 
 #. [unit_type]: id=I8 Ak_God_fire, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:18
@@ -3551,7 +3551,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:4
 msgid "Water God"
-msgstr ""
+msgstr "水の王"
 
 #. [unit_type]: id=I8 Ak_God_water, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_God_Water.cfg:28
