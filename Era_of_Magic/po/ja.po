@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-22 16:34+0900\n"
+"PO-Revision-Date: 2010-11-24 03:39+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -1404,7 +1404,7 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:139
 #: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:88
 msgid "bow"
-msgstr ""
+msgstr "弓"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:4
@@ -2375,7 +2375,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_LightAdept, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:4
 msgid "Adept of Light"
-msgstr ""
+msgstr "光の熟練者"
 
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #. [unit_type]: id=I8 Kharos_LightSister, race=human
@@ -2389,7 +2389,7 @@ msgid ""
 "\n"
 "\n"
 "Special Notes:"
-msgstr ""
+msgstr "\n\n特記事項:"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:124
@@ -2403,7 +2403,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:4
 msgid "Child of Light"
-msgstr ""
+msgstr "光の使徒"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:72
@@ -2414,7 +2414,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:4
 msgid "Cleric"
-msgstr ""
+msgstr "牧師"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:19
@@ -2425,15 +2425,16 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
+# [ja] 意訳
 #. [unit_type]: id=I8 Kharos_LightInspired, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightInspired.cfg:4
 msgid "Inspired"
-msgstr ""
+msgstr "覚醒者"
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:4
 msgid "Mistress of Light"
-msgstr ""
+msgstr "光の支配者"
 
 #. [unit_type]: id=I8 Kharos_LightMistress, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:21
@@ -2453,7 +2454,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:4
 msgid "Prophet of Light"
-msgstr ""
+msgstr "光の預言者"
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:19
@@ -2462,16 +2463,19 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+".\n"
+"\n"
+"特記事項:"
 
 #. [unit_type]: id=I8 Kharos_LightSister, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:4
 msgid "Sister of Light"
-msgstr ""
+msgstr "光の修道女"
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:4
 msgid "Brown Warrior"
-msgstr ""
+msgstr "茶の闘士"
 
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:18
@@ -2487,45 +2491,45 @@ msgstr "メイス"
 #. [unit_type]: id=I8 Kharos_SunCavalryArcher, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:4
 msgid "Cavalry Archer"
-msgstr ""
+msgstr "騎馬の弓兵"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:25
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:35
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:47
 msgid "bow bash"
-msgstr ""
+msgstr "弓での打撃"
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherHeavy, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:4
 msgid "Heavy Cavalry Archer"
-msgstr ""
+msgstr "騎馬の重弓兵"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherHeavy.cfg:44
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:81
 msgid "arrow"
-msgstr ""
+msgstr "矢"
 
 #. [unit_type]: id=I8 Kharos_SunCavalryArcherII, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:4
 msgid "Elemental Archer"
-msgstr ""
+msgstr "精霊の弓兵"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:56
 msgid "fire arrow"
-msgstr ""
+msgstr "火の矢"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcherII.cfg:68
 msgid "ice arrow"
-msgstr ""
+msgstr "氷の矢"
 
 #. [unit_type]: id=I8 Kharos_SunFanatic, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFanatic.cfg:4
 msgid "Fanatic"
-msgstr ""
+msgstr "狂信者"
 
 #. [unit_type]: id=I8 Kharos_SunSlicer, race=human
 #. [unit_type]: id=I8 Kharos_SunFanatic, race=human
@@ -2537,7 +2541,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFollower.cfg:4
 msgid "Sun Follower"
-msgstr ""
+msgstr "太陽の信奉者"
 
 #. [unit_type]: id=I8 Kharos_SunFollower, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunFollower.cfg:18
@@ -2549,7 +2553,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:4
 msgid "Golden Warrior"
-msgstr ""
+msgstr "金の闘士"
 
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:18
@@ -2573,7 +2577,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:4
 msgid "Sun Guardian"
-msgstr ""
+msgstr "太陽の守護者"
 
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:18
@@ -2626,7 +2630,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:4
 msgid "Master of Sun"
-msgstr ""
+msgstr "太陽の支配者"
 
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:18
@@ -2644,7 +2648,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:4
 msgid "Platinum Warrior"
-msgstr ""
+msgstr "白金の闘士"
 
 #. [unit_type]: id=I8 Kharos_SunPlatinumwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:19
@@ -2656,7 +2660,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:4
 msgid "Protector"
-msgstr ""
+msgstr "保護者"
 
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:19
@@ -2669,12 +2673,12 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:57
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:58
 msgid "shield"
-msgstr ""
+msgstr "盾"
 
 #. [unit_type]: id=I8 Kharos_SunRevenger, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:4
 msgid "Revenger"
-msgstr ""
+msgstr "復讐者"
 
 #. [unit_type]: id=I8 Kharos_SunRevenger, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:19
@@ -2686,7 +2690,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:4
 msgid "Shielder"
-msgstr ""
+msgstr "盾使い"
 
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:19
@@ -2698,7 +2702,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunSilverwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:4
 msgid "Silver Warrior"
-msgstr ""
+msgstr "銀の闘士"
 
 #. [unit_type]: id=I8 Kharos_SunSilverwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:18
@@ -2708,12 +2712,12 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunSlicer, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSlicer.cfg:4
 msgid "Slicer"
-msgstr ""
+msgstr "切りつける者"
 
 #. [unit_type]: id=I8 Kharos_SunWhitewarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:4
 msgid "White Warrior"
-msgstr ""
+msgstr "白の闘士"
 
 #. [unit_type]: id=I8 Kharos_SunWhitewarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:18
