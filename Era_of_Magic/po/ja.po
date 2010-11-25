@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-24 03:39+0900\n"
+"PO-Revision-Date: 2010-11-26 02:22+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -3233,7 +3233,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:4
 msgid "Camel Rider"
-msgstr ""
+msgstr "ラクダの乗り手"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:20
@@ -3389,7 +3389,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:4
 msgid "Efreeti"
-msgstr ""
+msgstr "イフリート"
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:18
@@ -3421,7 +3421,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:4
 msgid "Great Efreeti"
-msgstr ""
+msgstr "グレートイフリート"
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:19
@@ -3602,7 +3602,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:4
 msgid "Heavy Camel Rider"
-msgstr ""
+msgstr "ラクダの重騎兵"
 
 #. [unit_type]: id=I8 Ak_HeavyCamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:19
@@ -3653,7 +3653,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:150
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:128
 msgid "scroll"
-msgstr ""
+msgstr "巻物"
 
 #. [unit_type]: id=I8 Ak_HoRhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:4
@@ -3691,12 +3691,12 @@ msgstr ""
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:161
 msgid "trident"
-msgstr ""
+msgstr "トライデント"
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:4
 msgid "Jinn"
-msgstr ""
+msgstr "ジン"
 
 #. [unit_type]: id=I8 Ak_Jinn, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:18
@@ -3713,12 +3713,12 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn.cfg:357
 msgid "magical dagger"
-msgstr ""
+msgstr "マジカルダガー"
 
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:4
 msgid "Great Jinn"
-msgstr ""
+msgstr "グレートジン"
 
 #. [unit_type]: id=I8 Ak_Jinn_Great, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:19
@@ -3742,12 +3742,12 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Great.cfg:170
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:187
 msgid "magical scimitar"
-msgstr ""
+msgstr "マジカルシミター"
 
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:4
 msgid "Mystical Jinn"
-msgstr ""
+msgstr "ミスティカルジン"
 
 #. [unit_type]: id=I8 Ak_Jinn_Mystic, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:24
@@ -3783,7 +3783,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:4
 msgid "Wonderful Jinn"
-msgstr ""
+msgstr "ワンダフルジン"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:17
@@ -3873,7 +3873,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:130
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:24
 msgid "swords"
-msgstr ""
+msgstr "剣"
 
 #. [unit_type]: id=I8 Ak_RhamiKai, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:4
@@ -3894,7 +3894,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:4
 msgid "Novice Summoner"
-msgstr ""
+msgstr "召喚士見習い"
 
 #. [unit_type]: id=I8 Ak_Summoner, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summoner.cfg:22
@@ -3915,7 +3915,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:4
 msgid "Summoner"
-msgstr ""
+msgstr "召喚士"
 
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:20
@@ -3933,12 +3933,12 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:138
 msgid "magic arrow"
-msgstr ""
+msgstr "魔法の矢"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:4
 msgid "Grand Summoner"
-msgstr ""
+msgstr "熟練召喚士"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:20
@@ -3964,7 +3964,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:4
 msgid "Summons master"
-msgstr ""
+msgstr "召喚術を極めし者"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:24
@@ -4027,7 +4027,7 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:25
 #: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:37
 msgid "knives"
-msgstr ""
+msgstr "ナイフ"
 
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:4
@@ -4040,6 +4040,8 @@ msgid ""
 ".\n"
 "Special Notes:"
 msgstr ""
+".\n"
+"特記事項:"
 
 #. [unit_type]: id=I8 Tharis_Blademaster, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:4
@@ -4051,7 +4053,7 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:127
 #: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:62
 msgid "daggers"
-msgstr ""
+msgstr "ダガー"
 
 #. [unit_type]: id=I8 Tharis_Chaoshydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:4
