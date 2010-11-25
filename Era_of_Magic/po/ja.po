@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-26 02:22+0900\n"
+"PO-Revision-Date: 2010-11-26 07:57+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -394,7 +394,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:685
 msgid "Repairs +5"
-msgstr ""
+msgstr "修理 +5"
 
 #: Era_of_Magic/abilities.cfg:689
 msgid ""
@@ -407,7 +407,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:706
 msgid "Repairs +8"
-msgstr ""
+msgstr "修理 +8"
 
 #: Era_of_Magic/abilities.cfg:710
 msgid ""
@@ -423,7 +423,7 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
 msgid "grenade"
-msgstr ""
+msgstr "グレネード"
 
 #: Era_of_Magic/abilities.cfg:756 Era_of_Magic/abilities.cfg:757
 msgid ""
@@ -433,7 +433,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:764 Era_of_Magic/abilities.cfg:880
 msgid "Rune Aura"
-msgstr ""
+msgstr "ルーンオーラ"
 
 #: Era_of_Magic/abilities.cfg:766
 msgid ""
@@ -455,11 +455,11 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:841
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #: Era_of_Magic/abilities.cfg:847
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 #: Era_of_Magic/abilities.cfg:861
 msgid "You don't have enough gold to activate the rune aura!"
@@ -486,7 +486,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:938
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: Era_of_Magic/abilities.cfg:962 Era_of_Magic/abilities.cfg:963
 msgid "swamp ambush"
@@ -2766,7 +2766,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_mbBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:4
 msgid "Balloon"
-msgstr ""
+msgstr "気球"
 
 #. [unit_type]: id=I8 AD_mbBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:17
@@ -2784,12 +2784,12 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:59
 #: Era_of_Magic/units/Runemasters/AD_Baloon.cfg:57
 msgid "bombs"
-msgstr ""
+msgstr "爆弾"
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:4
 msgid "Flying Fortress"
-msgstr ""
+msgstr "空飛ぶ要塞"
 
 #. [unit_type]: id=I8 AD_FlyingFortress, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:20
@@ -2813,17 +2813,17 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:71
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:71
 msgid "machine gun"
-msgstr ""
+msgstr "マシンガン"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/AD_FlyingFortress.cfg:83
 msgid "cannon"
-msgstr ""
+msgstr "カノン"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:4
 msgid "Heavy Balloon"
-msgstr ""
+msgstr "大気球"
 
 #. [unit_type]: id=I8 AD_mbHeavyBaloon, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_HeavyBaloon.cfg:19
@@ -2844,7 +2844,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_dHeavyWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_HeavyWarrior.cfg:4
 msgid "Dwarvish Heavy Warrior"
-msgstr ""
+msgstr "ドワーフの熟練闘士"
 
 #. [attack]: type=pierce
 #. [attack]: type=fire
@@ -2855,12 +2855,12 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_SM.cfg:310
 #: Era_of_Magic/units/Runemasters/AD_HeavyWarrior.cfg:38
 msgid "gun"
-msgstr ""
+msgstr "銃"
 
 #. [unit_type]: id=I8 AD_rMechanic, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:4
 msgid "Mechanic"
-msgstr ""
+msgstr "整備士"
 
 #. [unit_type]: id=I8 AD_rMechanic, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:18
@@ -2895,12 +2895,12 @@ msgstr ""
 #. [unit_type]: id=I8 AD_MD, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:4
 msgid "Mechanical Dragon"
-msgstr ""
+msgstr "機械竜"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:99
 msgid "flame"
-msgstr ""
+msgstr "火炎"
 
 #. [unit_type]: id=I8 AD_Pacificator, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:4
@@ -2933,7 +2933,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_RedUlfserker.cfg:4
 msgid "Red Ulfserker"
-msgstr ""
+msgstr "赤い蒸気式狼戦士"
 
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_RedUlfserker.cfg:21
@@ -2952,7 +2952,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneAdept.cfg:4
 msgid "Runeadept"
-msgstr ""
+msgstr "ルーン使い"
 
 #. [unit_type]: id=I8 AD_maRuneAdept, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneAdept.cfg:18
@@ -2975,7 +2975,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:100
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:107
 msgid "hammer"
-msgstr ""
+msgstr "ハンマー"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:41
@@ -2983,41 +2983,41 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:39
 #: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:41
 msgid "runes"
-msgstr ""
+msgstr "ルーン"
 
 #. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:4
 msgid "Rune Artist"
-msgstr ""
+msgstr "ルーンアーティスト"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:29
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:27
 msgid "runic hammer"
-msgstr ""
+msgstr "ルーンハンマー"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_RuneArtist.cfg:53
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:54
 msgid "lightning bolt"
-msgstr ""
+msgstr "雷撃"
 
 #. [unit_type]: id=I8 AD_RuneLord, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:4
 msgid "Dwarvish Rune Lord"
-msgstr ""
+msgstr "ドワーフのルーン貴族"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Runemasters/AD_RuneLord.cfg:44
 msgid "runic sword"
-msgstr ""
+msgstr "ルーンソード"
 
 #. [unit_type]: id=I8_AD_RuneMaster, race=dwarf
 #. [unit_type]: id=I8_AD_RuneMaster2, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster.cfg:4
 #: Era_of_Magic/units/Runemasters/AD_RuneMaster2.cfg:4
 msgid "Runemaster"
-msgstr ""
+msgstr "ルーンマスター"
 
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:4
@@ -3027,22 +3027,22 @@ msgstr ""
 #. [unit_type]: id=I8 AD_RuneWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:4
 msgid "Dwarvish Rune Warrior"
-msgstr ""
+msgstr "ドワーフのルーン闘士"
 
 #. [unit_type]: id=I8 AD_mecSM, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SM.cfg:4
 msgid "Striding Machine"
-msgstr ""
+msgstr "歩行器"
 
 #. [unit_type]: id=I8 AD_SteamBerserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SteamBerserker.cfg:4
 msgid "Steam Berserker"
-msgstr ""
+msgstr "蒸気式狂戦士"
 
 #. [unit_type]: id=I8 AD_SteamaUlfserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SteamUlfserker.cfg:4
 msgid "Steam Ulfserker"
-msgstr ""
+msgstr "蒸気式狼戦士"
 
 #. [unit_type]: id=I8 AD_SteamaUlfserker, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_SteamUlfserker.cfg:18
@@ -3057,7 +3057,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_meSteamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Steamcopter.cfg:4
 msgid "Steamcopter"
-msgstr ""
+msgstr "蒸気式ヘリコプター"
 
 #. [unit_type]: id=I8 AD_meSteamcopter, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Steamcopter.cfg:16
@@ -3069,7 +3069,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_mecTank, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:4
 msgid "Dwarvish Tank"
-msgstr ""
+msgstr "ドワーフの戦車"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:88
@@ -3079,7 +3079,7 @@ msgstr ""
 #. [unit_type]: id=I8 AD_rTechnician, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:4
 msgid "Technician"
-msgstr ""
+msgstr "技術士"
 
 #. [unit_type]: id=I8 AD_rTechnician, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:21
@@ -3100,7 +3100,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:75
 msgid "burner"
-msgstr ""
+msgstr "バーナー"
 
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:4
