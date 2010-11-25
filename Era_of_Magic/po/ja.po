@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-26 07:57+0900\n"
+"PO-Revision-Date: 2010-11-26 08:04+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1114,7 +1114,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:19
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:26
 msgid "."
-msgstr ""
+msgstr "."
 
 #. [attack]: type=arcane
 #. [attack]: type=fire
@@ -1123,7 +1123,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:37
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:64
 msgid "eye"
-msgstr ""
+msgstr "視線"
 
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:4
@@ -1140,7 +1140,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMighty.cfg:28
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:69
 msgid "tree"
-msgstr ""
+msgstr "木"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:126
@@ -1179,7 +1179,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:61
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:37
 msgid "dagger"
-msgstr ""
+msgstr "ダガー"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:39
@@ -1266,7 +1266,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:62
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:47
 msgid "spear"
-msgstr ""
+msgstr "槍"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -1277,7 +1277,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:71
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:56
 msgid "spear throw"
-msgstr ""
+msgstr "投げ槍"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:4
@@ -1341,7 +1341,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:39
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:24
 msgid "axe"
-msgstr ""
+msgstr "斧"
 
 #. [unit_type]: id=I8 Barbarian_GreatBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:4
@@ -1810,7 +1810,7 @@ msgstr ""
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Darkblood/DB_Toad.cfg:94
 msgid "dart"
-msgstr ""
+msgstr "ダーツ"
 
 #. [unit_type]: id=I8_DB_Wyvern, race=monster
 #: Era_of_Magic/units/Darkblood/DB_Wyvern.cfg:4
@@ -3105,7 +3105,7 @@ msgstr "バーナー"
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:4
 msgid "Dwarvish Warrior"
-msgstr ""
+msgstr "ドワーフの闘士"
 
 #. [unit_type]: id=I8 AD_dWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Warrior.cfg:20
