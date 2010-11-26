@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-27 03:18+0900\n"
+"PO-Revision-Date: 2010-11-27 04:08+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -644,7 +644,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:1512 Era_of_Magic/abilities.cfg:1513
 msgid "banish"
-msgstr ""
+msgstr "追放"
 
 #: Era_of_Magic/abilities.cfg:1515 Era_of_Magic/abilities.cfg:1517
 msgid ""
@@ -654,10 +654,15 @@ msgid ""
 "below the banisher). If the enemy is at least two levels below your "
 "banisher, it'll get completly destroyed. Any other enemy won't be affected."
 msgstr ""
+"追放:\n"
+"追放が魔法生物に命中すれば、敵は DG（次元の扉）に戻ってしまいます（これは、対"
+"象のレベルが追放を使うユニットのレベルよりも 1つだけ低いときにのみ起こりま"
+"す）。もし、敵のレベルが 2レベル以上低いときには、完全に破壊することができる"
+"でしょう。他の敵にはいかなる効果も与えません。"
 
 #: Era_of_Magic/abilities.cfg:1660
 msgid "circle of banishment"
-msgstr ""
+msgstr "追放の魔法陣"
 
 #: Era_of_Magic/abilities.cfg:1664
 msgid ""
@@ -2057,14 +2062,14 @@ msgstr ""
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:4
 msgid "Hidden Face"
-msgstr "隠された顔"
+msgstr "覆面"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:18
 msgid ""
 "Hidden faces are warriors who specialize in close combat, fast strikes, and "
 "dodging."
-msgstr "隠された顔は、近接戦闘や速攻、回避能力を得意とする戦士です。"
+msgstr "覆面は、近接戦闘や速攻、回避能力を得意とする戦士です。"
 
 #. [unit_type]: id=I8 enlightened_mage_of_air, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:4
@@ -3222,7 +3227,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:4
 msgid "Banisher"
-msgstr ""
+msgstr "魔力追放使い"
 
 #. [unit_type]: id=I8 Ak_Banisher, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:20
@@ -3231,18 +3236,21 @@ msgid ""
 "Special Notes: Banish: this unit can effecively fight with magical units by "
 "turning them into Dimensional Gates."
 msgstr ""
+"(概要は存在しません)\n"
+"特記事項: 追放: このユニットは次元の扉から呼び出された魔法生物に対して効果的"
+"に戦うことができます。"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:34
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:30
 msgid "banishment"
-msgstr ""
+msgstr "追放"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Summoners/AlKamija_Banisher.cfg:55
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:51
 msgid "frozen gate"
-msgstr ""
+msgstr "氷結の扉"
 
 #. [unit_type]: id=I8 Ak_CamelRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:4
@@ -3386,10 +3394,11 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:4
 msgid "Dispeller"
-msgstr ""
+msgstr "解呪使い"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:19
+#, fuzzy
 msgid ""
 "Some Summoners choose opposite path of the summoning arts, which is known as "
 "the art of banishment. Instead of bringing magical beings to this world, "
@@ -3399,6 +3408,14 @@ msgid ""
 "Special Notes: Banish: this unit can effecively fight with magical units by "
 "turning them into Dimensional Gates."
 msgstr ""
+"Some Summoners choose opposite path of the summoning arts, which is known as "
+"the art of banishment. Instead of bringing magical beings to this world, "
+"they specialize in sending them back to Abyss. Having this useful knowledge, "
+"dispellers are often called by summoners, when something goes wrong, for "
+"example when an Efreeti rebels.\n"
+"\n"
+"特記事項: 追放: このユニットは次元の扉から呼び出された魔法生物に対して効果的"
+"に戦うことができます。"
 
 #. [unit_type]: id=I8 Ak_Efreeti, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Efreeti.cfg:4
