@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-27 01:14+0900\n"
+"PO-Revision-Date: 2010-11-27 01:19+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -1357,7 +1357,7 @@ msgstr "バーバリアンの貴族"
 #. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:4
 msgid "Barbarian Berserker"
-msgstr "バーバリアンの破壊者"
+msgstr "バーバリアンの狂戦士"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -1386,9 +1386,8 @@ msgstr ""
 
 #. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:4
-#, fuzzy
 msgid "Blood Warrior"
-msgstr "Blood Warrior"
+msgstr "血糊の闘士"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:4
