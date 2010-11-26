@@ -6,13 +6,13 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-27 01:47+0900\n"
+"PO-Revision-Date: 2010-11-27 03:18+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [multiplayer_side]: id=Random
@@ -217,7 +217,7 @@ msgstr ""
 #. [chance_to_hit]: id=precision
 #: Era_of_Magic/abilities.cfg:246
 msgid "precision"
-msgstr ""
+msgstr "精度"
 
 #. [chance_to_hit]: id=precision
 #: Era_of_Magic/abilities.cfg:248
@@ -225,11 +225,13 @@ msgid ""
 "precision:\n"
 "This attack always has a 80% chance to hit"
 msgstr ""
+"精度:\n"
+"この攻撃は常に 80% の確率で命中します。"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/abilities.cfg:260
 msgid "circle of resistance"
-msgstr ""
+msgstr "抵抗の魔法陣"
 
 #. [resistance]: id=cr
 #: Era_of_Magic/abilities.cfg:262
@@ -238,6 +240,9 @@ msgid ""
 "This unit and all adjacent friendly units receive a +20% bonus to fire, cold "
 "and arcane resistance."
 msgstr ""
+"抵抗の魔法陣:\n"
+"このユニットと全ての友好的なユニットは、火炎と冷気、秘術に対して +20% の抵抗"
+"力を獲得します。"
 
 #. [resistance]: id=deadzone
 #: Era_of_Magic/abilities.cfg:277
@@ -287,7 +292,9 @@ msgstr "カミカゼ"
 msgid ""
 "Kamikaze: this unit always hits a target when attacking, but it dies "
 "instantly."
-msgstr "カミカゼ: このユニットが攻撃するとき、必ず命中します。しかし、直ちに死んでしまいます。"
+msgstr ""
+"カミカゼ: このユニットが攻撃するとき、必ず命中します。しかし、直ちに死んでし"
+"まいます。"
 
 #: Era_of_Magic/abilities.cfg:364
 msgid "Hit and Run"
@@ -953,7 +960,8 @@ msgid ""
 "this unit can summon new units near him, but not in villages."
 msgstr ""
 "ロックの召喚:\n"
-"このユニットは自身の近くの 村以外の空いている場所に別のユニットを召喚することができます。"
+"このユニットは自身の近くの 村以外の空いている場所に別のユニットを召喚すること"
+"ができます。"
 
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_Cyclop.cfg:4
@@ -2175,7 +2183,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:162
 msgid "short circuit"
-msgstr ""
+msgstr "短絡"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_God_Air.cfg:122
@@ -2751,7 +2759,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #: Era_of_Magic/units/Kharos/Kharos_Warbanner.cfg:4
 msgid "War Banner"
-msgstr ""
+msgstr "戦旗"
 
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
@@ -3266,18 +3274,18 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:98
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:33
 msgid "scimitar"
-msgstr ""
+msgstr "シミター"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_HeavyCamelRider.cfg:41
 #: Era_of_Magic/units/Summoners/AlKamija_CamelRider.cfg:42
 msgid "scimitar throw"
-msgstr ""
+msgstr "シミター投げ"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:4
 msgid "Carpet Master"
-msgstr ""
+msgstr "カーペットの主人"
 
 #. [unit_type]: id=I8 Ak_CarpetMaster, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:19
@@ -3295,12 +3303,12 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetMaster.cfg:48
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:74
 msgid "magical powder"
-msgstr ""
+msgstr "魔法の粉"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:4
 msgid "Carpet Rider"
-msgstr ""
+msgstr "カーペット乗り"
 
 #. [unit_type]: id=I8 Ak_CarpetRider, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_CarpetRider.cfg:21
@@ -3326,7 +3334,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:4
 msgid "Dimensional Gate 2"
-msgstr ""
+msgstr "次元の扉 2"
 
 #. [unit_type]: id=I8 Ak_Enchanted2, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_DG2.cfg:16
@@ -3625,7 +3633,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:4
 msgid "Heavy Summoner"
-msgstr ""
+msgstr "肉体派召喚士"
 
 #. [unit_type]: id=I8 Ak_SummonerHeavy, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:23
@@ -3646,11 +3654,24 @@ msgid ""
 "Like their fellow neutral summoners, heavy summoners can call forth the "
 "Rhami's from the Abyss through their summoning circles."
 msgstr ""
+"「強力な技術」で訓練された召喚士は、第3段階で他の召喚士と比べると独特な利点を"
+"獲得します。それは彼ら自身と同盟者たちの周りに助力を与える能力として知られて"
+"います。抵抗の魔法陣は、魔力による攻撃に対しての障壁となります。これは、魔力"
+"による攻撃を弱体化し、彼らの仲間を常に守ります。\n"
+"\n"
+"彼らは、弾力を持ち力強い肉体を作り上げ、その体格を誇っています。そして、1対1"
+"の直接的な格闘についても非常に訓練されています。むしろ、召喚術への訓練よりも"
+"近接戦闘で戦いの主導権を得るように長年にわたって筋肉を鍛えています。また、第2"
+"段階で獲得した魔法の矢を召喚する能力も持ち合わせています。彼らの筋肉とはもは"
+"や無関係とも言える能力になっていますが。\n"
+"\n"
+"中立召喚士と同様に、召喚魔法陣を通して深淵から Rhami を召喚することもできま"
+"す。"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_HeavySummoner.cfg:116
 msgid "magic arrow II"
-msgstr ""
+msgstr "魔法の矢 II"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:147
@@ -3813,7 +3834,7 @@ msgstr ""
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:4
 msgid "Neutral Summoner"
-msgstr ""
+msgstr "中立召喚士"
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:19
@@ -3826,11 +3847,17 @@ msgid ""
 "summoners are able to summon the agile Rhami's through complex circles that "
 "connect their world with the Abyss."
 msgstr ""
+"第3段階に進んだ召喚士は、中立召喚士となります。彼らは数いる召喚士の中でも最も"
+"謎めいています。この召喚士たちはすべての攻撃で敵の生命力を奪う奇妙な弱体化の"
+"魔法を専門的に学びます。召喚士の中でも密やかな一団であり、そのシミターには生"
+"命吸収の魔力をまとい、また、彼ら特有の魔法陣からも同種の魔力を生み出すことを"
+"学びました。複雑な魔法陣を使って深淵の世界に接触し、Rhami を召喚することがで"
+"きます。"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:109
 msgid "circle of balance"
-msgstr ""
+msgstr "調和の魔法陣"
 
 #. [unit_type]: id=I8 Ak_Rhami, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:4
@@ -3854,7 +3881,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_Rhami.cfg:274
 msgid "sworddance"
-msgstr ""
+msgstr "剣の舞"
 
 #. [unit_type]: id=I8 Ak_RhamiDatu, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:4
@@ -3917,6 +3944,16 @@ msgid ""
 "Special Notes: Precison: The ranged attack of this unit always has an 80% "
 "chance to hit."
 msgstr ""
+"召喚術の世界の見習いは、その技術の象徴的な原理と碑文を最初に教わります。若さ"
+"や戦闘の経験不足のため、見習いは精霊の助力を得られず、火の召喚のための羊皮紙"
+"の巻物のような助けなしにはその技術を使うことはできません。しなしながら、召喚"
+"術は素晴らしい技術であるため、最も基本的な呪文でさえ、ほぼ確実に命中しま"
+"す。\n"
+"\n"
+"他の社会の魔術師とは異なり、召喚士見習いは虚弱という訳でもなく、シミターや素"
+"手で巧く戦えます。\n"
+"\n"
+"特記事項: 精度: このユニットの投射攻撃は常に 80% の確率で命中します。"
 
 #. [unit_type]: id=I8 Ak_SummonerII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:4
@@ -3935,6 +3972,12 @@ msgid ""
 "Special Notes: Precison: Ranged attack of this unit always has a 80% chance "
 "to hit."
 msgstr ""
+"第2段階に進んだ召喚士は、媒体として自らの体を用いて僅かな召喚術を行えるように"
+"なります。その手に魔法の円盤を携えた彼らは、目標とした敵を確実に打ち抜く魔法"
+"の矢を放つことができます。また、ハンマーとシミターで武装した召喚士は、近くの"
+"敵でも遠くにいる敵でも殺せるような訓練を受けています。\n"
+"\n"
+"特記事項: 精度: このユニットの投射攻撃は常に 80% の確率で命中します。"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerII.cfg:138
@@ -3944,7 +3987,7 @@ msgstr "魔法の矢"
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:4
 msgid "Grand Summoner"
-msgstr "熟練召喚士"
+msgstr "大召喚士"
 
 #. [unit_type]: id=I8 Ak_SummonerIII, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:20
@@ -3965,7 +4008,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_SummonerIII.cfg:135
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:99
 msgid "circle of destruction"
-msgstr ""
+msgstr "破壊の魔法陣"
 
 #. [unit_type]: id=I8 Ak_SummonerIV, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:4
@@ -3998,7 +4041,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Summons-Master.cfg:123
 msgid "incantation of power"
-msgstr ""
+msgstr "力ある呪文"
 
 #. [unit_type]: id=I8 Dread Bat, race=bats
 #: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:4
