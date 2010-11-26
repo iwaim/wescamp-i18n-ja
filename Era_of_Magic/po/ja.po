@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-26 11:59+0900\n"
+"PO-Revision-Date: 2010-11-27 01:14+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -287,21 +287,23 @@ msgstr "カミカゼ"
 msgid ""
 "Kamikaze: this unit always hits a target when attacking, but it dies "
 "instantly."
-msgstr ""
+msgstr "カミカゼ: このユニットが攻撃するとき、必ず命中します。しかし、直ちに死んでしまいます。"
 
 #: Era_of_Magic/abilities.cfg:364
 msgid "Hit and Run"
-msgstr ""
+msgstr "ヒットエンドラン"
 
 #: Era_of_Magic/abilities.cfg:366
 msgid ""
 "Hit and Run:\n"
 "This unit gains 3 moves back after attacking, but cannot attack again."
 msgstr ""
+"ヒットエンドラン:\n"
+"このユニットは攻撃した後に移動力を 3 得ます。再度攻撃することはできません。"
 
 #: Era_of_Magic/abilities.cfg:380
 msgid "FLEE!"
-msgstr ""
+msgstr "再移動！"
 
 #: Era_of_Magic/abilities.cfg:390
 msgid "mountain ambush"
@@ -334,17 +336,19 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:417
 msgid "Fury"
-msgstr ""
+msgstr "激怒"
 
 #: Era_of_Magic/abilities.cfg:419
 msgid ""
 "Fury:\n"
 "This unit can attack another after killing an enemy."
 msgstr ""
+"激怒:\n"
+"このユニットは敵を殺した後、別の敵を攻撃することができます。"
 
 #: Era_of_Magic/abilities.cfg:440
 msgid "FURY!"
-msgstr ""
+msgstr "激怒！"
 
 #: Era_of_Magic/abilities.cfg:522
 msgid "Furious death"
@@ -616,7 +620,7 @@ msgstr ""
 #: Era_of_Magic/abilities.cfg:1364 Era_of_Magic/abilities.cfg:1400
 #: Era_of_Magic/abilities.cfg:1450
 msgid "awe"
-msgstr ""
+msgstr "畏怖"
 
 #: Era_of_Magic/abilities.cfg:1368 Era_of_Magic/abilities.cfg:1404
 #: Era_of_Magic/abilities.cfg:1454
@@ -735,7 +739,7 @@ msgstr ""
 #: Era_of_Magic/factions/barbarians-mrpg.cfg:4
 #: Era_of_Magic/factions/barbarians-masters.cfg:4
 msgid "Barbarians"
-msgstr ""
+msgstr "バーバリアン"
 
 #. [multiplayer_side]: id=darkblood, type=I8_DB_ShamanAdept
 #. [multiplayer_side]: id=darkblood, type=I8_DB_Mystic
@@ -753,7 +757,7 @@ msgstr "どす黒い血の同盟"
 #: Era_of_Magic/factions/enlightenedones-mrpg.cfg:4
 #: Era_of_Magic/factions/enlightenedones-magic.cfg:4
 msgid "Sky Kingdom"
-msgstr ""
+msgstr "空の王国"
 
 #. [multiplayer_side]: id=kharos_rpg, type=I8 Kharos_SunWhitewarrior
 #. [multiplayer_side]: id=kharos_masters, type=I8 Kharos_LightProphetoflight
@@ -771,7 +775,7 @@ msgstr ""
 #: Era_of_Magic/factions/runemasters-mrpg.cfg:4
 #: Era_of_Magic/factions/runemasters-magic.cfg:4
 msgid "Runemasters"
-msgstr ""
+msgstr "ルーンマスター"
 
 #. [multiplayer_side]: id=summoners, type=I8 Ak_SummonerII
 #. [multiplayer_side]: id=summoners_masters, type=I8 Ak_SummonerIII
@@ -780,7 +784,7 @@ msgstr ""
 #: Era_of_Magic/factions/summoners-masters.cfg:4
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
 msgid "Summoners"
-msgstr ""
+msgstr "召喚士"
 
 #. [multiplayer_side]: id=warlocks_masters, type=I8 Tharis_Greatwarlock
 #. [multiplayer_side]: id=warlocks, type=I8 Tharis_Darkwizard
@@ -818,7 +822,7 @@ msgstr ""
 #. [leadership]: id=leadership
 #: Era_of_Magic/leaderships.cfg:7
 msgid "Goblin leader"
-msgstr ""
+msgstr "ゴブリンの統率"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/leaderships.cfg:11
@@ -833,7 +837,7 @@ msgstr ""
 #. [leadership]: id=leadership
 #: Era_of_Magic/leaderships.cfg:27
 msgid "Orcish leader"
-msgstr ""
+msgstr "オークの統率"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/leaderships.cfg:31
@@ -848,7 +852,7 @@ msgstr ""
 #. [leadership]: id=leadership
 #: Era_of_Magic/leaderships.cfg:47
 msgid "Troll leader"
-msgstr ""
+msgstr "トロルの統率"
 
 #. [leadership]: id=leadership
 #: Era_of_Magic/leaderships.cfg:51
@@ -866,12 +870,12 @@ msgstr ""
 #. [set_menu_item]: id=summon_{ID}
 #: Era_of_Magic/summon.cfg:24
 msgid "Summon {DESCRIPTION} ({COST}g)"
-msgstr ""
+msgstr "{DESCRIPTION} の召喚 ({COST}ゴールド)"
 
 #. [unstore_unit]
 #: Era_of_Magic/summon.cfg:131 Era_of_Magic/summon.cfg:168
 msgid "+$this_unit.level exp"
-msgstr ""
+msgstr "$this_unit.level 経験値獲得"
 
 #. [message]: speaker=narrator
 #: Era_of_Magic/summon.cfg:182
@@ -941,13 +945,15 @@ msgstr ""
 
 #: Era_of_Magic/summon.cfg:654
 msgid "Summon Roc"
-msgstr ""
+msgstr "ロックの召喚"
 
 #: Era_of_Magic/summon.cfg:656
 msgid ""
 "Summon Roc:\n"
 "this unit can summon new units near him, but not in villages."
 msgstr ""
+"ロックの召喚:\n"
+"このユニットは自身の近くの 村以外の空いている場所に別のユニットを召喚することができます。"
 
 #. [unit_type]: id=I8 Barbarian_Cyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_Cyclop.cfg:4
@@ -985,7 +991,7 @@ msgstr "拳"
 #. [unit_type]: id=I8 Barbarian_AncientCyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopAncient.cfg:4
 msgid "Ancient Cyclops"
-msgstr ""
+msgstr "古代のサイクロプス"
 
 #. [unit_type]: id=I8 AD_RuneArtist, race=dwarf
 #. [unit_type]: id=I8_AD_RuneMaster, race=dwarf
@@ -1128,12 +1134,12 @@ msgstr "視線"
 #. [unit_type]: id=I8 Barbarian_CyclopBreaker, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopBreaker.cfg:4
 msgid "Cyclops Breaker"
-msgstr ""
+msgstr "サイクロプスの破壊者"
 
 #. [unit_type]: id=I8 Barbarian_CyclopDestroyer, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:4
 msgid "Cyclops Destroyer"
-msgstr ""
+msgstr "サイクロプスデストロイヤー"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:113
@@ -1146,27 +1152,27 @@ msgstr "木"
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:126
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopDestroyer.cfg:82
 msgid "tree thrown"
-msgstr ""
+msgstr "木を投げる"
 
 #. [unit_type]: id=I8 Barbarian_CyclopFire, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopFire.cfg:4
 msgid "Fire Cyclops"
-msgstr ""
+msgstr "火のサイクロプス"
 
 #. [unit_type]: id=I8 Barbarian_MadCyclop, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMad.cfg:4
 msgid "Raging Cyclops"
-msgstr ""
+msgstr "怒り狂うサイクロプス"
 
 #. [unit_type]: id=I8 Barbarian_CyclopMighty, race=I8 cyclop
 #: Era_of_Magic/units/Barbarians/Barbarian_CyclopMighty.cfg:4
 msgid "Mighty Cyclops"
-msgstr ""
+msgstr "強力なサイクロプス"
 
 #. [unit_type]: id=I8 Barbarian_GoblinArcher, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:4
 msgid "Goblin Archer"
-msgstr ""
+msgstr "ゴブリンの射手"
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
@@ -1185,28 +1191,28 @@ msgstr "ダガー"
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:39
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinArcher.cfg:70
 msgid "poisoned arrow"
-msgstr ""
+msgstr "毒矢"
 
 #. [unit_type]: id=I8 Barbarian_GoblinAssassin, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:4
 msgid "Goblin Assassin"
-msgstr ""
+msgstr "ゴブリンの暗殺者"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:49
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinAssassin.cfg:46
 msgid "bolas"
-msgstr ""
+msgstr "ボーラ"
 
 #. [unit_type]: id=I8 Barbarian_GoblinHunter, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinHunter.cfg:4
 msgid "Goblin Hunter"
-msgstr ""
+msgstr "ゴブリンの狩人"
 
 #. [unit_type]: id=I8 Barbarian_GoblinKamikaze, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinKamikaze.cfg:4
 msgid "Goblin Kamikaze"
-msgstr ""
+msgstr "ゴブリンの特攻隊"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:39
@@ -1217,7 +1223,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:4
 msgid "Goblin Rouser"
-msgstr ""
+msgstr "最強ゴブリン"
 
 #. [unit_type]: id=I8 Barbarian_GoblinRouser, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRouser.cfg:19
@@ -1282,7 +1288,7 @@ msgstr "投げ槍"
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinRunt.cfg:4
 msgid "Goblin Runt"
-msgstr ""
+msgstr "小ゴブリン"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #. [unit_type]: id=I8 Barbarian_GoblinRunt, race=goblin
@@ -1299,29 +1305,29 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_GoblinSniper, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinSniper.cfg:4
 msgid "Goblin Sniper"
-msgstr ""
+msgstr "ゴブリンの狙撃手"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarbanner, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarbaner.cfg:4
 msgid "Goblin Warbanner"
-msgstr ""
+msgstr "ゴブリンの戦旗"
 
 #. [unit_type]: id=I8 Barbarian_GoblinWarrior, race=goblin
 #: Era_of_Magic/units/Barbarians/Barbarian_GoblinWarrior.cfg:4
 msgid "Goblin Warrior"
-msgstr ""
+msgstr "ゴブリンの闘士"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:4
 msgid "Barbarian"
-msgstr ""
+msgstr "バーバリアン"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:22
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:26
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:27
 msgid "sword+axe"
-msgstr ""
+msgstr "剣+斧"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarian.cfg:31
@@ -1329,12 +1335,12 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:48
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:33
 msgid "hatchet"
-msgstr ""
+msgstr "手斧"
 
 #. [unit_type]: id=I8 Barbarian_BarbarianKing, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianKing.cfg:4
 msgid "Barbarian King"
-msgstr ""
+msgstr "バーバリアンの王"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:28
@@ -1346,12 +1352,12 @@ msgstr "斧"
 #. [unit_type]: id=I8 Barbarian_GreatBarbarian, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBarbarianLord.cfg:4
 msgid "Barbarian Lord"
-msgstr ""
+msgstr "バーバリアンの貴族"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBerserker, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:4
 msgid "Barbarian Berserker"
-msgstr ""
+msgstr "バーバリアンの破壊者"
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -1380,13 +1386,14 @@ msgstr ""
 
 #. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:4
+#, fuzzy
 msgid "Blood Warrior"
-msgstr ""
+msgstr "Blood Warrior"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarbanner.cfg:4
 msgid "Orcish Warbanner"
-msgstr ""
+msgstr "オークの戦旗"
 
 #. [unit_type]: id=I8 Barbarian_OrcishWarbanner, race=orc
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
@@ -1407,12 +1414,12 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_OrcishWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishWarrior.cfg:4
 msgid "Orcish Warrior"
-msgstr ""
+msgstr "オークの闘士"
 
 #. [unit_type]: id=I8 Barbarian_RocMaster, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocMaster.cfg:4
 msgid "Roc Master"
-msgstr ""
+msgstr "ロックの支配者"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Kharos/Kharos_SunCavalryarcher.cfg:34
@@ -1424,7 +1431,7 @@ msgstr "弓"
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:4
 msgid "Roc Rider"
-msgstr ""
+msgstr "ロックの乗り手"
 
 #. [unit_type]: id=I8 Barbarian_RocRider, race=I8 roc
 #: Era_of_Magic/units/Barbarians/Barbarian_RocRider.cfg:18
@@ -1443,7 +1450,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:4
 msgid "Troll Fire Wizard"
-msgstr ""
+msgstr "トロルの火の魔術師"
 
 #. [unit_type]: id=I8 Barbarian_TrollFireWizard, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:27
@@ -1463,7 +1470,7 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:4
 msgid "Troll Sorcerer"
-msgstr ""
+msgstr "トロルの魔術師"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:26
@@ -1481,12 +1488,12 @@ msgstr ""
 #. [unit_type]: id=I8 Barbarian_TrollWarbanner, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:4
 msgid "Troll Warbanner"
-msgstr ""
+msgstr "トロルの戦旗"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollWarbanner.cfg:33
 msgid "banner"
-msgstr ""
+msgstr "旗"
 
 #. [unit_type]: id=I8_DB_BattleToadRecruit, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_BattleToad_recruit.cfg:4
@@ -1502,7 +1509,7 @@ msgstr "戦闘型カエル"
 #: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:25
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:23
 msgid "paw"
-msgstr ""
+msgstr "足"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:32
@@ -1513,7 +1520,7 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:34
 #: Era_of_Magic/units/Darkblood/DB_DreadnaughtRecruit.cfg:32
 msgid "tongue"
-msgstr ""
+msgstr "舌"
 
 #. [attack]: type=pierce
 #. [attack]: type=impact
@@ -1522,7 +1529,7 @@ msgstr ""
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Golem.cfg:48
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_GolemBoss.cfg:195
 msgid "charge"
-msgstr ""
+msgstr "突進"
 
 #. [unit_type]: id=I8_DB_SalamanderBlack, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:4
