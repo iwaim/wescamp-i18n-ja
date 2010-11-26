@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-27 04:08+0900\n"
+"PO-Revision-Date: 2010-11-27 05:25+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -171,12 +171,12 @@ msgstr ""
 #. [leadership]: id=darkaura
 #: Era_of_Magic/abilities.cfg:184
 msgid "dark aura"
-msgstr ""
+msgstr "闇のオーラ"
 
 #. [leadership]: id=darkaura
 #: Era_of_Magic/abilities.cfg:185
 msgid "Dark aura makes all enemy units fight worse (-25% for attack)."
-msgstr ""
+msgstr "闇のオーラは全ての敵ユニットを弱体化（攻撃が -25%）させます。"
 
 #. [heals]: id=healing
 #: Era_of_Magic/abilities.cfg:203
@@ -247,7 +247,7 @@ msgstr ""
 #. [resistance]: id=deadzone
 #: Era_of_Magic/abilities.cfg:277
 msgid "deadzone"
-msgstr ""
+msgstr "死角"
 
 #. [resistance]: id=deadzone
 #: Era_of_Magic/abilities.cfg:279
@@ -256,11 +256,13 @@ msgid ""
 "Adjacent friendly units receive a 99% bonus to fire,cold and arcane "
 "resistance"
 msgstr ""
+"死角:\n"
+"隣接した友好軍のユニットは、火炎と冷気、秘術に対して 99% の抵抗力を得ます。"
 
 #. [resistance]: id=coldaura
 #: Era_of_Magic/abilities.cfg:294
 msgid "cold aura"
-msgstr ""
+msgstr "冷気のオーラ"
 
 #. [resistance]: id=coldaura
 #: Era_of_Magic/abilities.cfg:296
@@ -269,6 +271,9 @@ msgid ""
 "Adjacent units receive a 50% bonus to fire resistance and a -25% bonus to "
 "cold resistance. All cold spells are very powerful here."
 msgstr ""
+"冷気のオーラ:\n"
+"隣接したユニットは +50% の火炎への耐性と冷気への -25% の耐性を受けます。全て"
+"の冷気魔法はこの空間では非常に強力となります。"
 
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/abilities.cfg:325
@@ -1739,7 +1744,7 @@ msgstr "神秘的なカエル"
 #: Era_of_Magic/units/Darkblood/DB_MysticalToadRecruit.cfg:47
 #: Era_of_Magic/units/Darkblood/DB_ShamanisticToad_recruit.cfg:46
 msgid "magic missile"
-msgstr ""
+msgstr "マジカルミサイル"
 
 #. [unit_type]: id=I8_DB_RangedToadDouble, race=lizard
 #: Era_of_Magic/units/Darkblood/DB_RangedToadDouble.cfg:4
@@ -1918,7 +1923,7 @@ msgstr "杖"
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_WarMage.cfg:31
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Sorcerer.cfg:81
 msgid "missile"
-msgstr ""
+msgstr "誘導弾"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Blackmage.cfg:104
@@ -2052,7 +2057,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:142
 msgid "touch of magic"
-msgstr ""
+msgstr "魔力の接触"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:154
@@ -2299,7 +2304,7 @@ msgstr "精霊の支配者"
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:104
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:109
 msgid "touch"
-msgstr ""
+msgstr "接触"
 
 #. [unit_type]: id=I8 Mu, race=monster
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mu.cfg:4
@@ -3447,7 +3452,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:212
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:225
 msgid "magic"
-msgstr ""
+msgstr "マジック"
 
 #. [unit_type]: id=I8 Ak_EfreetiGreat, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:4
@@ -3846,7 +3851,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:238
 msgid "ultra circle"
-msgstr ""
+msgstr "ウルトラサークル"
 
 #. [unit_type]: id=I8 Ak_Masterofbalance, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Masterofbalance.cfg:4
@@ -4157,11 +4162,13 @@ msgid ""
 "Cold Matriarch creates cold aura which makes all cold spells very powerful "
 "(up to 25%) and makes fire spells, very weak."
 msgstr ""
+"氷の女支配者は冷気のオーラをまといます。そのため、冷気の魔法はとても強力"
+"（+25%）なります。また、火炎の魔法はとても弱くなります。"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:84
 msgid "matriarch-fire"
-msgstr "女支配者の炎"
+msgstr "女支配者の冷気"
 
 #. [unit_type]: id=I8 Tharis_Commander, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:4
@@ -4189,7 +4196,7 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:96
 msgid "dark spark"
-msgstr ""
+msgstr "闇の火花"
 
 #. [unit_type]: id=I8 Tharis_Deephydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:4
@@ -4250,12 +4257,12 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:50
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:46
 msgid "scythe"
-msgstr ""
+msgstr "大鎌"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:65
 msgid "dark ball"
-msgstr ""
+msgstr "闇の魔力球"
 
 #. [unit_type]: id=I8 Tharis_Hunter, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Hunter.cfg:4
@@ -4290,7 +4297,7 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:69
 msgid "implosion"
-msgstr ""
+msgstr "爆縮"
 
 #. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:4
@@ -4332,7 +4339,7 @@ msgstr "魔女の炎"
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:50
 msgid "blood gate"
-msgstr ""
+msgstr "血糊の扉"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:4
@@ -4387,17 +4394,17 @@ msgstr "魔法生物"
 #. [trait]: id=magical
 #: Era_of_Magic/units/units.cfg:41
 msgid "magical"
-msgstr ""
+msgstr "魔法生物"
 
 #. [trait]: id=magical
 #: Era_of_Magic/units/units.cfg:42
 msgid "female^magical"
-msgstr ""
+msgstr "魔法生物"
 
 #. [trait]: id=magical
 #: Era_of_Magic/units/units.cfg:43
 msgid "Immune to drain, poison and plague"
-msgstr ""
+msgstr "吸収、毒、疫病への耐性"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:67 Era_of_Magic/units/units.cfg:69
