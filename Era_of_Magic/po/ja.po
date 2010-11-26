@@ -6,13 +6,13 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-26 08:04+0900\n"
+"PO-Revision-Date: 2010-11-26 11:59+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [multiplayer_side]: id=Random
@@ -3997,7 +3997,7 @@ msgstr ""
 #. [unit_type]: id=I8 Dread Bat, race=bats
 #: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:4
 msgid "Dread Bat"
-msgstr ""
+msgstr "恐怖コウモリ"
 
 #. [unit_type]: id=I8 Dread Bat, race=bats
 #: Era_of_Magic/units/Warlocks/I8Dread_Bat.cfg:19
@@ -4011,7 +4011,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Assassin, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:4
 msgid "Dark Assassin"
-msgstr ""
+msgstr "闇の暗殺者"
 
 #. [unit_type]: id=I8 Tharis_Assassin, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Assassin.cfg:21
@@ -4032,7 +4032,7 @@ msgstr "ナイフ"
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:4
 msgid "Bladedancer"
-msgstr ""
+msgstr "ブレードダンサー"
 
 #. [unit_type]: id=I8 Tharis_Bladedancer, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Bladedancer.cfg:19
@@ -4046,7 +4046,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Blademaster, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Blademaster.cfg:4
 msgid "Blademaster"
-msgstr ""
+msgstr "ブレードマスター"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:118
@@ -4058,7 +4058,7 @@ msgstr "ダガー"
 #. [unit_type]: id=I8 Tharis_Chaoshydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:4
 msgid "Chaos Hydra"
-msgstr ""
+msgstr "カオスヒドラ"
 
 #. [unit_type]: id=I8 Tharis_Chaoshydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:18
@@ -4083,7 +4083,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:4
 msgid "Cold Matriarch"
-msgstr ""
+msgstr "氷の女支配者"
 
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:19
@@ -4095,22 +4095,22 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:84
 msgid "matriarch-fire"
-msgstr ""
+msgstr "女支配者の炎"
 
 #. [unit_type]: id=I8 Tharis_Commander, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Commander.cfg:4
 msgid "Commander"
-msgstr ""
+msgstr "司令官"
 
 #. [unit_type]: id=I8 Tharis_Darkwarrior, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_DWarrior.cfg:4
 msgid "Dark Warrior"
-msgstr ""
+msgstr "闇の闘士"
 
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:4
 msgid "Dark Wizard"
-msgstr ""
+msgstr "闇の魔術師"
 
 #. [unit_type]: id=I8 Tharis_Darkwizard, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Darkwizard.cfg:18
@@ -4128,17 +4128,17 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Deephydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:4
 msgid "Raging Hydra"
-msgstr ""
+msgstr "怒り狂うヒドラ"
 
 #. [unit_type]: id=I8 Tharis_Deephydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:17
 msgid "Raging Hydra is very powerful because of its attack power."
-msgstr ""
+msgstr "怒り狂うヒドラは力強い攻撃をもっているため、非常に強力です。"
 
 #. [unit_type]: id=I8 Tharis_Disciple, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:4
 msgid "Disciple"
-msgstr ""
+msgstr "見習い"
 
 #. [unit_type]: id=I8 Tharis_Disciple, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:18
@@ -4150,17 +4150,17 @@ msgstr ""
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_Disciple.cfg:49
 msgid "shadow wave"
-msgstr ""
+msgstr "闇の波動"
 
 #. [unit_type]: id=I8 Tharis_Commander_in_chief, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_General.cfg:4
 msgid "General"
-msgstr ""
+msgstr "将軍"
 
 #. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:4
 msgid "Great Hunter"
-msgstr ""
+msgstr "大狩人"
 
 #. [unit_type]: id=I8 Tharis_GreatHunter, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_GreatHunter.cfg:18
@@ -4170,7 +4170,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:4
 msgid "Great Warlock"
-msgstr ""
+msgstr "大魔道士"
 
 #. [unit_type]: id=I8 Tharis_Greatwarlock, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Greatwarlock.cfg:18
@@ -4194,12 +4194,12 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Hunter, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Hunter.cfg:4
 msgid "Dark Hunter"
-msgstr ""
+msgstr "闇の狩人"
 
 #. [unit_type]: id=I8 Tharis_Hydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:4
 msgid "Hydra"
-msgstr ""
+msgstr "ヒドラ"
 
 #. [unit_type]: id=I8 Tharis_Hydra, race=monster
 #: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:17
@@ -4211,7 +4211,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:4
 msgid "Master of Darkness"
-msgstr ""
+msgstr "闇の支配者"
 
 #. [unit_type]: id=I8 Tharis_Masterofdarkness, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofdarkness.cfg:18
@@ -4229,12 +4229,12 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Masterofwar, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Masterofwar.cfg:4
 msgid "Master of War"
-msgstr ""
+msgstr "戦の支配者"
 
 #. [unit_type]: id=I8 Tharis_Matriarch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:4
 msgid "Matriarch of Emptiness"
-msgstr ""
+msgstr "空虚の女支配者"
 
 #. [unit_type]: id=I8 Tharis_Matriarch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Matriarch.cfg:18
@@ -4246,7 +4246,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:4
 msgid "Matriarch of Darkness"
-msgstr ""
+msgstr "闇の女主人"
 
 #. [unit_type]: id=I8 Tharis_Shadowmatriarch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:20
@@ -4261,7 +4261,7 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:37
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:72
 msgid "witch-fire"
-msgstr ""
+msgstr "魔女の炎"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowMatriarch.cfg:50
@@ -4271,7 +4271,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:4
 msgid "Dark Witch"
-msgstr ""
+msgstr "闇の魔女"
 
 #. [unit_type]: id=I8 Tharis_Shadowwitch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ShadowWitch.cfg:18
@@ -4288,7 +4288,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Slayer, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Slayer.cfg:4
 msgid "Dark Slayer"
-msgstr ""
+msgstr "闇の殺戮者"
 
 #. [unit_type]: id=I8 Tharis_Sworddancer, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Sworddancer.cfg:4
@@ -4298,7 +4298,7 @@ msgstr ""
 #. [unit_type]: id=I8 Tharis_Witch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:4
 msgid "Witch"
-msgstr ""
+msgstr "魔女"
 
 #. [unit_type]: id=I8 Tharis_Witch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_Witch.cfg:18
@@ -4336,12 +4336,12 @@ msgstr ""
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:67 Era_of_Magic/units/units.cfg:69
 msgid "race^human"
-msgstr ""
+msgstr "人間族"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:68
 msgid "race+female^human"
-msgstr ""
+msgstr "人間族"
 
 #. [race]: id=akhuman, description=
 #: Era_of_Magic/units/units.cfg:72 Era_of_Magic/units/units.cfg:73
@@ -4351,3 +4351,7 @@ msgid ""
 "Yusuf,Ahmed,Najib,Samir,Hassan,Hisham,Karim,Saif,Rahul,Rohan,Rohit,Nikhil,"
 "Shahrukh,Krishi"
 msgstr ""
+"Alib,Kalib,Balib,Safay,Jaffar,Semir,Celal,Fatih,Ferhan,Mustafa,Mehmet,Melih,"
+"Ali,Adem,Ahmet,Altan,Ismet,Ibrahim,Hakan,Kemal,Kenan,Rafet,Tahir,Yasar,Yasin,"
+"Yusuf,Ahmed,Najib,Samir,Hassan,Hisham,Karim,Saif,Rahul,Rohan,Rohit,Nikhil,"
+"Shahrukh,Krishi"
