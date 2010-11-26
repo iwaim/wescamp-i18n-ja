@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-11-27 01:19+0900\n"
+"PO-Revision-Date: 2010-11-27 01:47+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -1464,7 +1464,7 @@ msgstr ""
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollFireWizard.cfg:43
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:81
 msgid "flame blast"
-msgstr ""
+msgstr "炎の爆発"
 
 #. [unit_type]: id=I8 Barbarian_TrollSorcerer, race=troll
 #: Era_of_Magic/units/Barbarians/Barbarian_TrollSorcerer.cfg:4
@@ -1653,7 +1653,7 @@ msgstr "沼地の魔術師"
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:106
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:209
 msgid "fireball"
-msgstr ""
+msgstr "火の玉"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Darkblood/DB_DamnedShaman.cfg:102
@@ -1942,7 +1942,7 @@ msgstr ""
 #. [unit_type]: id=I8 DeadlyEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:4
 msgid "Deadly Eye"
-msgstr ""
+msgstr "致死の目"
 
 #. [unit_type]: id=I8 DeadlyEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_DeadlyEye.cfg:17
@@ -2075,18 +2075,18 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:141
 msgid "short-circuit"
-msgstr ""
+msgstr "短絡"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:171
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:150
 msgid "sparks"
-msgstr ""
+msgstr "火花"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Air.cfg:162
 msgid "small lightning"
-msgstr ""
+msgstr "小さな稲妻"
 
 #. [unit_type]: id=I8 enlightened_mage_of_fire, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:4
@@ -2103,13 +2103,13 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:85
 msgid "fire blast"
-msgstr ""
+msgstr "炎の爆発"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Fire.cfg:94
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:197
 msgid "flames"
-msgstr ""
+msgstr "火炎"
 
 #. [unit_type]: id=I8 enlightened_mage_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:4
@@ -2127,7 +2127,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:133
 msgid "water blast"
-msgstr ""
+msgstr "水の爆発"
 
 #. [attack]: type=cold
 #. [attack]: type=pierce
@@ -2136,7 +2136,7 @@ msgstr ""
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:121
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:145
 msgid "icecles"
-msgstr ""
+msgstr "氷弾"
 
 #. [attack]: type=impact
 #. [attack]: type=cold
@@ -2145,12 +2145,12 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:244
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mage_Of_Water.cfg:158
 msgid "waterspray"
-msgstr ""
+msgstr "水の噴出"
 
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:4
 msgid "Magical Eye"
-msgstr ""
+msgstr "魔法の目"
 
 #. [unit_type]: id=I8 MagicalEye, race=mechanical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MagicalEye.cfg:17
@@ -2182,13 +2182,13 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:63
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:183
 msgid "thunder"
-msgstr ""
+msgstr "稲妻"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:145
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Air.cfg:195
 msgid "eye of the storm"
-msgstr ""
+msgstr "嵐の目"
 
 #. [unit_type]: id=I8 enlightened_master_of_fire, race=I8 magical
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:4
@@ -2209,12 +2209,12 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_God_Fire.cfg:124
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:188
 msgid "burning fist"
-msgstr ""
+msgstr "燃え盛る拳"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Fire.cfg:220
 msgid "inferno"
-msgstr ""
+msgstr "猛火"
 
 #. [unit_type]: id=I8 enlightened_master_of_water, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:4
@@ -2236,17 +2236,17 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Water.cfg:232
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:89
 msgid "frozen fist"
-msgstr ""
+msgstr "氷の拳"
 
 #. [attack]: type=cold
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:114
 msgid "ice strike"
-msgstr ""
+msgstr "氷塊"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Master_Of_Water.cfg:127
 msgid "bubble"
-msgstr ""
+msgstr "水泡"
 
 #. [unit_type]: id=I8 enlightened_mastermage, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:4
@@ -3028,7 +3028,7 @@ msgstr "ルーンマスター"
 #. [unit_type]: id=I8 AD_maRuneSmith, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneSmith.cfg:4
 msgid "Runesmith"
-msgstr ""
+msgstr "ルーンスミス"
 
 #. [unit_type]: id=I8 AD_RuneWarrior, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_RuneWarrior.cfg:4
@@ -4317,12 +4317,12 @@ msgstr ""
 #. [race]: id=I8 magical
 #: Era_of_Magic/units/units.cfg:32
 msgid "race^Magical"
-msgstr ""
+msgstr "魔法生物"
 
 #. [race]: id=I8 magical
 #: Era_of_Magic/units/units.cfg:33
 msgid "race+plural^Magical"
-msgstr ""
+msgstr "魔法生物"
 
 #. [trait]: id=magical
 #: Era_of_Magic/units/units.cfg:41
