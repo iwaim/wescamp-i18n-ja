@@ -6,13 +6,13 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-04 12:03+0900\n"
+"PO-Revision-Date: 2010-12-04 13:19+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
-"Language: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: Japanese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [multiplayer_side]: id=Random
@@ -69,7 +69,7 @@ msgstr ""
 #. [regenerate]: id=water
 #: Era_of_Magic/abilities.cfg:11
 msgid "waterhome"
-msgstr ""
+msgstr "水に住むもの"
 
 #. [regenerate]: id=water
 #: Era_of_Magic/abilities.cfg:13
@@ -77,6 +77,9 @@ msgid ""
 "waterhome:\n"
 "This unit is made of water. If it stands in water, it will receive 6 hp."
 msgstr ""
+"水に住むもの:\n"
+"このユニットは水から作られました。そのため、水の中ではヒットポイントが 6 回復"
+"します。"
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/abilities.cfg:28
@@ -96,7 +99,7 @@ msgstr ""
 #. [regenerate]: id=fire
 #: Era_of_Magic/abilities.cfg:31
 msgid "lavahome"
-msgstr ""
+msgstr "溶岩に住むもの"
 
 #. [regenerate]: id=fire
 #: Era_of_Magic/abilities.cfg:33
@@ -104,6 +107,9 @@ msgid ""
 "lavahome:\n"
 "This unit is made of fire. If it stands in lava, it will recive 6 hp."
 msgstr ""
+"溶岩に住むもの:\n"
+"このユニットは火から作られました。そのため、溶岩の中ではヒットポイントが 6 回"
+"復します。"
 
 #. [regenerate]: id=healing
 #: Era_of_Magic/abilities.cfg:48
@@ -338,7 +344,15 @@ msgid ""
 "if they have units next to it. Any enemy unit that first discovers this unit "
 "immediately loses all its remaining movement."
 msgstr ""
+"伏兵（山）:\n"
+"このユニットは山や丘に隠れることができます。そのため、山や丘にいれば敵に見つ"
+"かることはありません。\n"
+"\n"
+"このユニットが山や丘にいるときは、敵のユニットはこのユニットの隣にいる場合以"
+"外は、このユニットを見つけることはできません。このユニットを初めて見つけた敵"
+"ユニットは、それ以上移動することはできません。"
 
+# [ja] たぶんゴミ
 #: Era_of_Magic/abilities.cfg:399
 msgid ""
 "Ambush:\n"
@@ -427,6 +441,11 @@ msgid ""
 "\n"
 "A unit cared for by this healer may heal up to 5 HP per turn."
 msgstr ""
+"修理 +5:\n"
+"このユニットはターン開始時に隣接した友好的な機械ユニットを修理することができ"
+"ます。\n"
+"\n"
+"このユニットは毎ターン 5 HP 回復させることができます。"
 
 #: Era_of_Magic/abilities.cfg:706
 msgid "Repairs +8"
@@ -440,6 +459,11 @@ msgid ""
 "\n"
 "A unit cared for by this healer may heal up to 8 HP per turn."
 msgstr ""
+"修理 +8:\n"
+"このユニットはターン開始時に隣接した友好的な機械ユニットを修理することができ"
+"ます。\n"
+"\n"
+"このユニットは毎ターン 5 HP 回復させることができます。"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/abilities.cfg:754 Era_of_Magic/abilities.cfg:755
@@ -526,7 +550,15 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
+"伏兵（沼地）:\n"
+"このユニットは沼地に隠れることができます。そのため、沼地にいれば敵に見つかる"
+"ことはありません。\n"
+"\n"
+"このユニットが沼地にいるときは、敵のユニットはこのユニットの隣にいる場合以外"
+"は、このユニットを見つけることはできません。このユニットを初めて見つけた敵ユ"
+"ニットは、それ以上移動することはできません。"
 
+# [ja] たぶんゴミ
 #: Era_of_Magic/abilities.cfg:971
 msgid ""
 "Ambush:\n"
@@ -539,7 +571,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:984 Era_of_Magic/abilities.cfg:985
 msgid "water ambush"
-msgstr ""
+msgstr "伏兵（水）"
 
 #: Era_of_Magic/abilities.cfg:989
 msgid ""
@@ -550,7 +582,15 @@ msgid ""
 "units next to it. Any enemy unit that first discovers this unit immediately "
 "loses all its remaining movement."
 msgstr ""
+"伏兵（水）:\n"
+"このユニットは水に隠れることができます。そのため、水の中にいれば敵に見つかる"
+"ことはありません。\n"
+"\n"
+"このユニットが水の中にいるときは、敵のユニットはこのユニットの隣にいる場合以"
+"外は、このユニットを見つけることはできません。このユニットを初めて見つけた敵"
+"ユニットは、それ以上移動することはできません。"
 
+# [ja] たぶんゴミ
 #: Era_of_Magic/abilities.cfg:993
 msgid ""
 "Ambush:\n"
@@ -566,7 +606,6 @@ msgid "cave ambush"
 msgstr "伏兵（洞窟）"
 
 #: Era_of_Magic/abilities.cfg:1011
-#, fuzzy
 msgid ""
 "Cave Ambush:\n"
 "This unit can hide in cave, and remain undetected by its enemies.\n"
@@ -576,11 +615,12 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 "伏兵（洞窟）:\n"
-"This unit can hide in cave, and remain undetected by its enemies.\n"
+"このユニットは洞窟に隠れることができます。そのため、洞窟にいれば敵に見つかる"
+"ことはありません。\n"
 "\n"
-"Enemy units cannot see this unit while it is in cave, except if they have "
-"units next to it. Any enemy unit that first discovers this unit immediately "
-"loses all its remaining movement."
+"このユニットが洞窟にいるときは、敵のユニットはこのユニットの隣にいる場合以外"
+"は、このユニットを見つけることはできません。このユニットを初めて見つけた敵ユ"
+"ニットは、それ以上移動することはできません。"
 
 #: Era_of_Magic/abilities.cfg:1015
 msgid ""
