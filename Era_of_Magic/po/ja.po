@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-04 17:07+0900\n"
+"PO-Revision-Date: 2010-12-04 23:03+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "MIME-Version: 1.0\n"
@@ -1923,7 +1923,7 @@ msgstr ""
 #: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:43
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:146
 msgid "tackle"
-msgstr "タックル"
+msgstr "体当たり"
 
 #. [unit_type]: id=I8_DB_WyvernChaos, race=monster
 #: Era_of_Magic/units/Darkblood/DB_WyvernChaos.cfg:4
@@ -3454,13 +3454,13 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:135
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:134
 msgid "devine spear"
-msgstr ""
+msgstr "神の槍"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Summoners/AlKamija_DharmaRhami.cfg:158
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiDatu.cfg:143
 msgid "cup of fire"
-msgstr ""
+msgstr "炎の杯"
 
 #. [unit_type]: id=I8 Ak_Dispeller, race=akhuman
 #: Era_of_Magic/units/Summoners/AlKamija_Dispeller.cfg:4
@@ -3790,18 +3790,18 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:123
 msgid "double devine spear"
-msgstr ""
+msgstr "神の槍 x2"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:136
 msgid "double divine spear"
-msgstr ""
+msgstr "神の槍 x2"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_RhamiKai.cfg:147
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:148
 msgid "gaze"
-msgstr ""
+msgstr "凝視"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Summoners/AlKamija_HoRhami.cfg:161
