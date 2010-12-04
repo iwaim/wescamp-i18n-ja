@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-04 23:03+0900\n"
+"PO-Revision-Date: 2010-12-05 02:24+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Magic/abilities.cfg:48
 msgid "megacircle"
-msgstr ""
+msgstr "大魔法陣"
 
 #. [regenerate]: id=healing
 #: Era_of_Magic/abilities.cfg:50
@@ -124,6 +124,10 @@ msgid ""
 "friendly units fight better (+125%, +100%, +75%, +50%, +25% - lvl 0, 1, 2, "
 "3, 4) and regenerate themselves."
 msgstr ""
+"大魔法陣:\n"
+"このユニットは、中にいる全てのユニットに影響を与える強力な魔法陣を持っていま"
+"す。全ての友好的なユニットは効果的に戦う  (+125%, +100%, +75%, +50%, +25% - "
+"lvl 0, 1, 2, 3, 4) ことができるようになり、抵抗力も向上します。"
 
 #. [chance_to_hit]: id=circle
 #: Era_of_Magic/abilities.cfg:139
@@ -3541,7 +3545,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Magic/units/Summoners/AlKamija_EfreetiGreat.cfg:128
 msgid "destruction"
-msgstr ""
+msgstr "破壊"
 
 #. [unit_type]: id=I8 Ak_Elemental_air, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:4
@@ -3893,7 +3897,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Mystic.cfg:258
 msgid "dimensional vortex"
-msgstr ""
+msgstr "次元の渦"
 
 #. [unit_type]: id=I8 Ak_Jinn_Wonderful, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Jinn_Wonderful.cfg:4
