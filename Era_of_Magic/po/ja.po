@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-04 13:19+0900\n"
+"PO-Revision-Date: 2010-12-04 17:07+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "MIME-Version: 1.0\n"
@@ -1624,12 +1624,12 @@ msgstr "ブラックサラマンダー"
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:88
 #: Era_of_Magic/units/Darkblood/DB_GreenSalamander.cfg:53
 msgid "wrist blade"
-msgstr ""
+msgstr "リストブレード"
 
 #. [attack]: type=blade
 #: Era_of_Magic/units/Darkblood/DB_BlackSalamander.cfg:65
 msgid "throwing knives"
-msgstr ""
+msgstr "投げナイフ"
 
 #. [unit_type]: id=I8_DB_SalamanderBlue, race=I8 salamander
 #: Era_of_Magic/units/Darkblood/DB_BlueSalamander.cfg:4
@@ -2127,7 +2127,7 @@ msgstr "魔力の接触"
 #. [attack]: type=impact
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Guru.cfg:154
 msgid "landmass"
-msgstr ""
+msgstr "陸塊"
 
 #. [unit_type]: id=I8 enlightened_HiddenFace, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_HiddenFace.cfg:4
@@ -2351,12 +2351,12 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:71
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:113
 msgid "light touch"
-msgstr ""
+msgstr "光の接触"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_Mastermage.cfg:149
 msgid "lightning"
-msgstr ""
+msgstr "雷"
 
 #. [unit_type]: id=I8 enlightened_masterofelements, race=human
 #: Era_of_Magic/units/Enlightened_Ones/Enlightened_MasterofElements.cfg:4
