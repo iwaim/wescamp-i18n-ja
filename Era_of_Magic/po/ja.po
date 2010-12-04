@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-05 02:24+0900\n"
+"PO-Revision-Date: 2010-12-05 05:44+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "MIME-Version: 1.0\n"
@@ -415,23 +415,27 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:648
 msgid "Hard landing"
-msgstr ""
+msgstr "墜落"
 
 #: Era_of_Magic/abilities.cfg:649
 msgid ""
 "Hard landing: When this large unit is destroyed, it falls on a ground "
 "dealing damage to all adjecent units. "
 msgstr ""
+"墜落: この大きなユニットが破壊されてしまったとき、地面に墜落して全ての隣接ユ"
+"ニットに損傷を与えます。"
 
 #: Era_of_Magic/abilities.cfg:656
 msgid "Parachute"
-msgstr ""
+msgstr "落下傘"
 
 #: Era_of_Magic/abilities.cfg:657
 msgid ""
 "Parachute: The pilot of this machine is equipped with parachute and he can "
 "survive a destruction of his vehicle."
 msgstr ""
+"落下傘: この機械の操縦士は落下傘を備えています。そのため、乗り物が破壊されて"
+"しまったとしても脱出することが可能です。"
 
 #: Era_of_Magic/abilities.cfg:685
 msgid "Repairs +5"
@@ -746,6 +750,13 @@ msgid ""
 "enemy of the unit with Circle of Banishment engages in combat, its attacks "
 "do less damage (-40% lvl0, -30% lvl1, -15% lvl2, -10% lvl3)."
 msgstr ""
+"追放の魔法陣:\n"
+"このユニットは、隣接する魔法生物ユニットを弱体化させることができます。\n"
+"\n"
+"レベルが低い隣接する敵の魔法生物ユニットは、戦闘で与えるダメージが低下しま"
+"す。このユニットと同じレベルかより低いレベルのとき、追放の魔法陣の影響範囲に"
+"いる敵の魔法生物ユニットは戦闘で与えるダメージが低下 (-40% lvl0, -30% lvl1, -"
+"15% lvl2, -10% lvl3) してしまいます。"
 
 #. [chance_to_hit]: id=i8bloodlust
 #: Era_of_Magic/bloodlust.cfg:5 Era_of_Magic/bloodlust.cfg:6
@@ -1469,7 +1480,7 @@ msgstr "かぎ爪"
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBerserker.cfg:31
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:35
 msgid "berserker frenzy"
-msgstr ""
+msgstr "狂戦"
 
 #. [unit_type]: id=I8 Barbarian_OrcishBloodWarrior, race=orc
 #: Era_of_Magic/units/Barbarians/Barbarian_OrcishBloodWarrior.cfg:4
@@ -2972,19 +2983,19 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:48
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:33
 msgid "saw"
-msgstr ""
+msgstr "ノコギリ"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:57
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:42
 msgid "key"
-msgstr ""
+msgstr "スパナ"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:66
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:51
 msgid "screwdriver"
-msgstr ""
+msgstr "ねじ回し"
 
 #. [unit_type]: id=I8 AD_MD, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_MechanicalDragon.cfg:4
@@ -3006,23 +3017,23 @@ msgstr ""
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:78
 #: Era_of_Magic/units/Runemasters/AD_SM.cfg:300
 msgid "trample"
-msgstr ""
+msgstr "踏みつけ"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:89
 msgid "explosive ammo"
-msgstr ""
+msgstr "火炎弾"
 
 #. [attack]: type=pierce
 #: Era_of_Magic/units/Runemasters/AD_Pacificator.cfg:101
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:100
 msgid "piercing ammo"
-msgstr ""
+msgstr "徹甲弾"
 
 #. [unit_type]: id=I8 AD_Parachutist, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Parachutist.cfg:4
 msgid "Parachutist"
-msgstr ""
+msgstr "落下傘兵"
 
 #. [unit_type]: id=I8 AD_SteamUlfserkerRed, race=mechanical
 #: Era_of_Magic/units/Runemasters/AD_RedUlfserker.cfg:4
@@ -3168,7 +3179,7 @@ msgstr "ドワーフの戦車"
 #. [attack]: type=fire
 #: Era_of_Magic/units/Runemasters/AD_Tank.cfg:88
 msgid "exlosive ammo"
-msgstr ""
+msgstr "火炎弾"
 
 #. [unit_type]: id=I8 AD_rTechnician, race=dwarf
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:4
@@ -4212,14 +4223,14 @@ msgstr ""
 #: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:107
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:77
 msgid "bite"
-msgstr ""
+msgstr "噛みつき"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Warlocks/Tharis_Deep_Hydra.cfg:89
 #: Era_of_Magic/units/Warlocks/Tharis_Hydra.cfg:119
 #: Era_of_Magic/units/Warlocks/Tharis_Chaos_Hydra.cfg:90
 msgid "headbutt"
-msgstr ""
+msgstr "頭突き"
 
 #. [unit_type]: id=I8 Tharis_ColdMatriarch, race=I8 dark elf
 #: Era_of_Magic/units/Warlocks/Tharis_ColdMatriarch.cfg:4
