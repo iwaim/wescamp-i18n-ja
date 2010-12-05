@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-05 09:50+0900\n"
+"PO-Revision-Date: 2010-12-05 13:58+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "MIME-Version: 1.0\n"
@@ -217,7 +217,7 @@ msgstr ""
 #. [resistance]: id=i8protection
 #: Era_of_Magic/abilities.cfg:229
 msgid "defender"
-msgstr ""
+msgstr "擁護"
 
 #. [resistance]: id=i8protection
 #: Era_of_Magic/abilities.cfg:231
@@ -226,6 +226,9 @@ msgid ""
 "Adjacent friendly units receive a +20% bonus to all resistances (up to a "
 "maximum of 40%)."
 msgstr ""
+"擁護:\n"
+"隣接する友好的なユニットは、全ての攻撃型に対する抵抗力が +20% 向上 (最大 "
+"40%) します。"
 
 #. [chance_to_hit]: id=precision
 #: Era_of_Magic/abilities.cfg:246
@@ -291,7 +294,7 @@ msgstr ""
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/abilities.cfg:325
 msgid "revenge"
-msgstr ""
+msgstr "報復"
 
 #. [chance_to_hit]: id=i8revenge
 #: Era_of_Magic/abilities.cfg:327
@@ -299,6 +302,8 @@ msgid ""
 "revenge:\n"
 "The unit has always a 100% chance to hit, during retalitation."
 msgstr ""
+"報復:\n"
+"このユニットの反撃は常に 100% の確率で命中します。"
 
 #. [dummy]: id=i8 kamikaze
 #: Era_of_Magic/abilities.cfg:340
@@ -2792,7 +2797,7 @@ msgstr ""
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:4
 msgid "Protector"
-msgstr "保護者"
+msgstr "保護兵"
 
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:19
@@ -2800,6 +2805,8 @@ msgid ""
 "Protector holds a large towershield. He uses it to protect all adjacent "
 "units. Their resistance increases."
 msgstr ""
+"保護兵は大きなタワーシールドを持っています。彼はそれを使って全ての隣接ユニッ"
+"トを守ります。保護されたユニットは抵抗力が向上します。"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:57
@@ -2810,14 +2817,14 @@ msgstr "盾"
 #. [unit_type]: id=I8 Kharos_SunRevenger, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:4
 msgid "Revenger"
-msgstr "復讐者"
+msgstr "復讐兵"
 
 #. [unit_type]: id=I8 Kharos_SunRevenger, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunRevenger.cfg:19
 msgid ""
 "The Revenger is a heavy tactical defense unit. His retalitation strikes are "
 "always successful."
-msgstr ""
+msgstr "復讐兵は、防御戦術に重要なユニットです。その反撃は常に成功します。"
 
 #. [unit_type]: id=I8 Kharos_SunShielder, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunShielder.cfg:4
@@ -3258,7 +3265,7 @@ msgstr ""
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Air.cfg:51
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:117
 msgid "hurricane"
-msgstr ""
+msgstr "ハリケーン"
 
 #. [unit_type]: id=I8 Ak_Avatar_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Avatar_Earth.cfg:4
@@ -3590,7 +3597,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Air.cfg:129
 msgid "small thunder"
-msgstr ""
+msgstr "小さな稲妻"
 
 #. [unit_type]: id=I8 Ak_Elemental_earth, race=I8 magical
 #: Era_of_Magic/units/Summoners/AlKamija_Elemental_Earth.cfg:4
