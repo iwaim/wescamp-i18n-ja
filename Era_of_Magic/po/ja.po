@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-05 05:44+0900\n"
+"PO-Revision-Date: 2010-12-05 09:50+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "MIME-Version: 1.0\n"
@@ -485,6 +485,8 @@ msgid ""
 "Grenade: When this attack is used, all units adjecent to a target get "
 "damage. Does not work on defense."
 msgstr ""
+"グレネード: 攻撃時にこの攻撃が使われるとき、全ての隣接ユニットはダメージを受"
+"けます。防御時には発生しません。"
 
 #: Era_of_Magic/abilities.cfg:764 Era_of_Magic/abilities.cfg:880
 msgid "Rune Aura"
@@ -687,7 +689,7 @@ msgstr ""
 
 #: Era_of_Magic/abilities.cfg:1330
 msgid "inspire"
-msgstr ""
+msgstr "奮起"
 
 #: Era_of_Magic/abilities.cfg:1335
 msgid ""
@@ -698,6 +700,14 @@ msgid ""
 "Adjacent friendly level 0 units will do 25% more damage in battle.\n"
 "Adjacent friendly level 1 units will do 10% more damage in battle."
 msgstr ""
+"奮起:\n"
+"このユニットは、隣接する友好的なユニットをより良く戦うように奮起させることが"
+"できます。\n"
+"\n"
+"隣接している友好的なレベル 0 のユニットは、戦闘で与えるダメージが 25% 上昇し"
+"ます。\n"
+"隣接している友好的なレベル 1 のユニットは、戦闘で与えるダメージが 10% 上昇し"
+"ます。"
 
 #: Era_of_Magic/abilities.cfg:1364 Era_of_Magic/abilities.cfg:1400
 #: Era_of_Magic/abilities.cfg:1450
@@ -2520,7 +2530,7 @@ msgstr ""
 #: Era_of_Magic/units/Kharos/Kharos_WarbannerKharos.cfg:86
 #: Era_of_Magic/units/Kharos/Kharos_LightAdept.cfg:124
 msgid "lightbeam"
-msgstr ""
+msgstr "光ビーム"
 
 #. [unit_type]: id=I8 Kharos_LightChild, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:4
@@ -2531,7 +2541,7 @@ msgstr "光の使徒"
 #: Era_of_Magic/units/Kharos/Kharos_LightChild.cfg:72
 #: Era_of_Magic/units/Kharos/Kharos_LightSister.cfg:83
 msgid "ray of light"
-msgstr ""
+msgstr "光線"
 
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:4
@@ -2571,7 +2581,7 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:136
 msgid "lightstorm"
-msgstr ""
+msgstr "光の嵐"
 
 #. [unit_type]: id=I8 Kharos_LightProphetoflight, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightProphetoflight.cfg:4
@@ -2864,7 +2874,6 @@ msgstr ""
 
 #. [unit_type]: id=I8 Kharos_WarbannerKharos, race=human
 #: Era_of_Magic/units/Kharos/Kharos_WarbannerKharos.cfg:4
-#, fuzzy
 msgid "Kharos War Banner"
 msgstr "Kharos の戦旗"
 
