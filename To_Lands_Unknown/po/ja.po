@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-12-13 14:57+0100\n"
-"PO-Revision-Date: 2010-12-19 14:51+0900\n"
+"PO-Revision-Date: 2010-12-19 23:32+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "Language: Japanese\n"
@@ -190,13 +190,13 @@ msgstr ""
 
 #: To_Lands_Unknown/macros/macros.cfg:804
 msgid "Should the unit pick up the carpet?"
-msgstr ""
+msgstr "このユニットはカーペットを拾いますか？"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:812
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:175
 msgid "Golden Carpet"
-msgstr ""
+msgstr "黄金の絨毯"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:817
@@ -210,7 +210,7 @@ msgstr ""
 
 #: To_Lands_Unknown/macros/macros.cfg:874
 msgid "Should the unit pick up the cloak?"
-msgstr ""
+msgstr "このユニットは外套を拾いますか？"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:882
@@ -230,13 +230,13 @@ msgstr ""
 
 #: To_Lands_Unknown/macros/macros.cfg:945
 msgid "Should the unit pick up the spear?"
-msgstr ""
+msgstr "このユニットは槍を拾いますか？"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:953
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:359
 msgid "Spear of Rhami"
-msgstr ""
+msgstr "Rhami の槍"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:958
@@ -248,16 +248,20 @@ msgid ""
 "Advances the unit\n"
 "Increases the attack by 20%"
 msgstr ""
+"深淵からの光によって力を得たこの武器は、Rhami'kaiと呼ばれる魔法生物に装備され"
+"ているものの一つです。古えの人はこの槍を盗み出し、魔法の力を付与しました。\n"
+"ユニットを進化させます。\n"
+"攻撃を 20% 強くします。"
 
 #: To_Lands_Unknown/macros/macros.cfg:1025
 msgid "Should the unit pick up the collar?"
-msgstr ""
+msgstr "このユニットは首飾りを拾いますか？"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:1033
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:405
 msgid "Collar of Recall"
-msgstr ""
+msgstr "召喚の首飾り"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:1039
@@ -270,12 +274,17 @@ msgid ""
 "After each recall the unit is getting stronger\n"
 "The unit can be recalled only 3 times. After that it dies for sure."
 msgstr ""
+"古えの人によって作られた傑作であり、伝説的なアーティファクトです。昔々、魔法"
+"の力を付与したこの首飾りは、死んだ後に召喚することができました。\n"
+"このユニットはリーダーによって再び呼び戻されます。\n"
+"呼び戻された後は以前よりも強くなっています。\n"
+"このユニットは 3回だけ再召喚することができます。それ以降は死んでしまいます。"
 
 #. [value]: id=collar
 #: To_Lands_Unknown/macros/macros.cfg:1047
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:423
 msgid "collar"
-msgstr ""
+msgstr "首飾り"
 
 #. [value]: id=collar
 #: To_Lands_Unknown/macros/macros.cfg:1048
@@ -283,10 +292,12 @@ msgstr ""
 msgid ""
 "After death the unit is recalled back to leader. Activates only 3 times."
 msgstr ""
+"このユニットが死んだ後、リーダーは再召喚することができます。効果は 3回だけで"
+"す。"
 
 #: To_Lands_Unknown/macros/macros.cfg:1106
 msgid "Should the unit pick up the amulet?"
-msgstr ""
+msgstr "このユニットは魔除けを拾いますか？"
 
 #. [object]
 #: To_Lands_Unknown/macros/macros.cfg:1114
@@ -1224,7 +1235,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:177
 #: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:72
 msgid "Barbarians"
-msgstr ""
+msgstr "バーバリアン"
 
 #. [side]: type=I8 Barbarian_GreatBarbarian, id=Broghur
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:182
@@ -2011,12 +2022,12 @@ msgstr ""
 #. [message]: type=I8 Ak_DharmaRhami
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:168
 msgid "...MUST DIE!!!"
-msgstr ""
+msgstr "……死すべし！！！"
 
 #. [scenario]: id=07_Kagatta
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:173
 msgid "Only the carpet rider can use this item!"
-msgstr ""
+msgstr "このアイテムはカーペットの乗り手にしか使えません！"
 
 #. [scenario]: id=07_Kagatta
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:173
@@ -2036,7 +2047,7 @@ msgstr "200 ゴールド"
 #. [scenario]: id=07_Kagatta
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:230
 msgid "Should $unit.name pick up the cloak?"
-msgstr "$unit.name はクロークを拾いますか？"
+msgstr "$unit.name は外套を拾いますか？"
 
 #. [scenario]: id=07_Kagatta
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:230
@@ -2046,7 +2057,7 @@ msgstr "このアイテムはラクダの乗り手にしか使えません！"
 #. [scenario]: id=07_Kagatta
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:259
 msgid "Should $unit.name pick up the cap?"
-msgstr ""
+msgstr "$unit.name は帽子を拾いますか？"
 
 #. [object]
 #: To_Lands_Unknown/scenarios/07_Kagatta.cfg:261
