@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-11-13 02:10+0100\n"
-"PO-Revision-Date: 2010-12-21 23:26+0900\n"
+"PO-Revision-Date: 2010-12-21 23:51+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
 "Language: Japanese\n"
@@ -2557,6 +2557,7 @@ msgstr "光線"
 msgid "Cleric"
 msgstr "牧師"
 
+# [ja] 能力を踏まえて意訳
 #. [unit_type]: id=I8 Kharos_LightCleric, race=human
 #: Era_of_Magic/units/Kharos/Kharos_LightCleric.cfg:19
 msgid ""
@@ -2565,6 +2566,10 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"このユニットは白魔術師ほど強力な魔法は持ちませんが、攻撃回数は多くなっていま"
+"す。牧師は他のユニットを癒し、統率します。\n"
+"\n"
+"特記事項:"
 
 # [ja] 意訳
 #. [unit_type]: id=I8 Kharos_LightInspired, race=human
@@ -2586,6 +2591,11 @@ msgid ""
 "Special Notes: Ultracures: A unit cared for by this healer may heal up to 12 "
 "HP per turn."
 msgstr ""
+"光の支配者は極めて強力な癒し手です。近くにいるすべての友好的なユニットはヒッ"
+"トポイントが 12 回復します。彼女は飛行し、辺りを照らします。\n"
+"\n"
+"特記事項: 超回復: このユニットは隣接した友好的なユニットをターン開始時に回復"
+"させます。"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_LightMistressoflight.cfg:136
