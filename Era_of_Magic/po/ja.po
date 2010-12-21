@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-10-03 12:37+0200\n"
-"PO-Revision-Date: 2010-12-05 13:58+0900\n"
+"POT-Creation-Date: 2010-11-13 02:10+0100\n"
+"PO-Revision-Date: 2010-12-21 23:26+0900\n"
 "Last-Translator: IWAI, Masaharu <iwaim.sub@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
+"Language: Japanese\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: Japanese\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. [multiplayer_side]: id=Random
@@ -180,6 +180,9 @@ msgid ""
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
+"忌避:\n"
+"攻撃時にこの攻撃を選ぶと、このユニットは反撃のダメージを 1/3 に減少することが"
+"できます。"
 
 #. [leadership]: id=darkaura
 #: Era_of_Magic/abilities.cfg:184
@@ -292,12 +295,12 @@ msgstr ""
 "の冷気魔法はこの空間では非常に強力となります。"
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/abilities.cfg:325
+#: Era_of_Magic/abilities.cfg:325 Era_of_Magic/abilities.cfg:328
 msgid "revenge"
 msgstr "報復"
 
 #. [chance_to_hit]: id=i8revenge
-#: Era_of_Magic/abilities.cfg:327
+#: Era_of_Magic/abilities.cfg:327 Era_of_Magic/abilities.cfg:330
 msgid ""
 "revenge:\n"
 "The unit has always a 100% chance to hit, during retalitation."
@@ -306,12 +309,12 @@ msgstr ""
 "このユニットの反撃は常に 100% の確率で命中します。"
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/abilities.cfg:340
+#: Era_of_Magic/abilities.cfg:343
 msgid "kamikaze"
 msgstr "カミカゼ"
 
 #. [dummy]: id=i8 kamikaze
-#: Era_of_Magic/abilities.cfg:341
+#: Era_of_Magic/abilities.cfg:344
 msgid ""
 "Kamikaze: this unit always hits a target when attacking, but it dies "
 "instantly."
@@ -319,11 +322,11 @@ msgstr ""
 "カミカゼ: このユニットが攻撃するとき、必ず命中します。しかし、直ちに死んでし"
 "まいます。"
 
-#: Era_of_Magic/abilities.cfg:364
+#: Era_of_Magic/abilities.cfg:367
 msgid "Hit and Run"
 msgstr "ヒットエンドラン"
 
-#: Era_of_Magic/abilities.cfg:366
+#: Era_of_Magic/abilities.cfg:369
 msgid ""
 "Hit and Run:\n"
 "This unit gains 3 moves back after attacking, but cannot attack again."
@@ -331,19 +334,19 @@ msgstr ""
 "ヒットエンドラン:\n"
 "このユニットは攻撃した後に移動力を 3 得ます。再度攻撃することはできません。"
 
-#: Era_of_Magic/abilities.cfg:380
+#: Era_of_Magic/abilities.cfg:383
 msgid "FLEE!"
 msgstr "再移動！"
 
-#: Era_of_Magic/abilities.cfg:390
+#: Era_of_Magic/abilities.cfg:393
 msgid "mountain ambush"
 msgstr "伏兵（山）"
 
-#: Era_of_Magic/abilities.cfg:391
+#: Era_of_Magic/abilities.cfg:394
 msgid " mountain ambush"
 msgstr "伏兵（山）"
 
-#: Era_of_Magic/abilities.cfg:395
+#: Era_of_Magic/abilities.cfg:398
 msgid ""
 "Mountain Ambush:\n"
 "This unit can hide in mountains and hills, and remain undetected by its "
@@ -362,7 +365,7 @@ msgstr ""
 "ユニットは、それ以上移動することはできません。"
 
 # [ja] たぶんゴミ
-#: Era_of_Magic/abilities.cfg:399
+#: Era_of_Magic/abilities.cfg:402
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -372,11 +375,11 @@ msgid ""
 "immediately loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:417
+#: Era_of_Magic/abilities.cfg:420
 msgid "Fury"
 msgstr "激怒"
 
-#: Era_of_Magic/abilities.cfg:419
+#: Era_of_Magic/abilities.cfg:422
 msgid ""
 "Fury:\n"
 "This unit can attack another after killing an enemy."
@@ -384,15 +387,15 @@ msgstr ""
 "激怒:\n"
 "このユニットは敵を殺した後、別の敵を攻撃することができます。"
 
-#: Era_of_Magic/abilities.cfg:440
+#: Era_of_Magic/abilities.cfg:443
 msgid "FURY!"
 msgstr "激怒！"
 
-#: Era_of_Magic/abilities.cfg:522
+#: Era_of_Magic/abilities.cfg:525
 msgid "Furious death"
 msgstr "死に際の激怒"
 
-#: Era_of_Magic/abilities.cfg:523
+#: Era_of_Magic/abilities.cfg:526
 msgid ""
 "Furious Death: When this unit dies, it flies into a fury. The unit with this "
 "ability atacks all adjecent units and then it finally dies."
@@ -402,27 +405,27 @@ msgstr ""
 "ニットはその時死に至ります。（訳注: バージョン0.10.2をBfW 1.8.5で試したときは"
 "全ての隣接ユニットにダメージを与えるだけでした）"
 
-#: Era_of_Magic/abilities.cfg:537 Era_of_Magic/abilities.cfg:538
+#: Era_of_Magic/abilities.cfg:540 Era_of_Magic/abilities.cfg:541
 msgid "battlefrenzy"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:539
+#: Era_of_Magic/abilities.cfg:542
 msgid ""
 "Battlefrenzy: When this attack is used, this units gets an extra strike and "
 "additional damage (+2) after each successful hit. Does not work on defence."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:540
+#: Era_of_Magic/abilities.cfg:543
 msgid ""
 "Battlefrenzy: This unit gets one extra strike and additional damage (+2) "
 "with each hit during attack. Does not work on defense."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:648
+#: Era_of_Magic/abilities.cfg:651
 msgid "Hard landing"
 msgstr "墜落"
 
-#: Era_of_Magic/abilities.cfg:649
+#: Era_of_Magic/abilities.cfg:652
 msgid ""
 "Hard landing: When this large unit is destroyed, it falls on a ground "
 "dealing damage to all adjecent units. "
@@ -430,11 +433,11 @@ msgstr ""
 "墜落: この大きなユニットが破壊されてしまったとき、地面に墜落して全ての隣接ユ"
 "ニットに損傷を与えます。"
 
-#: Era_of_Magic/abilities.cfg:656
+#: Era_of_Magic/abilities.cfg:659
 msgid "Parachute"
 msgstr "落下傘"
 
-#: Era_of_Magic/abilities.cfg:657
+#: Era_of_Magic/abilities.cfg:660
 msgid ""
 "Parachute: The pilot of this machine is equipped with parachute and he can "
 "survive a destruction of his vehicle."
@@ -442,11 +445,11 @@ msgstr ""
 "落下傘: この機械の操縦士は落下傘を備えています。そのため、乗り物が破壊されて"
 "しまったとしても脱出することが可能です。"
 
-#: Era_of_Magic/abilities.cfg:685
+#: Era_of_Magic/abilities.cfg:688
 msgid "Repairs +5"
 msgstr "修理 +5"
 
-#: Era_of_Magic/abilities.cfg:689
+#: Era_of_Magic/abilities.cfg:692
 msgid ""
 "Repairs +5:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
@@ -460,11 +463,11 @@ msgstr ""
 "\n"
 "このユニットは毎ターン 5 HP 回復させることができます。"
 
-#: Era_of_Magic/abilities.cfg:706
+#: Era_of_Magic/abilities.cfg:709
 msgid "Repairs +8"
 msgstr "修理 +8"
 
-#: Era_of_Magic/abilities.cfg:710
+#: Era_of_Magic/abilities.cfg:713
 msgid ""
 "Repairs +8:\n"
 "Allows the unit to repair adjacent friendly mechanical units at the "
@@ -479,13 +482,13 @@ msgstr ""
 "このユニットは毎ターン 5 HP 回復させることができます。"
 
 #. [attack]: type=pierce
-#: Era_of_Magic/abilities.cfg:754 Era_of_Magic/abilities.cfg:755
+#: Era_of_Magic/abilities.cfg:757 Era_of_Magic/abilities.cfg:758
 #: Era_of_Magic/units/Runemasters/AD_Technician.cfg:84
 #: Era_of_Magic/units/Runemasters/AD_Mechanic.cfg:60
 msgid "grenade"
 msgstr "グレネード"
 
-#: Era_of_Magic/abilities.cfg:756 Era_of_Magic/abilities.cfg:757
+#: Era_of_Magic/abilities.cfg:759 Era_of_Magic/abilities.cfg:760
 msgid ""
 "Grenade: When this attack is used, all units adjecent to a target get "
 "damage. Does not work on defense."
@@ -493,11 +496,11 @@ msgstr ""
 "グレネード: 攻撃時にこの攻撃が使われるとき、全ての隣接ユニットはダメージを受"
 "けます。防御時には発生しません。"
 
-#: Era_of_Magic/abilities.cfg:764 Era_of_Magic/abilities.cfg:880
+#: Era_of_Magic/abilities.cfg:767 Era_of_Magic/abilities.cfg:883
 msgid "Rune Aura"
 msgstr "ルーンオーラ"
 
-#: Era_of_Magic/abilities.cfg:766
+#: Era_of_Magic/abilities.cfg:769
 msgid ""
 "Rune Aura:\n"
 "When this ability is activated, all Rune Masters create special auras. "
@@ -507,27 +510,27 @@ msgid ""
 "unit cannot attack."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:815
+#: Era_of_Magic/abilities.cfg:818
 msgid "Activate Aura (24g)"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:839
+#: Era_of_Magic/abilities.cfg:842
 msgid "Activate aura? (cost: 24g)"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:841
+#: Era_of_Magic/abilities.cfg:844
 msgid "No"
 msgstr "いいえ"
 
-#: Era_of_Magic/abilities.cfg:847
+#: Era_of_Magic/abilities.cfg:850
 msgid "Yes"
 msgstr "はい"
 
-#: Era_of_Magic/abilities.cfg:861
+#: Era_of_Magic/abilities.cfg:864
 msgid "You don't have enough gold to activate the rune aura!"
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:882
+#: Era_of_Magic/abilities.cfg:885
 msgid ""
 "Rune Aura:\n"
 "Adjacent friendly units on hexes: s, ne, nw receive a 99% bonus to fire, "
@@ -535,11 +538,11 @@ msgid ""
 "and arcane resistance."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:907 Era_of_Magic/abilities.cfg:908
+#: Era_of_Magic/abilities.cfg:910 Era_of_Magic/abilities.cfg:911
 msgid "Swallow +4"
 msgstr "飲み込む +4"
 
-#: Era_of_Magic/abilities.cfg:910 Era_of_Magic/abilities.cfg:912
+#: Era_of_Magic/abilities.cfg:913 Era_of_Magic/abilities.cfg:915
 msgid ""
 "Swallow +4:\n"
 "This unit gains 4 hitpoints added to its current health whenever it kills a "
@@ -548,15 +551,15 @@ msgstr ""
 "飲み込む +4:\n"
 "このユニットが生命をもつユニットを殺したとき、ヒットポイントが 4回復します。"
 
-#: Era_of_Magic/abilities.cfg:938
+#: Era_of_Magic/abilities.cfg:941
 msgid "4"
 msgstr "4"
 
-#: Era_of_Magic/abilities.cfg:962 Era_of_Magic/abilities.cfg:963
+#: Era_of_Magic/abilities.cfg:965 Era_of_Magic/abilities.cfg:966
 msgid "swamp ambush"
 msgstr "伏兵（沼地）"
 
-#: Era_of_Magic/abilities.cfg:967
+#: Era_of_Magic/abilities.cfg:970
 msgid ""
 "Swamp Ambush:\n"
 "This unit can hide in swamp, and remain undetected by its enemies.\n"
@@ -574,7 +577,7 @@ msgstr ""
 "ニットは、それ以上移動することはできません。"
 
 # [ja] たぶんゴミ
-#: Era_of_Magic/abilities.cfg:971
+#: Era_of_Magic/abilities.cfg:974
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -584,11 +587,11 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:984 Era_of_Magic/abilities.cfg:985
+#: Era_of_Magic/abilities.cfg:987 Era_of_Magic/abilities.cfg:988
 msgid "water ambush"
 msgstr "伏兵（水）"
 
-#: Era_of_Magic/abilities.cfg:989
+#: Era_of_Magic/abilities.cfg:992
 msgid ""
 "water Ambush:\n"
 "This unit can hide in water, and remain undetected by its enemies.\n"
@@ -606,7 +609,7 @@ msgstr ""
 "ユニットは、それ以上移動することはできません。"
 
 # [ja] たぶんゴミ
-#: Era_of_Magic/abilities.cfg:993
+#: Era_of_Magic/abilities.cfg:996
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -616,11 +619,11 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1006 Era_of_Magic/abilities.cfg:1007
+#: Era_of_Magic/abilities.cfg:1009 Era_of_Magic/abilities.cfg:1010
 msgid "cave ambush"
 msgstr "伏兵（洞窟）"
 
-#: Era_of_Magic/abilities.cfg:1011
+#: Era_of_Magic/abilities.cfg:1014
 msgid ""
 "Cave Ambush:\n"
 "This unit can hide in cave, and remain undetected by its enemies.\n"
@@ -637,7 +640,7 @@ msgstr ""
 "は、このユニットを見つけることはできません。このユニットを初めて見つけた敵ユ"
 "ニットは、それ以上移動することはできません。"
 
-#: Era_of_Magic/abilities.cfg:1015
+#: Era_of_Magic/abilities.cfg:1018
 msgid ""
 "Ambush:\n"
 "This unit can hide in forest, and remain undetected by its enemies.\n"
@@ -647,11 +650,11 @@ msgid ""
 "loses all its remaining movement."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1029 Era_of_Magic/abilities.cfg:1032
+#: Era_of_Magic/abilities.cfg:1032 Era_of_Magic/abilities.cfg:1035
 msgid "regenerates +4"
 msgstr "再生 +4"
 
-#: Era_of_Magic/abilities.cfg:1031 Era_of_Magic/abilities.cfg:1034
+#: Era_of_Magic/abilities.cfg:1034 Era_of_Magic/abilities.cfg:1037
 msgid ""
 "Regenerates +4:\n"
 "At the begining of each turn this unit heals +4 hp. If it is poisoned, it "
@@ -661,11 +664,11 @@ msgstr ""
 "このユニットはターンのはじめにヒットポイントが 4 回復します。毒に冒されている"
 "ときは回復の代わりに解毒されます。"
 
-#: Era_of_Magic/abilities.cfg:1178
+#: Era_of_Magic/abilities.cfg:1181
 msgid "Awake"
 msgstr "復活"
 
-#: Era_of_Magic/abilities.cfg:1179
+#: Era_of_Magic/abilities.cfg:1182
 msgid ""
 "Awake: if a friendly adjacent unit dies, it is resurrected and remains in "
 "battle with one hitpoint. If it dies again (having one hitpoint), it will be "
@@ -675,11 +678,11 @@ msgstr ""
 "復帰します。（ヒットポイント 1 のまま）再び死んでしまうと、更に復活することは"
 "ありません。"
 
-#: Era_of_Magic/abilities.cfg:1312
+#: Era_of_Magic/abilities.cfg:1315
 msgid "Heals +2"
 msgstr "回復 +2"
 
-#: Era_of_Magic/abilities.cfg:1316
+#: Era_of_Magic/abilities.cfg:1319
 msgid ""
 "Heals +2:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each "
@@ -692,11 +695,11 @@ msgstr ""
 "\n"
 "このユニットに治療されるユニットは 1 ターンに最大でHPが 2 回復します。"
 
-#: Era_of_Magic/abilities.cfg:1330
+#: Era_of_Magic/abilities.cfg:1333
 msgid "inspire"
 msgstr "奮起"
 
-#: Era_of_Magic/abilities.cfg:1335
+#: Era_of_Magic/abilities.cfg:1338
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
@@ -714,13 +717,13 @@ msgstr ""
 "隣接している友好的なレベル 1 のユニットは、戦闘で与えるダメージが 10% 上昇し"
 "ます。"
 
-#: Era_of_Magic/abilities.cfg:1364 Era_of_Magic/abilities.cfg:1400
-#: Era_of_Magic/abilities.cfg:1450
+#: Era_of_Magic/abilities.cfg:1367 Era_of_Magic/abilities.cfg:1403
+#: Era_of_Magic/abilities.cfg:1453
 msgid "awe"
 msgstr "畏怖"
 
-#: Era_of_Magic/abilities.cfg:1368 Era_of_Magic/abilities.cfg:1404
-#: Era_of_Magic/abilities.cfg:1454
+#: Era_of_Magic/abilities.cfg:1371 Era_of_Magic/abilities.cfg:1407
+#: Era_of_Magic/abilities.cfg:1457
 msgid ""
 "Awe:\n"
 "This unit can frighten enemy units that are next to it, making them fight "
@@ -732,11 +735,11 @@ msgid ""
 "times the difference in their levels + 15%."
 msgstr ""
 
-#: Era_of_Magic/abilities.cfg:1512 Era_of_Magic/abilities.cfg:1513
+#: Era_of_Magic/abilities.cfg:1515 Era_of_Magic/abilities.cfg:1516
 msgid "banish"
 msgstr "追放"
 
-#: Era_of_Magic/abilities.cfg:1515 Era_of_Magic/abilities.cfg:1517
+#: Era_of_Magic/abilities.cfg:1518 Era_of_Magic/abilities.cfg:1520
 msgid ""
 "banish:\n"
 "If a Banisher hits an enemy magical unit, the enemy will turn into a DG "
@@ -750,11 +753,11 @@ msgstr ""
 "す）。もし、敵のレベルが 2レベル以上低いときには、完全に破壊することができる"
 "でしょう。他の敵にはいかなる効果も与えません。"
 
-#: Era_of_Magic/abilities.cfg:1660
+#: Era_of_Magic/abilities.cfg:1663
 msgid "circle of banishment"
 msgstr "追放の魔法陣"
 
-#: Era_of_Magic/abilities.cfg:1664
+#: Era_of_Magic/abilities.cfg:1667
 msgid ""
 "circle of banishment:\n"
 "This unit can affect enemy magical units that are next to it, making them "
@@ -770,8 +773,8 @@ msgstr ""
 "\n"
 "レベルが低い隣接する敵の魔法生物ユニットは、戦闘で与えるダメージが低下しま"
 "す。このユニットと同じレベルかより低いレベルのとき、追放の魔法陣の影響範囲に"
-"いる敵の魔法生物ユニットは戦闘で与えるダメージが低下 (-40% lvl0, -30% lvl1, -"
-"15% lvl2, -10% lvl3) してしまいます。"
+"いる敵の魔法生物ユニットは戦闘で与えるダメージが低下 (-40% lvl0, -30% lvl1, "
+"-15% lvl2, -10% lvl3) してしまいます。"
 
 #. [chance_to_hit]: id=i8bloodlust
 #: Era_of_Magic/bloodlust.cfg:5 Era_of_Magic/bloodlust.cfg:6
@@ -892,8 +895,8 @@ msgstr "ルーンマスター"
 #: Era_of_Magic/factions/summoners-magic.cfg:4
 #: Era_of_Magic/factions/summoners-masters.cfg:4
 #: Era_of_Magic/factions/summoners-mrpg.cfg:4
-msgid "Summoners"
-msgstr "召喚士"
+msgid "Al-Kamija"
+msgstr ""
 
 #. [multiplayer_side]: id=warlocks_masters, type=I8 Tharis_Greatwarlock
 #. [multiplayer_side]: id=warlocks, type=I8 Tharis_Darkwizard
@@ -992,12 +995,13 @@ msgstr "経験値 $this_unit.level 獲得"
 #. [message]: speaker=narrator
 #: Era_of_Magic/summon.cfg:182
 msgid "Error"
-msgstr ""
+msgstr "エラー"
 
+# [ja] 資金不足などのときにでるエラー
 #. [message]: speaker=narrator
 #: Era_of_Magic/summon.cfg:183
 msgid "I have insufficient materials. I am unable to summon."
-msgstr ""
+msgstr "材料が不足しています。召喚することができません。"
 
 #. [set_menu_item]: id=summon_zhelp
 #: Era_of_Magic/summon.cfg:194
@@ -2617,7 +2621,7 @@ msgstr "茶の闘士"
 #. [unit_type]: id=I8 Kharos_SunBrownwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunBrownwarrior.cfg:18
 msgid "Brown warriors are equipped with a very sharp sword and a mace."
-msgstr ""
+msgstr "茶の闘士は素晴らしい切れ味の剣とメイスを装備しています。"
 
 #. [attack]: type=impact
 #: Era_of_Magic/units/Kharos/Kharos_SunPlatinumwarrior.cfg:38
@@ -2686,6 +2690,8 @@ msgid ""
 "The Sun Follower is a very dangerous unit. His willpower is so high, that he "
 "can negate some agressive spells (30% reduction in spell damage)."
 msgstr ""
+"太陽の信奉者はとても危険なユニットです。その意思の力はとても高く、魔法に対し"
+"て抵抗することができます。（魔法ダメージを 30%減少させます）"
 
 #. [unit_type]: id=I8 Kharos_SunGoldenwarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:4
@@ -2698,18 +2704,20 @@ msgid ""
 "Extremely fast, dangerous and powerful. The Golden warrior can focus the sun "
 "rays, completely burning an enemy."
 msgstr ""
+"非常に素早く、危険で強力です。金の闘士は太陽の光を集束させ、敵を完全に焼き尽"
+"くすことができます。"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:145
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:139
 msgid "white sword"
-msgstr ""
+msgstr "白の剣"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_SunGoldenwarrior.cfg:149
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:237
 msgid "light focusing"
-msgstr ""
+msgstr "光の集束"
 
 #. [unit_type]: id=I8 Kharos_SunGuardian, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunGuardian.cfg:4
@@ -2723,6 +2731,8 @@ msgid ""
 "chosen to protect the most important shrines in the Kharos country (50% "
 "reduction in spell damage)."
 msgstr ""
+"太陽の守護者は信奉者よりも更に強力です。とても強く、Kharos の国で最も重要な神"
+"殿を守る任務についています。（魔法ダメージを 50%減少させます）"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:60
@@ -2743,17 +2753,20 @@ msgid ""
 "spell, which could stop him from reaching an enemy and destroy it with one "
 "single solar beam (70% reduction in spell damage)."
 msgstr ""
+"Kirios は Kharos で最も強力な闘士です。彼は Kharos の軍隊の司令官であり、その"
+"意思の力は驚異的です。彼は敵の到達を妨げ、指向性の太陽光線で破壊することがで"
+"きるため、魔法は使いません。（魔法ダメージを 70%減少させます）"
 
 #. [attack]: type=fire
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:72
 msgid "solar beam"
-msgstr ""
+msgstr "太陽光線"
 
 #. [damage]: id=i8kiriosbeam
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:82
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:83
 msgid "beam"
-msgstr ""
+msgstr "ビーム"
 
 #. [damage]: id=i8kiriosbeam
 #: Era_of_Magic/units/Kharos/Kharos_SunKirios.cfg:85
@@ -2763,12 +2776,15 @@ msgid ""
 "When this attack is used, the attacker can hurt a unit behind his primary "
 "target."
 msgstr ""
+"ビーム:\n"
+"この攻撃は対象の後ろにいるユニットにもダメージを与えます。"
 
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:4
 msgid "Master of Sun"
 msgstr "太陽の支配者"
 
+# [ja] 最後の一文はあえてそのまま訳していない
 #. [unit_type]: id=I8 Kharos_SunMasterofsun, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:18
 msgid ""
@@ -2776,6 +2792,9 @@ msgid ""
 "defend himself. This amazing unit releases huge amounts of sun energy in one "
 "point. This ability allows him to focus the sun rays 6 times on a target."
 msgstr ""
+"太陽の支配者は目の煌きで攻撃します。そのため、敵はうまく身を守ることができま"
+"せん。この驚異的なユニットは大量の太陽エネルギーを1点に集中して放出します。こ"
+"の能力は対象に6回も攻撃します。"
 
 #. [attack]: type=arcane
 #: Era_of_Magic/units/Kharos/Kharos_SunMasterofsun.cfg:225
@@ -2792,7 +2811,7 @@ msgstr "白金の闘士"
 msgid ""
 "Platinum warriors are equipped with a very sharp sword, silver spear and "
 "mace."
-msgstr ""
+msgstr "白金の闘士は素晴らしい切れ味の剣と銀色の槍、メイスを装備しています。"
 
 #. [unit_type]: id=I8 Kharos_SunProtector, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunProtector.cfg:4
@@ -2847,6 +2866,7 @@ msgstr "銀の闘士"
 #: Era_of_Magic/units/Kharos/Kharos_SunSilverwarrior.cfg:18
 msgid "He wears a good armor and is very dangerous because of his skills."
 msgstr ""
+"彼は良い鎧を装備しています。また、素晴らしい技能をもつためとても危険です。"
 
 #. [unit_type]: id=I8 Kharos_SunSlicer, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunSlicer.cfg:4
@@ -2861,7 +2881,7 @@ msgstr "白の闘士"
 #. [unit_type]: id=I8 Kharos_SunWhitewarrior, race=human
 #: Era_of_Magic/units/Kharos/Kharos_SunWhitewarrior.cfg:18
 msgid "White warriors are equipped with a very sharp sword."
-msgstr ""
+msgstr "白の闘士は素晴らしい切れ味の剣を装備しています。"
 
 #. [unit_type]: id=I8 Kharos_Warbanner, race=human
 #: Era_of_Magic/units/Kharos/Kharos_Warbanner.cfg:4
